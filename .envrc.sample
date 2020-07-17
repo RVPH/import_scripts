@@ -1,0 +1,2 @@
+export MONGO_DEV_URI='put a mongodb connection string here'
+export MONGO_PROD_URI='put a mongodb connection string here'

@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<journal>
+    <issue>6</issue>
+    <year>2020</year>
+    <volume>31</volume>
+    <issn>2587-7305</issn>
+    <date>28.06.20</date>
+    <Article>
+        <rubric_ru>актуальная тема</rubric_ru>
+        <doi>10.29296/25877305-2020-06-01</doi>
+        <first_page>5</first_page>
+        <title_ru>Долговременный уход за пожилым человеком: фокус на индивидуальную жизнеспособность</title_ru>
+        <authors_list_ru>
+            <item>А.Н. Ильницкий</item>
+            <item>О.Н. Старцева</item>
+            <item>К.И. Прощаев</item>
+            <item>О.А. Рождественская</item>
+        </authors_list_ru>
+        <authors_info_ru>А.Н. Ильницкий(1), доктор медицинских наук, профессор, О.Н. Старцева(2), кандидат медицинских наук, К.И. Прощаев(1), доктор медицинских наук, профессор, О.А. Рождественская(1), кандидат медицинских наук (1)Академия постдипломного образования Федерального научно-клинического центра специализированных видов медицинской помощи и медицинских технологий Федерального медико-биологического агентства, Москва (2)Ярославский государственный медицинский университет E-mail: startsevaon@yandex.ru</authors_info_ru>
+        <abstract_ru>Авторами представлено обоснование долговременного ухода с позиций индивидуальной жизнеспособности пациентов старших возрастных групп. Оценка жизнеспособности служит важной информацией при оказании социально-медицинской помощи на современном этапе.</abstract_ru>
+        <keywords_ru>
+            <item>геронтология</item>
+            <item>долговременный уход</item>
+            <item>индивидуальная жизнеспособность</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Организация долговременного ухода за гражданами пожилого возраста и инвалидами в городе Москве. М., 2018 [Organizatsiya dolgovremennogo ukhoda za grazhdanami pozhilogo vozrasta i invalidami v gorode Moskve. M., 2018 (in Russ.)]. URL: http://gerontolog.info</item>
+            <item>Об основах охраны здоровья граждан в Российской Федерации: Федеральный закон от 21.11.2011 г. №323-ФЗ. Российская газета. №263, 23.11.2011 [Ob osnovakh okhrany zdorov’ya grazhdan v Rossiiskoi Federatsii: Federal’nyi zakon ot 21.11.2011 g. №323-FZ. Rossiiskaya gazeta. №263, 23.11.2011 (in Russ.)].</item>
+            <item>Об основах социального обслуживания граждан в Российской Федерации: Федеральный закон от 28.12.2013 г. № 442-ФЗ. Российская газета, №295, 30.12.2013 [Ob osnovakh sotsial’nogo obsluzhivaniya grazhdan v Rossiiskoi Federatsii: Federal’nyi zakon ot 28.12.2013 g. № 442-FZ. Rossiiskaya gazeta, №295, 30.12.2013 (in Russ.)].</item>
+            <item>Стратегия действий в интересах граждан старшего поколения в РФ до 2025 года [Электронный ресурс]: Распоряжение Правительства РФ от 05.02.2016 г. №164-р [Strategiya deistvii v interesakh grazhdan starshego pokoleniya v RF do 2025 goda [Elektronnyi resurs]: Rasporyazhenie Pravitel’stva RF ot 05.02.2016 g. №164-р (in Russ.)]. URL: http://base.consultant.ru</item>
+            <item>Ильницкий А.Н., Прощаев К.И. Специализированный гериатрический осмотр. Геронтол журн им. В.Ф. Купревича. 2012; 4–5: 66–84 [Ilnitski A.N., Prashchayeu K.I. Spetsializirovannyi geriatricheskii osmotr. Gerontol zhurn im. V.F. Kuprevicha. 2012; 4–5: 66–84 (in Russ.)].</item>
+            <item>Ильницкий А.Н., Прощаев К.И. Старческая астения (frailty) как концепция современной геронтологии. Геронтология. 2013; 1 (1): 408–12 [Ilnitski A.N., Prashchayeu K.I. Frailty as the concept of modern gerontology. Gerontology. 2013; 1 (1): 408–12 (in Russ.)].</item>
+            <item>Прощаев К.И., Ильницкий А.Н., Павлова Т.В. Синдром старческой астении (frailty) в клинической практике: монография. Белгород: ИД «Белгород» НИУ «БелГУ», 2013; 88 с. [Prashchayeu K.I., Ilnitski A.N., Pavlova T.V. Sindrom starcheskoi astenii (frailty) v klinicheskoi praktike: monografiya. Belgorod: ID «Belgorod» NIU «BelGU», 2013; 88 s. (in Russ.)].</item>
+            <item>Клинические рекомендации по старческой астении. Методические руководства. М., 2018 [Klinicheskie rekomendatsii po starcheskoi astenii. Metodicheskie rukovodstva. M., 2018 (in Russ.)]. URL: http://rgnkc.ru/spetsialistam/metodicheskie-materialy</item>
+            <item>Методические рекомендации по ведению пациентов со старческой астенией для врачей первичного звена здравоохранения. Методические руководства. М., 2016 [Metodicheskie rekomendatsii po vedeniyu patsientov so starcheskoi asteniei dlya vrachei pervichnogo zvena zdravookhraneniya. Metodicheskie rukovodstva. M., 2016 (in Russ.)]. URL: http://rgnkc.ru/spetsialistam/metodicheskie-materialy</item>
+            <item>Ильницкий А.Н., Старцева О.Н., Колпина Л.В. и др. Эйджизм и его преодоление в стационарных учреждениях социального обслуживания: метод. рекомендации. М., Ярославль: Филигрань, 2016; 48 с. [Ilnitski A.N., Startseva O.N., Kolpina L.V. et al. Eidzhizm i ego preodolenie v statsionarnykh uchrezhdeniyakh sotsial’nogo obsluzhivaniya: metod. rekomendatsii. M., Yaroslavl’: Filigran’, 2016; 48 s. (in Russ.)].</item>
+            <item>Прощаев К.И. Терапевтическая среда в домах-интернатах для пожилых граждан и инвалидов: учеб.-метод. пособие. Под ред. К.И. Прощаева. М., Белгород: Белгор. обл. тип., 2012; 172 с. [Prashchayeu K.I. Terapevticheskaya sreda v domakh-internatakh dlya pozhilykh grazhdan i invalidov: ucheb.-metod. posobie. Pod red. K.I. Prashchayeu. M., Belgorod: Belgor. obl. tip., 2012; 172 s. (in Russ.)].</item>
+            <item>Key policy issues in long-term care. Ed. Brodsky J., Habib J., Hirschfeld M.J. World Health Organization collection on long-term care. World Health Organization, 2003; 281p.</item>
+            <item>Monika R., Markus K. The Organization of Formal Long-Term Care for the Elderly: Results from the 21 European Country. Studies in the ANCIEN Project. ENEPRI Research Report №95, 2011; р. 29.</item>
+            <item>Gasior K., Huber M., Lamura G. et al.Facts and Figures on Healthy Ageing and Long-Term Care. Vienna: European Centre for Social Policy Research, 2012; 122 p.</item>
+            <item>Scheil-Adlung X. Global estimates of deficits in long-term care protection for older persons. International Labour Office. Geneva: ILO, 2015; 115 p.</item>
+            <item>Huber M. Long-term care in the context of WHO action plans. Workshop presentation. Prague, 2017; 342 p.</item>
+        </references_ru>
+        <last_page>9</last_page>
+        <title_en>LONG-TERM CARE IN ELDERLY PERSON: FOCUS ON INDIVIDUAL VIABILITY</title_en>
+        <authors_info_en>Professor A. Ilnitski(1), MD; O. Starceva(2), Candidate of Medical Sciences; Professor K. Prashchayeu(1), MD; O. Rozhdestvenskaya(1), Candidate of Medical Sciences (1)Academy of Postgraduate Education under Federal Scientific and Clinical Center for Specialized Medical Assistance and Medical Technologies of the Federal Medical Biological Agency, Moscow (2)Yaroslavl State Medical University</authors_info_en>
+        <abstract_en>In this article the substantiation of long-term care from the standpoint of individual viability in elderly patients is presented. Viability assessment is an important information in the provision of social and medical care at the present stage.</abstract_en>
+        <keywords_en>
+            <item>gerontology</item>
+            <item>long-term care</item>
+            <item>individual viability</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>актуальная тема</rubric_ru>
+        <doi>10.29296/25877305-2020-06-02</doi>
+        <first_page>9</first_page>
+        <title_ru>Когнитивные нарушения у людей старшего возраста: практические аспекты ведения</title_ru>
+        <authors_list_ru>
+            <item>Е.В. Екушева</item>
+            <item>О.В. Зайцева</item>
+            <item>О.В. Кузина</item>
+        </authors_list_ru>
+        <authors_info_ru>Е.В. Екушева(1), доктор медицинских наук, профессор, О.В. Зайцева(2), О.В. Кузина(3) (1)Академия постдипломного образования Федерального научно-клинического центра специализированных видов медицинской помощи и медицинских технологий Федерального медико-биологического агентства, Москва (2)Клиническая больница №1 (Волынская) Управления делами Президента РФ, Москва (3)ООО «Доктор Ост», Челябинск E-mail: ekushevaev@mail.ru</authors_info_ru>
+        <abstract_ru>Проблемы пациентов старших возрастных групп с когнитивными нарушениями представляют непростую задачу для врачей различных специальностей как в плане диагностики, так и подбора эффективной терапии. Далеко не каждое снижение когнитивных функций является неуклонно прогрессирующим и приводит к развитию деменции. Своевременное выявление и назначение патогенетически обоснованной терапии принципиально важно, поскольку способствует функциональному восстановлению церебральных структур и приводит к обратимым последствиям.</abstract_ru>
+        <keywords_ru>
+            <item>гериатрия</item>
+            <item>умеренные когнитивные нарушения</item>
+            <item>деменция</item>
+            <item>пациенты старшего возраста</item>
+            <item>старение</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Rodriguez-Sánchez E., Mora-Simón S., Patino-Alonso M.C. et al. Prevalence of cognitive impairment in individuals aged over 65 in an urban area: DERIVA study. BMC Neurology. 2011; 11: 147. DOI: 10.1186/1471-2377-11-147</item>
+            <item>Dementia. WHO URL: https://www.who.int/ru/news-room/facts-in-pictures/detail/dementia (01.05.2020)</item>
+            <item>Prince M., Bryce R., Albanese E. et al. The global prevalence of dementia: a systematic review and meta-analysis. Alzheimer`s &amp; Dementia. 2013; 9 (1): 63–75. DOI: 10.1016/j.jalz.2012.11.007</item>
+            <item>Екушева Е.В. Когнитивные нарушения – актуальная междисциплинарная проблема. РМЖ. 2018; 12 (1): 32–7 [Ekusheva E.V. Cognitive impairment – relevant interdisciplinary problem. RMJ. 2018; 12 (1): 32–7 (in Russ.)].</item>
+            <item>Farfel J.M., Nitrini R., Suemoto C.K. et al. Very low levels of education and cognitive reserve: A clinicopathologic study. Neurology. 2013; 81: 650–7. DOI: 10.1212/WNL.0b013e3182a08f1b</item>
+            <item>Van Spronsen M., Hoogenraad C. Synapse pathology in psychiatric and neurologic disease. Curr Neurol Neurosci Rep. 2010; 10: 207–14. DOI: 10.1007/s11910-010-0104-8</item>
+            <item>Екушева Е.В. Сенсомоторная интеграция при поражении центральной нервной системы: клинические и патогенетические аспекты. Автореф. дис. ... д-ра мед. наук. М.: РНИМУ им. Н.И. Пирогова, 2016 [Ekusheva E.V. Sensomotornaya integratsiya pri porazhenii tsentral’noi nervnoi sistemy: klinicheskie i patogeneticheskie aspekty. Avtoref. dis. ... d-ra med. nauk. M.: RNIMU im. N.I. Pirogova, 2016 (in Russ.)].</item>
+            <item>Rossini P.M., Altamura C., Ferreri F. et al. Neuroimaging experimental studies on brain plasticity in recovery from stroke. Eur J Phys Rehab Med. 2007; 43: 241–54.</item>
+            <item>Ekusheva E.K., Danilov A.B., Vein A.M. Hemiparesis syndrome: clinical-pathophysiological analysis. Zhurnal nevrologii i psikhiatrii im. C.C. Korsakova. 2002; 102 (11): 18.</item>
+            <item>Fjell A.M., Walhoyd K.B. Structural brain changes in aging: courses, causes and cognitive consequences. Rev Neurosci. 2011; 21 (3): 187–221. DOI: 10.1515/revneuro.2010.21.3.187</item>
+            <item>Paegaaij S., Taube W., Baudry S., et al. Aging causes are organization of cortical and spinal control of posture. Fron. Aging Neurosci. 2014; 6: 28. DOI: 10.3389/fnagi.2014.00028</item>
+            <item>Shaffer S.W., Harrison A.L. Aging of the somatosensory system: a translational perspective. Phys Ther. 2007; 87 (2): 193–207. DOI: 10.2522/ptj.20060083</item>
+            <item>Фролькис В.В. Старение мозга. Л.: Наука; 1991 [Frol’kis V.V. Starenie mozga. L.: Nauka; 1991 (in Russ.)].</item>
+            <item>Kensinger E.A., Corkin S. The effects of emotional content and aging on false memories. Cogn., Affect., Behav. Neurosci. 2004; 4: 1–9. DOI: 10.3758/cabn.4.1.1</item>
+            <item>Дамулин И.В., Екушева Е.В. Деменция вследствие поражения мелких церебральных сосудов: патогенез, клиника, лечение. Неврология, нейропсихиатрия, психосоматика. 2014; 6 (4): 94–100 [Damulin I.V., Ekusheva E.V. Dementia due to cerebral small vessel damage: Current ideas on its pathogenesis and therapy. Neurology, Neuropsychiatry, Psychosomatics. 2014; 6 (4): 94–100 (in Russ.)]. https://doi.org/10.14412/2074-2711-2014-4-94-100</item>
+            <item>Petersen R.S., Touchon J., Consensus on mild cognitive impairment: EADC – ADCS. Res. Pract. Alzheimer’s Diseas. 2005; 10: 38–46.</item>
+            <item>Rasquin S.M., Lodder J., Visser P.J. Predictive accuracy of MCI subtypes for Alzheimer`s disease and vascular dementia in subjects with mild cognitive impairment: a 2-year follow-up study. Dement Geriatr Cogn Disord. 2005; 19 (2/3): 113–9. DOI: 10.1159/000082662</item>
+            <item>Petersen R.C., Knopman D.S., Boeve B.F. et al. Mild cognitive impairment: 10 years later. Arch Neurol. 2009; 66 (12): 1447–55. DOI: 10.1001/archneurol.2009.266</item>
+            <item>Международная статистическая классификация болезней и проблем, связанных со здоровьем. 10-й пересмотр. (МКБ-10). Женева, 1995 [Mezhdunarodnaya statisticheskaya klassifikatsiya boleznei i problem, svyazannykh so zdorov’em. 10-i peresmotr. (MKB-10). Zheneva, 1995 (in Russ.)].</item>
+            <item>Яхно Н.Н., Захаров В.В., Локшина А.Б. и др. Деменции. Руководство для врачей. М.: МЕДпресс-информ, 2010; 272 с. [Yakhno N.N., Zakharov V.V., Lokshina A.B. et al. Dementsii. Rukovodstvo dlya vrachei. M.: MEDpress-inform, 2010; 272 s. (in Russ.)].</item>
+            <item>Graf W.D. Dementia in metabolic disorders of children and adults / In: Handbook of Secondary Dementias. Ed. by R.Kurlan. New York, London: Taylor &amp; Francis, 2006; 203–99.</item>
+            <item>Hill M.D., Mitchell J.R. White matter lesions and cognition. It’s time for randomized trials to preserve intelligence. Neurology. 2006; 66: 470–1. DOI: 10.1212/01.wnl.0000203412.56752.88</item>
+            <item>Moreno M. Cognitive improvement in mild to moderate Alzheimer dementia after treatment with the acetylcholine precursor choline alfoscerate: a multi-center, double-blind, randomized, placebo-controlled trial. Clin Ther. 2003; 25 (1): 178–93. DOI: 10.1016/s0149-2918(03)90023-3</item>
+            <item>Seshadri S. Delaying dementia: Can antihypertensives prevent Alzheimer dementia? Neurology. 2013; 81 (10): 860–2. DOI: 10.1212/WNL.0b013e3182a35296</item>
+            <item>de Haan E.H., Nys G.M., Van Zandvoort M.J. Cognitive function following stroke and vascular cognitive impairment. Curr Opin Neurol. 2006; 19 (6): 559–64. DOI: 10.1097/01.wco.0000247612.21235.d9</item>
+            <item>De Leeuw F.E., van Gijn J. Vascular dementia. J. Pract. Neurol. 2003; 3: 86–91.</item>
+            <item>Erkinjuntti T., Roman G., Gauthier S. et al. Emerging therapies for vascular dementia and vascular cognitive impairment. Stroke. 2004; 35 (4): 1010–7. DOI: 10.1161/01.STR.0000120731.88236.33</item>
+            <item>Gelber R.P., Ross G.W., Petrovitch H. et al. Antihypertensive medication use and risk of cognitive impairment. The Honolulu-Asia Aging Study. Neurology. 2013; 81 (10): 888–95. DOI: 10.1212/WNL.0b013e3182a351d4</item>
+            <item>Bennett D.A., Schneider J.A., Bienias J.L. et al. Mild cognitive impairment in related to Alzheimer`s pathology and cerebral infarctions. Neurology. 2005; 64 (5): 834–41. DOI: 10.1212/01.WNL.0000152982.47274.9E</item>
+            <item>Leung Y.Y., Teo S.L., Chua M.B. et al. Living arrangements, social networks and onset or progression of pain among older adults in Singapore. Geriatr Gerontol Int. 2016; 16 (6): 693–700. DOI: 10.1111/ggi.12539</item>
+            <item>Macfarlane G.J., Barnish M.S., Jones G.T. Persons with chronic widespread pain experience excess mortality: longitudinal results from UK Biobank and meta-analysis. Ann. Rheum. Dis. 2017; 76 (11): 1815–22. DOI: 10.1136/annrheumdis-2017-211476</item>
+            <item>Ghaffar O., Fiati M., Feinstein A. Occupational attainment as a market of cognitive reserve in multiple sclerosis. PLoS One. 2012; 7 (10): e47206. DOI: 10.1371/journal.pone.0047206</item>
+        </references_ru>
+        <last_page>15</last_page>
+        <title_en>Cognitive impairment in older people: practical aspects of management</title_en>
+        <authors_info_en>Professor E. Ekusheva(1), MD; O. Zaitseva(2); O. Kuzina(3) (1)Academy of Postgraduate Education, Federal Research and Clinical Center for Specialized Types of Medical Care and Medical Technologies, Federal Biomedical Agency, Moscow (2)Clinical Hospital One (Volynskaya), Presidential Administration of the Russian Federation, Moscow (3)OOO «Doctor Ost», Chelyabinsk</authors_info_en>
+        <abstract_en>Older patients with cognitive impairment present a challenge for physicians of various specialties in terms of both diagnosis and choice of effective therapy. Not every decrease in cognitive function is steadily progressing and leads to the development of dementia. The timely identification and prescription of pathogenetically substantiated therapy are fundamentally important, since these contribute to the functional restoration of cerebral structures and result in reversible consequences.</abstract_en>
+        <keywords_en>
+            <item>geriatrics</item>
+            <item>moderate cognitive impairment</item>
+            <item>dementia</item>
+            <item>older patients</item>
+            <item>aging</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>лекция</rubric_ru>
+        <doi>10.29296/25877305-2020-06-03</doi>
+        <first_page>16</first_page>
+        <title_ru>Возрастная патология печени: молекулярные маркеры и перспективные гепатопротекторы</title_ru>
+        <authors_list_ru>
+            <item>И.Е. Мещерякова</item>
+            <item>А.Р. Ильина</item>
+            <item>Н.С. Линькова</item>
+            <item>М.В. Королева</item>
+            <item>В.Х. Хавинсон</item>
+        </authors_list_ru>
+        <authors_info_ru>И.Е. Мещерякова(1), А.Р. Ильина(1, 2), Н.С. Линькова(1, 3), доктор биологических наук, М.В. Королева(3), кандидат медицинских наук, В.Х. Хавинсон(1, 4), член-корреспондент РАН, профессор (1)Санкт-Петербургский институт биорегуляции и геронтологии (2)Институт биомедицинских систем и технологий, Санкт-Петербургский политехнический университет Петра Великого (3)Академия постдипломного образования Федерального научно-клинического центра специализированных видов медицинской помощи и медицинских технологий ФМБА (4)Институт физиологии им. И.П. Павлова РАН, Санкт-Петербург E-mail: miayy@yandex.ru</authors_info_ru>
+        <abstract_ru>Возраст-ассоциированные заболевания печени являются одной из ведущих причин снижения трудоспособности и развития синдрома полиморбидности. Частота встречаемости неалкогольной жировой болезни печени (НАЖБП) и гепатита увеличивается с возрастом и составляет около 20% у трудоспособного населения развитых стран. Цель обзора – анализ молекулярных механизмов развития возрастной инволюции печени в норме и при патологии, а также поиск перспективных методов дифференциальной диагностики. В обзоре описана роль белков клеточного старения и апоптоза (p16ink4a, р21, p53) и факторов, регулирующих клеточный цикл гепатоцитов (Cdk1, Skp2, Ccne2, pRb, сурвивин, Ssu72) в развитии патологии печени. При старении звездчатых клеток печени наблюдается увеличение экспрессии мРНК и синтеза белков α-SMA, коллагенов 1α1 и 1α2, PDGFRβ. В обзоре показана неспецифичность традиционных клинических показателей функционального состояния печени. В качестве новых маркеров повреждения печени рассматриваются белки плазмы крови (CYP450, глутаматдегидрогеназа, сорбитдегидрогеназа, кератин-18, глутатион-S-трансфераза), сульфитоксидаза, цитокератин-18 и других. Специфическими биомаркерами НАЖБП являются сывороточный уровень триглицеридов, miRNA-122, miRNA-10b, miRNA-33, а также статус метилирования MT-ND6. Возможным способом диагностики стеатогепатита являются молекулы FXR, FGF19, PPARα, YAP/TAZ. Предполагается, что мишенями для действия гепатопротекторов нового поколения при возраст-ассоциированной патологии печени могут быть цитокины (TGF, TNF, IL-6) и фактор роста эндотелия сосудов.</abstract_ru>
+        <keywords_ru>
+            <item>старение</item>
+            <item>неалкогольная жировая дистрофия печени</item>
+            <item>неалкогольный стеатогепатит</item>
+            <item>гепатопротекторы</item>
+            <item>молекулярные маркеры</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Schwabe R.F., Tabas I., Pajvani U.B. Mechanisms of Fibrosis Development in Nonalcoholic Steatohepatitis. Gastroenterology. 2020; pii: S0016-5085(20)30169-4. DOI: 10.1053/j.gastro.2019.11.311</item>
+            <item>Tajir K., Shimizu Y. Liver physiology and liver diseases in the elderly. World J Gastroenterol. 2013; 19 (5): 8459–67. DOI: 10.3748/wjg.v19.i46.8459</item>
+            <item>Kim I.H., Kisseleva T., Brenner D.A. Aging and liver disease. Curr Opin Gastroenterol. 2015; 31 (3): 184–91. DOI: 10.1097/MOG.0000000000000176</item>
+            <item>Schmucker D.L., Sanchez H. Liver regeneration and aging: A current perspective. Curr Gerontol Geriatr Res. 2011; 2011: 526379. DOI: 10.1155/2011/526379</item>
+            <item>Basseri S., Austin R.C. Endoplasmic reticulum stress and lipid metabolism: mechanisms and therapeutic potential. Biochem Res Int. 2012; 2012: 841362. DOI: 10.1155/2012/841362</item>
+            <item>Gong Z., Tas E., Yakar S. et al. Hepatic lipid metabolism and non-alcoholic fatty liver disease in aging. Mol Cell Endocrinol. 2017; 455: 115–30. DOI: 10.1016/j.mce.2016.12.022</item>
+            <item>Schmucker D.L. Age-related changes in liver structure and function: Implications for disease? Exp Gerontol. 2005; 40 (8–9): 650–9. DOI: 10.1016/j.exger.2005.06.009</item>
+            <item>Schoenfelder K.P., Fox D.T. The expanding implications of polyploidy. J Cell Biol. 2015; 209 (4): 485–91. DOI: 10.1083/jcb.201502016</item>
+            <item>Celton-Morizur S., Merlen G., Couton D. et al. The insulin/Akt pathway controls a specific cell division program that leads to generation of binucleated tetraploid liver cells in rodents. J Clin Invest. 2009; 119 (7): 1880–7. DOI: 10.1172/jci38677</item>
+            <item>Banales J.M., Huebert R.C., Karlsen T. et al. Cholangiocyte pathobiology. Nat Rev Gastroenterol Hepatol. 2019; 16 (5): 69–281. DOI: 10.1038/s41575-019-0125-y</item>
+            <item>Jensen K., Marzioni M., Munshi K. et al. Autocrine regulation of biliary pathology by activated cholangiocytes. Am J Physiol Gastrointest Liver Physiol. 2012; 302 (5): G473–83. DOI: 10.1152/ajpgi.00482.2011</item>
+            <item>O’Hara S.P., Splinter P.L., Trussoni C.E. et al. The transcription factor ETS1 promotes apoptosis resistance of senescent cholangiocytes by epigenetically up-regulating the apoptosis suppressor BCL2L1. J Biol Chem. 2019; 294 (4): 18698–713. DOI: 10.1074/jbc.RA119.010176</item>
+            <item>Maeso-Diaz R., Ortega-Ribera M., Fernández-Iglesias A. et al. Effects of aging on liver microcirculatory function and sinusoidal phenotype. Aging Cell. 2018; 17 (6): e12829. DOI: 10.1111/acel.12829</item>
+            <item>Mysore K.R., Leung D.H. Hepatitis B and C. Clin Liver Dis. 2018; 22 (4): 703–22. DOI: 10.1016/j.cld.2018.06.002</item>
+            <item>Beyoǧlu D., Idle J.R. The metabolomic window into hepatobiliary disease. J Hepatol. 2013; 59 (4): 842–58. DOI: 10.1016/j.jhep.2013.05.030</item>
+            <item>Fu S., Wu D., Jiang W. et al. Molecular Biomarkers in Drug-Induced Liver Injury: Challenges and Future Perspectives. Front Pharmacol. 2020; 10 :1667. DOI: 10.3389/fphar.2019.01667</item>
+            <item>Luedde T., Kaplowitz N., Schwabe R.F. Cell death and cell death responses in liver disease: mechanisms and clinical relevance. Gastroenterology. 2014; 147 (4): 765–83.e4. DOI: 10.1053/j.gastro.2014.07.018</item>
+            <item>Danjuma M.I., Sajid J., Fatima H. et al. Novel biomarkers for potential risk stratification of drug induced liver injury (DILI): A narrative perspective on current trends. Medicine (Baltimore). 2019; 98 (50): e18322. DOI: 10.1097/MD.0000000000018322</item>
+            <item>Church R.J., Watkins P.B. The transformation in biomarker detection and management of drug-induced liver injury. Liver Int. 2017; 37 (11): 1582–90. DOI: 10.1111/liv.13441</item>
+            <item>Ku N.O., Strnad P., Bantel H. et al. Keratins: Biomarkers and modulators of apoptotic and necrotic cell death in the liver. Hepatology. 2016; 64 (3): 966–6. DOI: 10.1002/hep.28493</item>
+            <item>An J., Kim J.W., Shim J.H. et al. Chronic hepatitis B infection and nonhepatocellular cancers: A hospital registry-based, case-control study. PLoS One. 2018; 13 (3): e0193232. DOI: 10.1371/journal.pone.0193232</item>
+            <item>Harrill A.H., Roach J., Fier I. et al. The effects of heparins on the liver: Application of mechanistic serum biomarkers in a randomized study in healthy volunteers. Clin Pharmacol Ther. 2012; 92 (2): 214–20. DOI: 10.1038/clpt.2012.40</item>
+            <item>Metushi I., Uetrecht J., Phillips E. Mechanism of isoniazid-induced hepatotoxicity: Then and now. Br J Clin Pharmacol. 2016; 81 (6): 1030–6. DOI: 10.1038/clpt.2012.40</item>
+            <item>Li S., Xue F., Zheng Y. et al. GSTM1 and GSTT1 null genotype increase the risk of hepatocellular carcinoma: evidence based on 46 studies. Cancer Cell Int. 2019; 19 (1): 76. DOI: 10.1186/s12935-019-0792-3</item>
+            <item>Park W.J., Kim S.Y., Kim Y.R. et al. Bortezomib alleviates drug-induced liver injury by regulating CYP2E1 gene transcription. Int J Mol Med. 2016; 37 (3): 613–22. DOI: 10.3892/ijmm.2016.2461</item>
+            <item>Li L., Li D., Heyward S. et al. Transcriptional regulation of CYP2B6 expression by hepatocyte nuclear factor 3β in human liver cells. PLoS One. 2016; 11 (3): e0150587. DOI: 10.1371/journal.pone.0150587</item>
+            <item>Wang D., Lu R., Rempala G. et al. Ligand-free estrogen receptor α (ESR1) as master regulator for the expression of CYP3A4 and other cytochrome P450 enzymes in the human liver. Mol Pharmacol. 2019; 96 (4): 430–40. DOI: 10.1124/mol.119.116897</item>
+            <item>Gao Y., Cao Z., Yang X. et al. Proteomic analysis of acetaminophen-induced hepatotoxicity and identification of heme oxygenase 1 as a potential plasma biomarker of liver injury. Proteomics Clin Appl. 2017; 11 (1–2). doi: 10.1002/prca.201600123</item>
+            <item>Bruschi F.V., Tardelli M., Herac M. et al. Metabolic regulation of hepatic PNPLA3 expression and severity of liver fibrosis in patients with NASH. Liver Int. 2020; 40 (5):1098–110. DOI: 10.1111/liv.1440</item>
+            <item>Annegowda V.M., Devi H.U., Rao K. et al. Immunohistochemical study of alpha-smooth muscle actin in odontogenic cysts and tumors. J Oral Maxillofac Pathol. 2018; 22 (2): 188–92. DOI: 10.4103/jomfp.JOMFP_31_18</item>
+            <item>Krützfeldt J., Rajewsky N., Braich R. et al. Silencing of microRNAs in vivo with «antagomirs». Nature. 2005; 438 (7068): 685–9. DOI: 10.1038/nature04303</item>
+            <item>Pawlak M., Lefebvre P., Staels B. Molecular mechanism of PPARα action and its impact on lipid metabolism, inflammation and fibrosis in non-alcoholic fatty liver disease. J Hepatol. 2015; 62 (3): 720–33. DOI: 10.1016/j.jhep.2014.10.039</item>
+            <item>Yu J., Peng J., Luan Z. et al. MicroRNAs as a novel tool in the diagnosis of liver lipid dysregulation and fatty liver disease. Molecules. 2019; 24 (2): pii: E230. DOI: 10.3390/molecules24020230</item>
+            <item>Sulaiman S.A., Muhsin N.I.A., Jamal R. Regulatory non-coding RNAs network in non-alcoholic fatty liver disease. Front Physiol. 2019; 10: 279. DOI: 10.3389/fphys.2019.00279</item>
+            <item>Sun C., Fan J.G., Qiao L. Potential epigenetic mechanism in non-alcoholic fatty liver disease. Int J Mol Sci. 2015; 16 (3): 5161–79. DOI: 10.3390/ijms16035161</item>
+            <item>Dadrich M., Nicolay N.H., Flechsig P. et al. Combined inhibition of TGFβ and PDGF signaling attenuates radiation-induced pulmonary fibrosis. Oncoimmunology. 2016; 5 (5): e1123366. DOI: 10.1080/2162402X.2015.1123366</item>
+            <item>Noguchi S., Saito A., Nagase T. YAP/TAZ signaling as a molecular link between fibrosis and cancer. Int J Mol Sci. 2018; 19 (11): pii: e3674. DOI: 10.3390/ijms19113674</item>
+            <item>Dupont S. Role of YAP/TAZ in cell-matrix adhesion-mediated signalling and mechanotransduction. Exp Cell Res. 2016; 343 (1): 42–53. DOI: 10.1016/j.yexcr.2015.10.034</item>
+            <item>Tsuchida T., Friedman S.L. Mechanisms of hepatic stellate cell activation. Nat Rev Gastroenterol Hepatol. 2017; 14 (7): 397–411. DOI: 10.1038/nrgastro.2017.38</item>
+            <item>Zhu C., Kim K., Wang X. et al. Hepatocyte Notch activation induces liver fibrosis in nonalcoholic steatohepatitis. Sci Transl Med. 2018; 10 (468): eaat0344. DOI: 10.1126/scitranslmed.aat0344</item>
+        </references_ru>
+        <last_page>23</last_page>
+        <title_en>AGING AND LIVER PATHOLOGY: MOLECULAR AND CELL ASPECTS</title_en>
+        <authors_info_en>I. Mesheriakova(1); A. Ilina(1, 2); N. Linkova(1, 3), Doctor of Biological Sciences; M. Koroleva(3), Candidate of Medical Sciences; Professor V. Khavinson(1, 4), Corresponding Member of RAS (1)Saint Petersburg Bioregulation and Gerontology Institute (2)Institute of biomedical systems and biotechnologies, Peter the Great Saint Petersburg Polytechnic University (3)Academy of Postgraduate Education under Federal Scientific and Clinical Center for Specialized types Medical Assistance and Medical Technologies of the FMBA, Moscow (4)Pavlov Institute of Physiology Russian Academy of Sciences, Saint Petersburg</authors_info_en>
+        <abstract_en>Age-associated liver disease is one of the leading causes of reduced ability to work and the development of polymorbidity syndrome. The incidence of non-alcoholic fatty liver disease (NAFLD) and hepatitis increases with age and is about 20% in the working-age population of developed countries. The purpose of the review is to analyze the molecular mechanisms of development of age-related liver involution in normal and pathological conditions and to search for promising methods of differential diagnosis. The review describes the role of cell aging proteins and apoptosis (p16ink4a, p21, p53) and factors that regulate the hepatocyte cell cycle (Cdk1, Skp2, Ccne2, pRb, survivin, Ssu72) in the development of liver pathology. Blood plasma proteins (CYP450, GLDH, SDH, K18, GST), sulfitoxidase, cytokeratin 18, etc. are considered as new markers of liver damage. Serum triglycerides, miRNA-122, miRNA-10b, miRNA-33 are specific biomarkers of NAFLD also methylation status MT-ND6. A possible way of steatohepatitis diagnostic to influence the signaling of FXR, FGF19, PPARα, YAP / TAZ. It is assumed that the targets for the action of new generation hepatoprotectors in case of age-related liver pathology may be cytokines (TGF, TNF, IL-6) and vascular endothelial growth factor (VEGF).</abstract_en>
+        <keywords_en>
+            <item>aging</item>
+            <item>non-alcoholic fatty liver disease</item>
+            <item>non-alcoholic steatohepatitis</item>
+            <item>hepatoprotectors</item>
+            <item>molecular markers</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>лекция</rubric_ru>
+        <doi>10.29296/25877305-2020-06-04</doi>
+        <first_page>24</first_page>
+        <title_ru>Какие выводы следует сделать из ассоциации заболеваний печени и холелитиаза?</title_ru>
+        <authors_list_ru>
+            <item>Ю.Л. Тонких</item>
+            <item>А.В. Васютин</item>
+            <item>В.В. Цуканов</item>
+        </authors_list_ru>
+        <authors_info_ru>Ю.Л. Тонких, кандидат медицинских наук, А.В. Васютин, кандидат медицинских наук, В.В. Цуканов, доктор медицинских наук, профессор Федеральный исследовательский центр «Красноярский научный центр Сибирского отделения РАН», обособленное подразделение «Научно-исследовательский институт медицинских проблем Севера» E-mail: gastro@impn.ru</authors_info_ru>
+        <abstract_ru>Выполнен обзор современных данных, который позволил установить выраженную ассоциацию распространенности холелитиаза и заболеваний печени. Полуторавековая дискуссия о превалировании основных концепций патогенеза холелитиаза привела к объединению метаболической и инфекционной теорий. В настоящее время в подходе к лечению желчнокаменной болезни (ЖКБ) доминирует хирургическая тактика, заключающаяся в проведении холецистэктомии у лиц с симптоматическим или осложненным холелитиазом. Мультидисциплинарный взгляд на диагностику, патогенез, лечение и профилактику ЖКБ, признание тесной взаимосвязи функционального состояния и патологии печени и желчевыводящих путей обосновывает целесообразность тщательной диагностики патологии печени и коррекции ее функционального состояния у больных холелитиазом. Хорошим примером терапии, улучшающей функциональное состояние как печени, так и желчевыводящих путей, является урсодезоксихолевая кислота.</abstract_ru>
+        <keywords_ru>
+            <item>гепатология</item>
+            <item>гастроэнтерология</item>
+            <item>холелитиаз</item>
+            <item>желчнокаменная болезнь</item>
+            <item>неалкогольная жировая болезнь печени</item>
+            <item>урсодезоксихолевая кислота</item>
+            <item>патогенез</item>
+            <item>лечение</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Kim Y.K., Kwon O.S., Her K.H. The grade of nonalcoholic fatty liver disease is an independent risk factor for gallstone disease: An observational Study. Medicine (Baltimore). 2019; 98 (27): e16018. DOI: 10.1097/MD.0000000000016018</item>
+            <item>Lee Y.C., Wu J.S., Yang Y.C. et al. Moderate to severe, but not mild, nonalcoholic fatty liver disease associated with increased risk of gallstone disease. Scand J Gastroenterol. 2014; 49 (8): 1001–6. DOI: 10.3109/00365521.2014.920912</item>
+            <item>Jaruvongvanich V., Sanguankeo A., Upala S. et al. Significant Association Between Gallstone Disease and Nonalcoholic Fatty Liver Disease: A Systematic Review and Meta-Analysis. Dig Dis Sci. 2016; 61 (8): 2389–96. DOI: 10.1007/s10620-016-4125-2</item>
+            <item>Kwak M.S., Kim D., Chung G.E. et al. Cholecystectomy is independently associated with nonalcoholic fatty liver disease in an Asian population. World J Gastroenterol. 2015; 21 (20): 6287–95. DOI: 10.3748/wjg.v21.i20.6287</item>
+            <item>Ruhl C.E., Everhart J.E. Relationship of non-alcoholic fatty liver disease with cholecystectomy in the US population. Am J Gastroenterol. 2013; 108 (6): 952–8. DOI: 10.1038/ajg.2013.70</item>
+            <item>Benvegnù L., Noventa F., Chemello L. et al. Prevalence and incidence of cholecystolithiasis in cirrhosis and relation to the etiology of liver disease. Digestion. 1997; 58 (3): 293–8. DOI: 10.1159/000201457</item>
+            <item>Conte D., Fraquelli M., Fornari F. et al. Close relation between cirrhosis and gallstones: cross-sectional and longitudinal survey. Arch Intern Med. 1999; 159 (1): 49–52. DOI: 10.1001/archinte.159.1.49</item>
+            <item>Buchner A.M., Sonnenberg A. Factors influencing the prevalence of gallstones in liver disease: the beneficial and harmful influences of alcohol. Am J Gastroenterol. 2002; 97 (4): 905–9. DOI: 10.1111/j.1572-0241.2002.05607.x</item>
+            <item>Acalovschi M., Badea R., Pascu M. Incidence of gallstones in liver cirrhosis // Am. J. Gastroenterol. – 1991; 86 (9): 1179–81.</item>
+            <item>Del Olmo J.A., Garcia F., Serra M.A. et al. Prevalence and incidence of gallstones in liver cirrhosis. Scand J Gastroenterol. 1997; 32 (10): 1061–5. DOI: 10.3109/00365529709011225</item>
+            <item>Elzouki A.N., Nilsson S., Nilsson P. et al. The prevalence of gallstones in chronic liver disease is related to degree of liver dysfunction. Hepatogastroenterology. 1999; 46 (29): 2946–50.</item>
+            <item>Admirand W.H., Small D.M. The physicochemical basis of cholesterol gallstone formation in man. J Clin Invest. 1968; 47 (5): 1043–52. DOI: 10.1172/JCI105794</item>
+            <item>Carey M.C. Pathogenesis of gallstones. Am J Surg. 1993; 165 (4): 410–9. DOI: 10.1016/s0002-9610(05)80932-8</item>
+            <item>Тонких Ю.Л., Цуканов В.В. Helicobacter Pylori и заболевания желчевыводящих путей: существует ли взаимосвязь? Врач. 2013; 10: 66–8 [Tonkih J.L, Tsukanov V.V. Association of infectious factors with biliary tract diseases? Vrach. 2013; 10: 66–8 (in Russ.)].</item>
+            <item>Lammert F., Gurusamy K., Ko C.W. et al. Gallstones. Nat Rev Dis Primers. 2016; 2: 16024. DOI: 10.1038/nrdp.2016.24</item>
+            <item>Katsika D., Grjibovski A., Einarsson C. et al. Genetic and environmental influences on symptomatic gallstone disease: a Swedish study of 43,141 twin pairs. Hepatology. 2005; 41 (5): 1138–43. DOI: 10.1002/hep.20654</item>
+            <item>Nakeeb A., Comuzzie A.G., Martin L. Gallstones: genetics versus environment. Ann Surg. 2002; 235 (6): 842–9. DOI: 10.1097/00000658-200206000-00012</item>
+            <item>Lammert F., Miquel J.F. Gallstone disease: from genes to evidence-based therapy. J Hepatol. 2008; 48 (Suppl 1): S124–35. DOI: 10.1016/j.jhep.2008.01.012</item>
+            <item>Buch S., Schafmayer C., Völzke H. et al. A genome-wide association scan identifies the hepatic cholesterol transporter ABCG8 as a susceptibility factor for human gallstone disease. Nat Genet. 2007; 39 (8): 995–9. DOI: 10.1038/ng2101</item>
+            <item>Rebholz C., Krawczyk M., Lammert F. Genetics of gallstone disease. Eur J Clin Invest. 2018; 48 (7): e12935. DOI: 10.1111/eci.12935</item>
+            <item>Biddinger S.B., Haas J.T., Yu B.B. et al. Hepatic insulin resistance directly promotes formation of cholesterol gallstones. Nat Med. 2008; 14 (7): 778–82. DOI: 10.1038/nm1785</item>
+            <item>Lambert J.E., Ramos-Roman M.A., Browning J.D. et al. Increased de novo lipogenesis is a distinct characteristic of individuals with nonalcoholic fatty liver disease. Gastroenterology. 2014; 146 (3): 726–35. DOI: 10.1053/j.gastro.2013.11.049</item>
+            <item>Tanaka N., Aoyama T., Kimura S. et al. Targeting nuclear receptors for the treatment of fatty liver disease. Pharmacol Ther. 2017; 179: 142–57. DOI: 10.1016/j.pharmthera.2017.05.011</item>
+            <item>Arab J.P., Karpen S.J., Dawson P.A. et al. Bile acids and nonalcoholic fatty liver disease: Molecular insights and therapeutic perspectives. Hepatology. 2017; 65 (1): 350–62. DOI: 10.1002/hep.28709</item>
+            <item>Yu D.D., Andrali S.S., Li H. et al. Novel FXR (farnesoid X receptor) modulators: Potential therapies for cholesterol gallstone disease. Bioorg Med Chem. 2016; 24 (18): 3986–93. DOI: 10.1016/j.bmc.2016.06.039</item>
+            <item>Drapkina O.M., Fomicheva E.I. Membrane bile acid receptor TGR5 – a new target in the study of metabolic, inflammatory and neoplastic diseases. Ration Pharmacother Cardiol. 2016; 12 (3): 344–50. DOI: 10.20996/1819-6446-2016-12-3-344-350</item>
+            <item>Liu C.M., Tung T.H., Tsai S.T. et al. Serum insulin, insulin resistance, beta-cell dysfunction, and gallstone disease among type 2 diabetics in Chinese population: a community-based study in Kinmen, Taiwan. World J Gastroenterol. 2005; 11 (45): 7159–64. DOI: 10.3748/wjg.v11.i45.7159</item>
+            <item>Цуканов В.В., Тонких Ю.Л., Васютин А.В. Липидный состав крови и желчи и риск развития желчнокаменной болезни у больных сахарным диабетом 1 и 2 типа. Российский журнал гастроэнтерологии, гепатологии, колопроктологии. 2017; 27 (4): 36–40 [Tsukanov V.V., Tonkikh Yu.L., Vasyutin A.V. Blood and bile lipid composition and the risk of gallstones at diabetes mellitus of the 1st and 2nd type. Russian Journal of Gastroenterology, Hepatology, Coloproctology. 2017; 27 (4): 36–40 (in Russ.)]. https://doi.org/10.22416/1382-4376-2017-27-4-36-40</item>
+            <item>Цуканов В.В., Селиверстова Е.В., Догадин С.А. Показатели липидного состава сыворотки крови и желчи при заболеваниях желчевыводящих путей у больных сахарным диабетом. Тер арх. 2005; 77 (2): 15–8. [Tsukanov V.V., Seliverstova Е.V., Dogadin S.A. Lipid composition of blood serum and bile in biliary diseases in patients with diabetes mellitus. Ter Arkh. 2005; 77 (2): 15–8 (in Russ.)].</item>
+            <item>Цуканов В.В., Тонких Ю.Л., Бронникова Е.П. и др. Механизм нормолипидемии у северных народностей. Клин мед. 1999; 77 (2): 38–9. [Tsukanov V.V., Tonkikh Iu.L., Bronnikova E.P. et al. The mechanism of normolipidemia among the Northern area ethnic groups. Klin Med. 1999; 77 (2): 38–9 (in Russ.)].</item>
+            <item>Цуканов В.В. Клинико-биохимические особенности заболеваний желчевыводящих путей у населения Азиатского Севера. Автореф. дис. ... д-ра мед. наук. Томск, 1996; 40 c. [Tsukanov V.V. Kliniko-biokhimicheskiye osobennosti zabolevaniy zhelchevyvodyashchikh putey u naseleniya Aziatskogo Severa. Avtoref. dis. ... d-ra med. nauk. Tomsk, 1996; 40 c. (in Russ.)].</item>
+            <item>Цуканов В.В., Ноздрачев К.Г., Тонких Ю.Л. и др. Метаболические факторы защиты коренного населения Севера при ИБС и холелитиазе. Бюллетень Сибирского отделения Российской академии медицинских наук. 2006; 26 (2): 100–4 [Tsukanov V.V., Nozdrachev K.G., Tonkikh Y.L. et al. Metabolic factors of protection from ischemic heart disease and cholelithiasis in native populations of the Nort. Byulleten’ Sibirskogo otdeleniya Rossiyskoy akademii meditsinskikh nauk. 2006; 26 (2): 100–4 (in Russ.)].</item>
+            <item>Scherber P.R., Zúniga S.E., Glanemann M. et al. Gallstone disease – interdisciplinary treatment. Dtsch Med Wochenschr. 2020; 145 (5): 287–95. DOI: 10.1055/a-0944-8655</item>
+            <item>European Association for the Study of the Liver (EASL). EASL Clinical Practice Guidelines on the prevention, diagnosis and treatment of gallstones. J Hepatol. 2016; 65 (1): 146–81. DOI: 10.1016/j.jhep.2016.03.005</item>
+            <item>Guarino M.P., Cocca S., Altomare A. et al. Ursodeoxycholic acid therapy in gallbladder disease, a story not yet completed. World J Gastroenterol. 2013; 19 (31): 5029–34. DOI: 10.3748/wjg.v19.i31.5029</item>
+            <item>National Institutes of Health Consensus Development Conference Statement on Gallstones and Laparoscopic Cholecystectomy [No authors listed]. Am J Surg. 1993; 165 (4): 390–8. DOI: 10.1016/s0002-9610(05)80929-8</item>
+            <item>Beuers U., Boberg K.M., Chapman R.W. EASL Clinical Practice Guidelines: management of cholestatic liver diseases. J Hepatol. 2009; 51 (2): 237–67. DOI: 10.1016/j.jhep.2009.04.009</item>
+            <item>Portincasa P., Ciaula A.D., Bonfrate L. et al. Therapy of gallstone disease: What it was, what it is, what it will be. World J Gastrointest Pharmacol Ther. 2012; 3 (2): 7–20. DOI: 10.4292/wjgpt.v3.i2.7</item>
+        </references_ru>
+        <last_page>27</last_page>
+        <title_en>What conclusions should be drawn from the association between liver diseases and cholelithiasis?</title_en>
+        <authors_info_en>Yu. Tonkikh, Candidate of Medical Sciences; A. Vasyutin, Candidate of Medical Sciences; Professor V. Tsukanov, MD Research Institute for Medical Problems of the North (Separate Subdivision), Federal Research Center «Krasnoyarsk Research Center, Siberian Branch, Russian Academy of Sciences», Krasnoyarsk</authors_info_en>
+        <abstract_en>The authors reviewed current data, which could establish a pronounced association between the prevalence of cholelithiasis and liver diseases. A century-and-a-half discussion about the prevalence of the basic concepts of the pathogenesis of cholelithiasis led to the unification of metabolic and infectious theories. Currently, surgical tactics involving cholecystectomy in individuals with symptomatic or complicated cholelithiasis predominates in an approach to treating gallstones. A multidisciplinary view on the diagnosis, pathogenesis, treatment, and prevention of cholelithiasis and the recognition of a close relationship between the functional state and pathology of the liver and biliary tract justifies the feasibility of a thorough diagnosis of pathology of the liver and correction of its functional state in patients with cholelithiasis. Ursodeoxycholic acid is a good example of therapy that improves both the functional state of the liver and that of the biliary tract.</abstract_en>
+        <keywords_en>
+            <item>hepatology</item>
+            <item>gastroenterology</item>
+            <item>cholelithiasis</item>
+            <item>gallstones</item>
+            <item>non-alcoholic fatty liver disease</item>
+            <item>ursodeoxycholic acid</item>
+            <item>pathogenesis</item>
+            <item>treatment</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>лекция</rubric_ru>
+        <doi>10.29296/25877305-2020-06-05</doi>
+        <first_page>27</first_page>
+        <title_ru>Хроническая болезнь почек как провоспалительный синдром</title_ru>
+        <authors_list_ru>
+            <item>Т.В. Зуева</item>
+            <item>Т.В. Жданова</item>
+            <item>С.Е. Уразлина</item>
+            <item>Е.В. Кузнецова</item>
+        </authors_list_ru>
+        <authors_info_ru>Т.В. Зуева, кандидат медицинских наук, Т.В. Жданова, доктор медицинских наук, профессор, С.Е. Уразлина, Е.В. Кузнецова, кандидат медицинских наук Уральский государственный медицинский университет, Екатеринбург E-mail: zt_2008@mail.ru</authors_info_ru>
+        <abstract_ru>Число пациентов с хронической болезнью почек (ХБП) в общей популяции неуклонно растет, что определяет актуальность изучения ее патогенетических механизмов. В настоящее время провоспалительный синдром при ХБП признан фактором, формирующим высокую сердечно-сосудистую заболеваемость и смертность у больных этой категории. Системное воспаление относят к нетрадиционным факторам кардиального риска, однако его роль при ХБП до конца не изучена, исследования в этом направлении продолжаются. Недостаточно изучено и влияние уремических токсинов в инициации и прогрессировании воспаления на различных стадиях ХБП. Авторами рассмотрены патофизиологические механизмы воспаления и его роль в формировании осложнений у больных ХБП, изложен современный взгляд на проблему развития осложнений ХБП как результата хронического системного воспаления. Изучение механизмов развития и диагностики системного воспаления позволит дифференцированно подходить к оценке кардиального риска и лечению больных ХБП. Исследования в этом направлении представляются крайне перспективными.</abstract_ru>
+        <keywords_ru>
+            <item>нефрология</item>
+            <item>хроническая болезнь почек</item>
+            <item>уремические токсины</item>
+            <item>воспаление</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Castillo-Rodriguez E., Pizarro-Sánchez S., Sanz A. et al. Inflammatory Cytokines as Uremic Toxins: «Ni Son Todos Los QueEstan, Ni EstanTodos Los Que Son». Toxins. 2017; 9 (4): 114. DOI: 10.3390/toxins9040114</item>
+            <item>Akchurin O., Kaskel F. Update on inflammation in chronic kidney disease. Blood Purification. 2015; 39 (1–3): 84–92. DOI: 10.1159/000368940.</item>
+            <item>Dai L., Golembiewska E., Lindholm B. et al.End-Stage Renal Disease, Inflammation and Cardiovascular Outcomes. Contrib Nephrol. 2017; 191: 32–43. DOI: 10.1159/000479254</item>
+            <item>Duong T., Wu P., Wong T. et al. Mid-arm circumference, body fat, nutritional and inflammatory biomarkers, blood glucose, dialysis adequacy influence all-cause mortality in hemodialysis patients: A prospective cohort study. Medicine (Baltimore). 2019; 98 (12): e14930. DOI: 10.1097/MD.0000000000014930</item>
+            <item>Lau W., Kalantar-Zadeh K., Vaziri N. The Gut as a Source of Inflammation in Chronic Kidney Disease. Nephron. 2015; 130 (2): 92–8. DOI: 10.1159/000381990</item>
+            <item>Wallquist C., Mansouri L., Norrbäck M. et al. Associations of Fibroblast Growth Factor 23 with Markers of Inflammation and Leukocyte Transmigration in Chronic Kidney Disease. Nephron. 2018; 138 (4): 287–95. DOI: 10.1159/000485472</item>
+            <item>BernelotMoens S., Verweij S., van der Valk F. et al. Arterial and Cellular Inflammation in Patients with CKD. J Am Soc Nephrol. 2017; 28 (4): 1278–85. DOI: 10.1681/ASN.2016030317</item>
+            <item>Bilen Y., Çankaya E., Keleş M. et al. High-Grade Inflammation in Renal Failure Patients, According to Mean Platelet Volume, Improves at the End of Two Years After Transplantation. Transplant Proc. 2015; 47 (5): 1373–6. DOI: 10.1016/j.transproceed.2015.04.035</item>
+            <item>Maraj M., Kuśnierz-Cabala B., Dumnicka P. et al. Malnutrition, Inflammation, Atherosclerosis Syndrome (MIA) and Diet Recommendations among End-Stage Renal Disease Patients Treated with Maintenance Hemodialysis. Nutrients. 2018; 10 (1): 69. DOI: 10.3390/nu10010069</item>
+            <item>Ishigami J., Matsushita K. Clinical epidemiology of infectious disease among patients with chronic kidney disease. Clin Exp Nephrol. 2019; 23 (4): 437–47. DOI: 10.1007/s10157-018-1641-8</item>
+            <item>Коненков В.И., Климонтов В.В., Мякина Н.Е. и др. Повышенная концентрация воспалительных цитокинов в сыворотке крови у больных сахарным диабетом 2-го типа с хронической болезнью почек. Тер. арх. 2015; 87 (6): 45–9 [Konenkov V.I., Klimontov V.V., Myakina N.E. et al. Increased serum concentrations of inflammatory cytokines in type 2 diabetic patients with chronic kidney disease. Therapeutic archive = Terapevticheskiy arkhiv (archive until 2018). 2015; 87 (6): 45–9 (in Russ.)]. https://doi.org/10.17116/terarkh201587645-49</item>
+            <item>Tsuruya K., Eriguchi M., Yamada S. et al. Cardiorenal Syndrome in End-Stage Kidney Disease. Blood Purificat. 2015; 40 (4): 337–43. DOI: 10.1159/000441583</item>
+            <item>Mutluay R., KoncaDeğertekin C., IşiktaşSayilar E. et al. Serum fetuin-A is associated with the components of MIAC (malnutrition, inflammation, atherosclerosis, calcification) syndrome in different stages of chronic kidney disease. Turk J Med Sci. 2019; 49 (1): 327–35. DOI: 10.3906/sag-1809-43</item>
+            <item>Ghosh S., Gehr T., Ghosh S. Curcumin and chronic kidney disease (CKD): major mode of action through stimulating endogenous intestinal alkaline phosphatase. Molecules. 2014; 19 (12): 20139–56. DOI: 10.3390/molecules191220139</item>
+            <item>Modaresi A., Nafar M., Sahraei Z. Oxidative stress in chronic kidney disease. Iran J Kidney Dis. 2015; 9 (3): 165–79.</item>
+            <item>Ruiz S., Pergola P., Zager R. et al. Targeting the transcription factor Nrf2 to ameliorate oxidative stress and inflammation in chronic kidney disease. Kidney Int. 2013; 83 (6): 1029–41. DOI: 10.1038/ki.2012.439</item>
+            <item>Резник Е.В., Гендлин Г.Е., Гущина В.М. и др. Хроническая болезнь почек у больных с хронической сердечной недостаточностью. (Обзор литературы). Нефрология и диализ. 2010; 1 (12): 13–24 [Reznik E.V., Gendlin G.E., Guschina V.M. et al. Chronic kidney disease in chronic heart failure patients Review. Nefrologiya i dializ. 2010; 1 (12): 13–24 (in Russ.)].</item>
+            <item>Aveles P., Criminácio C., Gonçalves S. et al. Association between biomarkers of carbonyl stress with increased systemic inflammatory response in different stages of chronic kidney disease and after renal transplantation. Nephron Clin Pract. 2010; 116 (4): 294–9. DOI: 10.1159/000318792</item>
+            <item>Sárköy M., Kovács Z., Kovács M. et al. Mechanisms and Modulation of Oxidative/Nitrative Stress in Type 4 Cardio-Renal Syndrome and Renal Sarcopenia. Front Physiol. 2018; 9: 1648. DOI: 10.3389/fphys.2018.01648</item>
+            <item>Vaziri N., Navab K., Gollapudi P. et al. Salutary effects of hemodialysis on low-density lipoprotein proinflammatory and high-density lipoprotein anti-inflammatory properties in patient with end-stage renal disease. J Natl Med Assoc. 2011; 103 (6): 524–33. DOI: 10.1016/s0027-9684(15)30368-0</item>
+            <item>Raupachova J., Kopecky C., Cohen G. High-Density Lipoprotein from Chronic Kidney Disease Patients Modulates Polymorphonuclear Leukocytes. Toxins. 2019; 11 (2): 73. DOI: 10.3390/toxins11020073</item>
+            <item>Fujii H., Goto S., Fukagawa M. Role of Uremic Toxins for Kidney, Cardiovascular, and Bone Dysfunction. Toxins. 2018; 10 (5): 202. DOI: 10.3390/toxins10050202</item>
+            <item>Liu W., Tomino Y., Lu K. Impacts of Indoxyl Sulfate and p-Cresol Sulfate on Chronic Kidney Disease and Mitigating Effects of AST-120. Toxins. 2018; 10 (9): 367. DOI: 10.3390/toxins10090367.</item>
+            <item>Yamamoto S. Molecular mechanisms underlying uremic toxin-related systemic disorders in chronic kidney disease: focused on β2-microglobulin-related amyloidosis and indoxyl sulfate-induced atherosclerosis-Oshima Award Address 2016. Clin Exp Nephrol. 2019; 23 (2): 151–7. DOI: 10.1007/s10157-018-1588-9</item>
+            <item>Velasquez M., Centron P., Barrows I. et al. Gut Microbiota and Cardiovascular Uremic Toxicities. Toxins. 2018; 10 (7): 287. DOI: 10.3390/toxins10070287</item>
+            <item>Guo C., Xia W., Zhang A. Research progress of the uremic toxin indoxyl sulfate in cardiovascular complication of end-stage renal diseases]. [Article in Chinese]. Sheng Li Xue Bao. 2018; 70 (6): 657–62.</item>
+            <item>Жданова Т.В. Назаров А.В., Шалаев В.А. и др. Синдром воспаления у больных хронической почечной недостаточностью (ХПН). Всероссийская научно-практическая конференция «Болезни почек: эпидемиология, диагностика и лечение» 27–28 сентября 2004 г. Кызыл. Нефрология. Приложение 2. 2004; 3: 190–1 [Zhdanova T.V. Nazarov A.V., Shalaev V.A. et al. Sindrom vospaleniya u bol’nykh khronicheskoi pochechnoi nedostatochnost’yu (KhPN). Vserossiiskaya nauchno-prakticheskaya konferentsiya «Bolezni pochek: epidemiologiya, diagnostika i lechenie» 27–28 sentyabrya 2004g. Kyzyl. Nefrologiya. Prilozhenie 2. 2004; 3: 190–1 (in Russ.)].</item>
+            <item>Kaminski T., Pawlak K., Karbowska M. et al. The impact of antihypertensive pharmacotherapy on interplay between protein-bound uremic toxin (indoxyl sulfate) and markers of inflammation in patients with chronic kidney disease. Int Urol Nephrol. 2019; 51 (3): 491–502. DOI: 10.1007/s11255-018-02064-3</item>
+            <item>Зуева Т.В., Назаров А.В., Жданова Т.В. Нарушения метаболизма у больных с хронической почечной недостаточностью, получающих гемодиализ с патологией сердца. Материалы всероссийского конгресса нефрологов. Нефрология. 2009; 13 (3): 117 [Zueva T.V., Nazarov A.V., Zhdanova T. V. Narusheniya metabolizma u bol’nykh s khronicheskoi pochechnoi nedostatochnost’yu, poluchayushchikh gemodializ s patologiei serdtsa. Materialy vserossiiskogo kongressa nefrologov. Nefrologiya. 2009; 13 (3): 117 (in Russ.)].</item>
+            <item>Nlandu Y., Padden M., Seidowsky A. et al. [Article in French] Middle-molecule uremic toxins: A renewed interest. Nephrol Ther. 2019; 15 (2): 82–90. DOI: 10.1016/j.nephro.2018.09.003 Liang S., Liu S., Liu H. et al. Homocysteine Aggravates Intestinal Epithelial Barrier Dysfunction in Rats with Experimental Uremia. Kidney Blood Press Res. 2018; 43 (5): 1516–28. DOI: 10.1159/000494018</item>
+            <item>Kumar R., Basu S., Lemke H. et al. Influence of nanoporous poly(ether imide) particle extracts on human aortic endothelial cells (HAECs). Clin Hemorheol Micro. 2016; 64 (4): 1–10. DOI: 10.3233/CH-168046</item>
+            <item>Perna A., Pane F., Sepe N. et al. Lanthionine and Other Relevant Sulfur Amino Acid Metabolites: Detection of Prospective Uremic Toxins in Serum by Multiple Reaction Monitoring Tandem Mass Spectrometry. Methods Mol Biol. 2019; 2007: 9–17. DOI: 10.1007/978-1-4939-9528-8_2</item>
+            <item>Жданова Т.В. Назаров А.В., Зуева Т.В. и др. Взаимосвязь альбумина и маркеров воспаления у больных с додиализной стадией хронической почечной недостаточностью. Всероссийская научно-практическая конференция «Нефрология и диализ» 27–29 января 2003 г. Санкт-Петербург. Нефрология. Приложение. 2003; 1: 177 [Zhdanova T.V. Nazarov A.V., Zueva T.V. Vzaimosvyaz’ al’bumina i markerov vospaleniya u bol’nykh s dodializnoi stadiei khronicheskoi pochechnoi nedostatochnost’yu. Vserossiiskaya nauchno-prakticheskaya konferentsiya «Nefrologiya i dializ» 27–29 yanvarya 2003. Sankt-Peterburg. Nefrologiya. Prilozhenie. 2003; 1: 177 (in Russ.)].</item>
+            <item>Pei J., Harakalova M., den Ruijter H. et al.Cardiorenal disease connection during post-menopause: The protective role of estrogen in uremic toxins induced microvascular dysfunction. Int J Cardiol. 2017; 238: 22–30. DOI: 10.1016/j.ijcard.2017.03.050</item>
+            <item>Chinnappa S., Tu Y., Yeh Y. et al Association between Protein-Bound Uremic Toxins and Asymptomatic Cardiac Dysfunction in Patients with Chronic Kidney Disease. Toxins. 2018; 10 (12): 520. DOI: 10.3390/toxins10120520</item>
+            <item>Kaminski T., Pawlak K., Karbowska M. et al.Association between uremic toxin-anthranilic acid and fibrinolytic system activity in predialysis patients at different stages of chronic kidney disease. Int Urol Nephrol. 2018; 50 (1): 127–35. DOI: 10.1007/s11255-017-1729-1</item>
+            <item>Wolley M., Hutchison C. Large uremic toxins: an unsolved problem in end-stage kidney disease. Nephrol Dial Transplant. 2018; 33 (suppl. 3): iii6-iii11. DOI: 10.1093/ndt/gfy179</item>
+            <item>Koh E., Lee K., Kim S. et al. Serum β2-Microglobulin Predicts Mortality in Peritoneal Dialysis Patients: A Prospective Cohort Study. Am J Nephrol. 2015; 42 (2): 91–8. DOI: 10.1159/000439060</item>
+            <item>Oncel M., Akbulut S., TokaOzer T. et al. Cytokines, adipocytokines and inflammatory markers in patients on continuous ambulatory peritoneal dialysis and hemodialysis. Ren Fail. 2016; 38 (7): 1071–5. DOI: 10.1080/0886022X.2016.1193874</item>
+        </references_ru>
+        <last_page>34</last_page>
+        <title_en>Chronic kidney disease as a proinflammatory syndrome</title_en>
+        <authors_info_en>T. Zueva, Candidate of Medical Sciences; Professor T. Zhdanova, MD; S. Urazlina; E. Kuznetsova, Candidate of Medical Sciences Ural State Medical University, Yekaterinburg</authors_info_en>
+        <abstract_en>There is a steady rise in the number of patients with chronic kidney disease (CKD) in the general population, which determines the relevance of studying its pathogenetic mechanisms. The proinflammatory syndrome in CKD is now recognized as a factor for high cardiovascular morbidity and mortality rates in this category of patients. Systemic inflammation is one of the nontraditional cardiac risk factors; however, its role in CKD has not been fully studied; investigations in this area are being continued. The effect of uremic toxins in the initiation and progression of inflammation at various stages of CKD has been inadequately studied. The authors consider the pathophysiological mechanisms of inflammation and its role in complications in patients with CKD and set forth a modern view of the problem associated with the development of CKD complications that result from chronic systemic inflammation. Studying the mechanisms of development and diagnosis of systemic inflammation will be able to apply a differentiated approach to assessing the cardiac risk and treating patients with CKD. Investigations in this direction seem extremely promising.</abstract_en>
+        <keywords_en>
+            <item>nephrology</item>
+            <item>chronic kidney disease</item>
+            <item>uremic toxins</item>
+            <item>inflammation</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>лекция</rubric_ru>
+        <doi>10.29296/25877305-2020-06-06</doi>
+        <first_page>34</first_page>
+        <title_ru>Влияние старения надпочечников на работу различных органов и систем</title_ru>
+        <authors_list_ru>
+            <item>С.В. Булгакова</item>
+            <item>Е.В. Тренева</item>
+            <item>Н.О. Захарова</item>
+            <item>А.В. Николаева</item>
+        </authors_list_ru>
+        <authors_info_ru>С.В. Булгакова, доктор медицинских наук, Е.В. Тренева, кандидат медицинских наук, Н.О. Захарова, доктор медицинских наук, профессор, А.В. Николаева, кандидат медицинских наук Самарский государственный медицинский университет E-mail: osteoporosis63@gmail.com</authors_info_ru>
+        <abstract_ru>Процесс старения влияет на структуру и функцию разных органов и систем, в том числе на надпочечники. Вопрос, что первично – гормоны или старение, волнует ученых долгое время. Отсутствие ответа делает актуальным изучение возрастных изменений надпочечников и их влияния на работу различных органов и систем. Цель: изучить влияние возрастных изменений надпочечников на работу различных органов и систем. Материал и методы. Проведен анализ литературных данных по поисковым словам – старение, гормоны, эндокринная система, пожилой возраст, старческий возраст, надпочечники, гипоталамус, гипофиз за 2000–2019 гг. в компьютерных базах данных: PubMed, Scopus, Medical-Science, Elibrary, Web of Science, Ceeol. Результаты. Нормальное старение приводит к изменениям в активности оси гипоталамус-гипофиз-надпочечники и продукции гормонов надпочечников. Существенным является увеличение среднесуточных уровней кортизола в сыворотке крови у пожилых людей с изменениями циркадного ритма секреции. Избыток глюкокортикостероидов у пожилых может влиять на структурную целостность и функцию различных областей головного мозга и связан с потерей мышечной массы, гипертонией, остеопенией, висцеральным ожирением и сахарным диабетом. Напротив, уровни других гормонов коры надпочечников (альдостерон, дегидроэпиандростерон) у пожилых снижены. Основные механизмы их снижения остаются неясными. Секреция катехоламинов также подвержена возрастным изменениям. Заключение. В процессе старения происходят множественные структурные и функциональные изменения надпочечников, что оказывает влияние на работу многих органов и систем.</abstract_ru>
+        <keywords_ru>
+            <item>гериатрия</item>
+            <item>старение</item>
+            <item>надпочечники</item>
+            <item>гормоны</item>
+            <item>стресс</item>
+            <item>глюкокортикостероиды</item>
+            <item>дегидроэпиандростерон</item>
+            <item>гипоталамус</item>
+            <item>гипофиз</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Yiallouris A., Tsioutis C., Agapidaki E. et al. Adrenal aging and its implications on stress responsiveness in humans. Front Endocrinol (Lausanne). 2019; 10: 54–64. DOI: 10.3389/fendo.2019.00054</item>
+            <item>Vinson G.P. Functional zonation of the adult mammalian adrenal cortex. Front Neurosci. 2016; 10: 238–47. DOI: 10.3389/fnins.2016.00238</item>
+            <item>Goncharova N.D., Marenin V.Y., Oganyan T.E. Aging of the hypothalamic-pituitary-adrenal axis in nonhuman primates with depression-like and aggressive behavior. Aging. 2010; 2: 854–66. DOI: 10.18632/aging.100227</item>
+            <item>Jones C.M., Boelaert K. The endocrinology of aging: a mini-review. Gerontology. 2015; 61 (4): 291–300. DOI: 10.1159/000367692</item>
+            <item>van den Beld A.W., Kaufman J.-M., Zillikens M.C. et al. The physiology of endocrine systems with aging. Lancet Diabetes Endocrinol. 2018; 6: 647–58. DOI: 10.1016/S2213-8587(18)30026-3</item>
+            <item>Dijckmans B., Tortosa-Martinez J., Caus N. et al. Does the diurnal cycle of cortisol explain the relationship between physical performance and cognitive function in older adults? Eur Rev Aging Phys Act. 2017; 14: 6–14. DOI: 10.1186/s11556-017-0175-5</item>
+            <item>Flatt T. A new definition of aging? Front Genet. 2012; 3: 148–56. DOI: 10.3389/fgene.2012.00148</item>
+            <item>Gaffey A.E., Bergeman C.S., Clark L.A. et al. Aging and the HPA axis: stress and resilience in older adults. Neurosci Biobehav Rev. 2016; 68: 928–45. DOI: 10.1016/j.neubiorev.2016.05.036</item>
+            <item>Ennis G.E., An Y., Resnick S.M. et al. Long-term cortisol measures predict Alzheimer disease risk. Neurology. 2017; 88: 371–8. DOI: 10.1212/WNL.0000000000003537</item>
+            <item>Schoorlemmer R.M.M., Peeters G.M.E., van Schoor N.M. et al. Relationships between cortisol level, mortality and chronic diseases in older persons. Clin Endocrinol. 2009; 71: 779–86. DOI: 10.1111/j.1365-2265.2009.03552.x</item>
+            <item>Булгакова С. В., Романчук Н. П. Половые гормоны и когнитивные функции: современные данные. Бюллетень науки и практики. 2020; 6 (3): 69–95 [Bulgakova S., Romanchuk Р. Sex Hormones and Cognitive Functions: Current Data. Bulletin of Science and Practice. 2020; 6 (3): 69–95 (in Russ.)]. DOI: 10.33619/2414-2948/52/09</item>
+            <item>Ohlsson C., Vandenput L., Tivesten A. DHEA and mortality: what is the nature of the association? J Steroid Biochem Mol Biol. 2015; 145: 248–53. DOI: 10.1016/j.jsbmb.2014.03.006</item>
+            <item>Nanba K., Vaidya A., Rainey W.E. Aging and adrenal aldosterone production. Hypertension. 2018; 71: 218–23. DOI: 10.1161/HYPERTENSIONAHA.117.10391</item>
+            <item>Seals D.R., Esler M.D. Human ageing and the sympathoadrenal system. J Physiol. 2000; 528: 407–17. DOI: 10.1111/j.1469-7793.2000.00407.x</item>
+            <item>Esler M., Lambert G., Kaye D. et al. Influence of ageing on the sympathetic nervous system and adrenal medulla at rest and during stress. Biogerontology. 2002; 3: 45–9. DOI: 10.1023/a:1015203328878</item>
+            <item>Fielding R.A., Vellas B., Evans W.J. et al. Sarcopenia: an undiagnosed condition in older adults. current consensus definition: prevalence, etiology, and consequences. international working group on sarcopenia. J Am Med Dir Assoc. 2011; 12: 249–56. DOI: 10.1016/j.jamda.2011.01.003</item>
+            <item>Ferrucci L., Baroni M., Ranchelli A. et al. Interaction between bone and muscle in older persons with mobility limitations. Curr Pharm Des. 2014; 20: 3178–97. DOI: 10.2174/13816128113196660690</item>
+            <item>Булгакова С.В., Романчук П.И., Тренева Е.В. Инсулин, головной мозг, болезнь Альцгеймера: новые данные. Бюллетень науки и практики. 2020; 6 (3): 96–126 [Bulgakova S., Romanchuk P., Treneva E. Insulin, Brain, Alzheimer’s Disease: New Evidence. Bulletin of Science and Practice. 2020; 6 (3): 96–126 (in Russ.)]. DOI: 10.33619/2414-2948/52/10</item>
+            <item>Hackett R.A., Steptoe A., Kumari M. Association of diurnal patterns in salivary cortisol with type 2 diabetes in the Whitehall II study. J Clin Endocrinol Metab. 2014; 99: 4625–31. DOI: 10.1210/jc.2014-2459</item>
+            <item>Buford T.W., Willoughby D.S. Impact of DHEA(S) and cortisol on immune function in aging: a brief review. Appl Physiol Nutr Metab. 2008; 33: 429–33. DOI: 10.1139/H08-013</item>
+            <item>Vitlic A., Lord J.M., Phillips A.C. Stress, aging and their influence on functional, cellular and molecular aspects of the immune system. AGE. 2014; 36: 9631–41. DOI: 10.1007/s11357-014-9631-6</item>
+            <item>Scott S.B., Graham-Engeland J.E., Engeland C.G. et al. The effects of stress on cognitive aging, physiology and emotion (ESCAPE) project. BMC Psychiatry. 2015; 15: 146–9. DOI: 10.1186/s12888-015-0497-7</item>
+            <item>Piazza J.R., Charles S.T., Sliwinski M.J. et al. Affective reactivity to daily stressors and long-term risk of reporting a chronic physical health condition. Ann Behav Med. 2013; 45: 110–20. DOI: 10.1007/s12160-012-9423-0</item>
+            <item>Evans P.D., Fredhoi C., Loveday C. et al. The diurnal cortisol cycle and cognitive performance in the healthy old. Int J Psychophysiol. 2011; 79: 371–7. DOI: 10.1016/j.ijpsycho.2010.12.006</item>
+            <item>Karlamangla A.S., Friedman E.M., Seeman TE et al. Daytime trajectories of cortisol: demographic and socioeconomic differences–findings from the National Study of Daily Experiences. Psychoneuroendocrinology. 2013; 38: 2585–97. DOI: 10.1016/j.psyneuen.2013.06.010</item>
+            <item>Vreeburg S.A., Hoogendijk W.J.G., van Pelt J. et al. Major depressive disorder and hypothalamic-pituitary-adrenal axis activity: results from a large cohort study. Arch Gen Psychiatry. 2009; 66: 617–26. DOI: 10.1001/archgenpsychiatry.2009.50</item>
+            <item>Ong A.D., Fuller-Rowell T.E., Bonanno G.A. et al. Spousal loss predicts alterations in diurnal cortisol activity through prospective changes in positive emotion. Health Psychol. 2011; 30: 220–7. DOI: 10.1037/a0022262</item>
+        </references_ru>
+        <last_page>39</last_page>
+        <title_en>INFLUENCE OF AGING OF ADRENALS ON THE WORK OF DIFFERENT BODIES AND SYSTEMS</title_en>
+        <authors_info_en>S. Bulgakova, MD; E. Treneva, Candidate of Medical Sciences; Professor N. Zakharova, MD; A. Nikolaeva, Candidate of Medical Sciences Samara state medical University, Samara</authors_info_en>
+        <abstract_en>The aging process affects the structure and function of various organs and systems. The adrenal glands are also subject to age-related changes. Questions: hormones and aging, what is primary and what is secondary, where is the cause, and where is the consequence – scientists have been worried for a long time. The lack of answers to these questions makes it relevant to study age-related changes in the adrenal glands and their impact on the work of various organs and systems Purpose: to study the effect of age-related changes in the adrenal glands on the work of various organs and systems. Materials and methods: analysis of literature data on search words - aging, hormones, endocrine system, old age, senile age, adrenal glands, hypothalamus, pituitary gland glucocorticoids, dehydroepiandrosterone for 2000–2019 in computer databases: PubMed, Scopus, Medical-Science, Elibrary, Web of Science, Ceeol. Results. Normal aging leads to changes in the activity of the axis of the hypothalamus-pituitary-adrenal gland (HPA) and the production of adrenal hormones. Significant is an increase in the average daily levels of cortisol in the serum of older people with changes in the circadian secretion rhythm. Excess glucocorticoids in the elderly can affect the structural integrity and function of various areas of the brain, associated with muscle loss, hypertension, osteopenia, visceral obesity, and diabetes mellitus. In contrast, levels of other adrenal cortical hormones (aldosterone, dehydroepiandrosterone) in the elderly have been proven to be reduced. The main mechanisms for their reduction remain unclear. Catecholamine secretion is also subject to age-related changes. Conclusion. In the process of aging, numerous structural and functional changes in the adrenal glands occur, which affects the functioning of many organs and systems.</abstract_en>
+        <keywords_en>
+            <item>geriatrics</item>
+            <item>aging</item>
+            <item>adrenal glands</item>
+            <item>hormones</item>
+            <item>stress</item>
+            <item>glucocorticoids</item>
+            <item>dehydroepiandrosterone</item>
+            <item>hypothalamus</item>
+            <item>pituitary gland</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>для диагноза</rubric_ru>
+        <doi>10.29296/25877305-2020-06-07</doi>
+        <first_page>39</first_page>
+        <title_ru>Возрастные особенности маркеров обмена коллагена у больных сердечной недостаточностью с промежуточной фракцией выброса на фоне метаболического синдрома</title_ru>
+        <authors_list_ru>
+            <item>О.А. Осипова</item>
+            <item>О.М. Драпкина</item>
+            <item>Р.Н. Шепель</item>
+            <item>Е.В. Гостева</item>
+            <item>О.М. Годлевская</item>
+            <item>О.Н. Белоусова</item>
+        </authors_list_ru>
+        <authors_info_ru>О.А. Осипова(1), доктор медицинских наук, профессор, О.М. Драпкина(2), доктор медицинских наук, профессор, член-корреспондент РАН; Р.Н. Шепель(2), Е.В. Гостева(3), кандидат медицинских наук, О.М. Годлевская(4), кандидат медицинских наук, О.Н. Белоусова(1), кандидат медицинских наук (1)Белгородский государственный национальный исследовательский университет; (2)Национальный медицинский исследовательский центр терапии и профилактической медицины, Москва; (3)Воронежский государственный медицинский университет им. Н.Н. Бурденко; (4)Харьковская медицинская академия последипломного образования, Украина E-mail: osipova@bsu.edu.ru</authors_info_ru>
+        <abstract_ru>При патологических состояниях активность матриксных металлопротеиназ (ММП) увеличивается, что приводит к дисбалансу между синтезом и деградацией внеклеточного матрикса, который провоцирует развитие фиброза в миокарде, что способствует возникновению сердечной недостаточности. Цель. Оценить особенности обмена коллагена у пожилых лиц с хронической сердечной недостаточностью (ХСН) с промежуточной фракцией выброса (СНпФВ) на фоне метаболического синдрома (МС). Материал и методы. В исследование включены 180 больных СНпФВ (40–49%) II функционального класса по классификации Нью-Йоркской ассоциации кардиологов (NYHA) ишемического генеза. Мы оценили возраст больных, наличие МС и уровни тканевого ингибитора металлопротеиназ (TIMP-1), ММП-1, ММП-9. Результаты. Установлено, что в зависимости от наличия МС у больных СНпФВ отмечено достоверное (р&lt;0,05) повышение ММП-9 с увеличением возраста. Уровень ММП-1 у лиц пожилого и старческого возраста достоверно увеличивался с возрастом при наличии МС (р&lt;0,05). У больных старческого возраста уровень TIMP-1 в группе с МС был на 13% ниже (р&lt;0,05), чем без МС. При наличии МС во всех возрастных группах соотношение ММП-9/TIMP-1 было выше (р&lt;0,05), чем без МС. Заключение. Повышенная экспрессия ММП-9 и пониженная экспрессия TIMP-1 в старческом возрасте способствуют ремоделированию миокарда и фиброзу, тем самым изменяя внеклеточный матрикс ткани миокарда, приводя к прогрессированию ХСН. МС значимо ухудшает течение ХСН, при этом у лиц пожилого и старческого возраста характерно несоответствие между степенью повышения уровня ММП-9 и TIMP-1.</abstract_ru>
+        <keywords_ru>
+            <item>кардиология</item>
+            <item>фиброз миокарда</item>
+            <item>сердечная недостаточность</item>
+            <item>промежуточная фракция выброса</item>
+            <item>метаболический синдром</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Осипова О.А. Нагибина А.И., Комисов А.А. и др. Патоморфологические механизмы регуляции образования миокардиального фиброза у больных хронической сердечной недостаточностью на фоне ишемической болезни сердца. Cердечная недостаточность. 2016; 17 (5): 357–64 [Osipova O.A. Nagibina A.I., Komisov A.A. et al. Pathomorphological mechanisms for regulation of myocardial fibrosis formation in patients with chronic heart failure with underlying ischemic heart disease. Serdechnaja nedostatochnost’. 2016; 17 (5): 357–64 (in Russ.)]. DOI: 10.18087/RHFJ.2016.5.2137</item>
+            <item>Cheng J.M., Akkerhuis K.M., Meilhac O. et al. Circulating osteoglycin and NGAL/MMP9 complex concentrations predict 1-year major adverse cardiovascular events after coronary angiography. Arterioscler. Thromb. Vasc. Biol. 2014; 34 (5): 1078–84. DOI: 10.1161/ ATVBAHA.114.303486</item>
+            <item>Ravi Kanth V.V., Nageshwar R. Role of matrix metalloproteinases in physiological processes and disease. Indian J. Med. Res. 2014; 140 (5): 585–7.</item>
+            <item>Душина А.Г., Лопина Е.А., Либис Р.А. Особенности хронической сердечной недостаточности в зависимости от фракции выброса левого желудочка. Российский кардиологический журнал. 2019; 2: 7–11 [Dushina A.G., Lopina E.A., Libis R.A. Features of chronic heart failure depending on the left ventricular ejection fraction. Russian Journal of Cardiology. 2019; 2: 7–11 (in Russ.)] https://doi.org/10.15829/1560-4071-2019-2-7-11</item>
+            <item>Скородумова Е.Г., Костенко В.А., Скородумова Е.А. и др. Портрет пациента с промежуточной фракцией выброса левого желудочка на фоне острой декомпенсациии сердечной недостаточности. Вестник СЗГМУ им. И.И. Мечникова. 2018; 10 (2): 87–91 [Skorodumova E.G., Kostenko V.A., Skorodumova E.A. et al. Portrait of the patient with intermediate ejection fraction of the left ventricle on the background of acute decompencation of heart failure. Bulletin of the North-Western State Medical University named after I.I. Mechnikov. 2018; 10 (2): 87–91 (in Russ.)]. DOI: 10.17816/mechnikov201810287-91</item>
+            <item>Pascual-Figal D.A. Ferrero-Gregori A., Gomez-Otero I. et al. Mid-range left ventricular ejection fraction: clinical profile and cause of death in ambulatory patients with chronic heart failure. Int. J. Cardiol. 2017; 240: 265–70. DOI: 10.1016 /j. ijcard.2017.03.032</item>
+            <item>Guisado-Espartero M.E., Salamanca-Bautista P., Aramburu-Bodas Ó. et al. Heart failure with mid-range ejection fraction in patients admitted to internal medicine departments: findings from the RICA registry. Int. J. Cardiol. 2018; 255: 124–8. DOI: 10.1016/ j. ijcard.2017.07.101</item>
+            <item>Koh A.S., Tay W.T., Teng T.H.K. et al. A comprehensive population-based characterization of heart failure with mid-range ejection fraction. Eur. J. Heart Fail. 2017; 19: 1624–34. DOI: 10.1002 / ejhf.945</item>
+            <item>Toba H., Lindsey M.L. Extracellular matrix roles in cardiorenal fibrosis: Potential therapeutic targets for CVD and CKD in the elderly. Pharmacol. Ther. 2019; 193: 99–120. DOI: 10.1016/j.pharmthera.2018.08.014</item>
+            <item>Srivastava, P.K., Hsu, J.J., Ziaeian, B. et al. Heart Failure With Mid-range Ejection Fraction. Curr. Heart Fail Rep. 2020; 17 (1): 1–8. https://doi.org/10.1007/s11897-019-00451-0</item>
+            <item>Osipova O.A., Plaksina K.G., Komisov A.A. et al. Pathogenetic mechanisms of participation of the intercellular matrix of the myocardium cardiac remodeling in with chronic heart failure. Cardiology. 2015; 22: 18.</item>
+            <item>Осипова О.А., Плаксина К.Г., Комисов А.А. и др. Патогенетические механизмы участия межклеточного матрикса миокарда в ремоделировании сердца у больных хронической сердечной недостаточностью. Научные ведомости Белгородского государственного университета. Серия: Медицина. Фармация. 2015; 22 (219): 18–25 [Osipova O.A., Plaksina K.G., Komisov A.A. et al. Patogeneticheskie mehanizmy uchastija mezhkletochnogo matriksa miokarda v remodelirovanii serdca u bol’nyh hronicheskoj serdechnoj nedostatochnost’ju. Nauchnye vedomosti Belgorodskogo gosudarstvennogo universiteta. Serija: Medicina. Farmacija. 2015; 22 (219): 18–25 (in Russ.)]</item>
+            <item>Hopps E., Lo Presti R., Montana M. et al. Gelatinases and their tissue inhibitors in a group of subjects with metabolic syndrome. J. Investig. Med. 2013; 61 (6): 978–83. DOI: 10.2310/JIM.0b013e318294e9da</item>
+            <item>Błaszczyk E, Gawlik A. Neurotrophins, VEGF and matrix metalloproteinases: new markers or causative factors of metabolic syndrome components? Pediatr. Endocrinol. Diab. Metabol. 2016; 22 (3): 125–31. DOI: 10.18544/pedm-22.03.0060</item>
+            <item>Spinale F.G., Coker M.L., Thomas C.V. et al. Time-dependent changes in matrix metalloproteinase activity and expression during the progression of congestive heart failure. Relation to ventricular and myocyte function. Circ. Res. 1998; 82: 482–95. DOI: 10.1161/01.res.82.4.482</item>
+            <item>Schwartzkopff B., Fassbach M., Pelzer B. et al. Elevated serum markers of collagen degradation in patients with mild to moderate dilated cardiomyopathy. Eur. J. Heart Fail. 2002; 4: 439–44. DOI: 10.1016/s1388-9842(02)00092-2</item>
+            <item>Lindsay M.M., Maxwell P., Dunn F.G. TIMP-1: a marker of left ventricular diastolic dysfunction and fibrosis in hypertension. Hypertension. 2002; 40: 136–41. DOI: 10.1161/01.hyp.0000024573.17293.23</item>
+            <item>Morishita T., Uzui H., Mitsuke Ya. et al Association between matrix metalloproteinase-9 and worsening heart failure events in patients with chronic heart failure. ESC Heart Fail. 2017; 4: 321–30. DOI: 10.1002/ehf2.12137</item>
+        </references_ru>
+        <last_page>43</last_page>
+        <title_en>AGE FEATURES OF COLLAGEN EXCHANGE MARKERS IN PATIENTS WITH HEART FAILURE WITH INTERMEDIATE EMISSION FACTION ON THE BACKGROUND OF METABOLIC SYNDROME</title_en>
+        <authors_info_en>Professor О. Osipova(1), MD; Professor O. Drapkina(2), MD, Corresponding Member of the Russian Academy of Sciences; R. Shepel(2); Е. Gosteva(3), Candidate of Medical Sciences; O. Godlevskaya(4), Candidate of Medical Sciences; О. Belousova(1), Candidate of Medical Sciences; (1)Belgorod State National Research University (2)National Medical Research Centre for Therapy and Preventive Medicine, Moscow (3)N.N. Burdenko Voronezh State Medical University (4)Kharkov Medical Academy of Postgraduate Education, Ukraine</authors_info_en>
+        <abstract_en>In pathological conditions, the activity of matrix metalloproteinases (MMP) increases, which leads to an imbalance between the synthesis and degradation of the extracellular matrix, which provokes the development of fibrosis in the myocardium, which contributes to the occurrence of heart failure. The aim of the study. To evaluate the features of collagen metabolism in elderly patients with chronic heart failure, an intermediate ejection fraction of heart failure with mid-range ejection fraction (HFmrEF) against the background of metabolic syndrome (MS). Material and methods. The study included 180 patients with HFmrEF (40–49%), functional class II according to NYHA (NYHA class II) of ischemic origin. We assessed the age of patients, the presence of MS, and levels of tissue inhibitor metalloproteinases tissue inhibitor metalloproteinas (TIMP-1), MMP-1, MMP-9. Results. Depending on the presence of MS in patients with HFmrEF, there was a significant (p&lt;0.05) increase in MMP-9 with increasing age. The level of MMP-1 in the elderly late adulthood and senile gerontic age significantly increased with age in the presence of MS (p&lt;0.05). In senile patients, the level of TIMP-1 in the group with MS was 13% lower (p&lt;0.05) than without MS. In all age groups, the ratio of MMP-9/TIMP-1 in the presence of MS was higher (p&lt;0.05) than without MS. Conclusions. Increased expression of MMP-9 and decreased expression of TIMP-1 in old age contribute to myocardial remodeling and fibrosis myocardium fibrosis, thereby changing the extracellular matrix of myocardial tissue leading to progression of heart failure. Metabolic syndrome significantly worsens the course of heart failure in the elderly and senile age, a mismatch between the degree of increase in the level of MMP-9 and TIMP-1 is characteristic.</abstract_en>
+        <keywords_en>
+            <item>cardiology</item>
+            <item>myocardial fibrosis</item>
+            <item>heart failure with mid-range ejection fraction</item>
+            <item>metabolic syndrome</item>
+            <item>TIMP-1</item>
+            <item>MMP-1</item>
+            <item>MMP-9</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>фармакология</rubric_ru>
+        <doi>10.29296/25877305-2020-06-08</doi>
+        <first_page>44</first_page>
+        <title_ru>Растительные сорбенты в комплексной антигельминтной терапии</title_ru>
+        <authors_list_ru>
+            <item>Е.С. Чернышева</item>
+            <item>Е.Ю. Бабаева</item>
+            <item>А.Е. Юрьева</item>
+            <item>С.А. Николаева</item>
+            <item>Д.В. Вычужанин</item>
+        </authors_list_ru>
+        <authors_info_ru>Е.С. Чернышева(1), кандидат медицинских наук, Е.Ю. Бабаева(2), кандидат биологических наук, А.Е. Юрьева(3), С.А. Николаева(4), Д.В. Вычужанин(5), кандидат медицинских наук (1)Ивантеевская Центральная городская больница, Московская область, Ивантеевка (2)Всероссийский НИИ лекарственных и ароматических растений, Москва (3)Центральная клиническая больница «РЖД-Медицина», Москва (4)Медицинский центр «Академия здоровья», Ярославль (5)Первый МГМУ им. И.М. Сеченова (Сеченовский Университет) E-mail: vichy@list.ru</authors_info_ru>
+        <abstract_ru>Выполнена задача по подбору и применению сорбентов в процессе дегельминтизации. Цель. Определить эффективность детоксикации у больных с диагностированными гельминтозами. Изучить совместное применение антигельминтных средств и сорбентов растительного происхождения для ликвидации эндотоксикоза и в процессе дегельминтизации. Материал и методы. У 41% из 180 больных, принявших участие в исследовании, отмечены кожно-аллергические заболевания, у 59% – заболевания желудочно-кишечного тракта. Для дегельминтизации больные получали препарат немозол (таблетки). Параллельно использовали растительные энтеросорбенты – отруби, зостерин-ультра, порошок свеклы. В качестве контроля использовали энтеросгель. Изменения в кале прослеживали по гистокопрологическим анализам. Результаты и обсуждение. Показано, что пектины обладают достаточно мощным сорбционным действием и, в отличие контроля (энтеросгель), – антибактериальным, лечебным и нутритивным эффектами. Применение энтеросорбентов обязательно у всех больных перед началом и в процессе дегельминтизации. У пациентов с отягощенным аллергическим анамнезом следует дополнительно применять антигистаминные препараты.</abstract_ru>
+        <keywords_ru>
+            <item>гастроэнтерология</item>
+            <item>растительные сорбенты</item>
+            <item>дегельминтизация</item>
+            <item>аллергические реакции</item>
+            <item>заболевания желудочно-кишечного тракта</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Николаев В.Г., Михаловский С.В., Гурина Н.М. Современные энтеросорбенты и механизмы их действия. Обзор. Эфферентная терапия. 2005; 11 (4): 3–17 [Nikolayev V.G., Mikhalovsky S.V., Gurina N.M. Modern enterosorbents and mechanisms of their action. Efferentnaya terapiya. 2005; 11 (4): 3–17 (in Russ.)].</item>
+            <item>Косова И.В., Терехова Л.В. Современная энтеросорбция – фундамент рациональной фармакотерапии. Учебно-методическое пособие по клинической фармакологии. М.: РУДН, 2014; 40 с. [Kosova I.V., Terekhova L.V. Sovremennaya enterosorbtsiya – fundament ratsional’noi farmakoterapii. Uchebno-metodicheskoe posobie po klinicheskoi farmakologii. M.: RUDN, 2014; 40 s. (in Russ.)].</item>
+            <item>Атлас лекарственных растений России. Под ред. В.А. Быкова. М., 2006; с. 333–4 [Atlas lekarstvennykh rastenii Rossii. Pod red. V.A. Bykova. M., 2006; s. 333–4 (in Russ.)].</item>
+            <item>Астафьев Б.А. Очерки по общей патологии гельминтозов у человека. М.: Медицина, 1975; 205 с. [Astaf’ev B.A. Ocherki po obshchei patologii gel’mintozov u cheloveka. M.: Meditsina, 1975; 205 s. (in Russ.)].</item>
+            <item>Чебышев Н.В., Богоявленский Ю.К., Гришина Е.А. Гельминтозы: органо-системные процессы в их патогенезе. М.: Медицина, 1998; 236 с. [Chebyshev N.V., Bogoyavlenskii Yu.K., Grishina E.A. Gel’mintozy: organo-sistemnye protsessy v ikh patogeneze. M.: Meditsina, 1998; 236 s. (in Russ.)].</item>
+            <item>Архипов И.А. Антигельминтики: фармакология и применение. М., 2009 [Arkhipov I.A. Antigel’mintiki: farmakologiya i primenenie. M., 2009 (in Russ.)].</item>
+            <item>Косова И.В., Милехина Н.В., Терехова Л.В. и др. Рациональная фармакотерапия заболеваний органов пищеварения: учебно-методическое пособие по клинической фармакологии. М: РУДН, 2015; 62 с. [Kosova I.V., Milekhina N.V., Terekhova L.V. et al. Ratsional’naya farmakoterapiya zabolevanii organov pishchevareniya: uchebno-metodicheskoe posobie po klinicheskoi farmakologii. M: RUDN, 2015; 62 s. (in Russ.)].</item>
+            <item>Туркина М.Я., Печерина Т.В. Зостерин – новый сорбент для эфферентной терапии. Эфферентная терапия. 2007; 13 (4): 39–44 [Turkina M.Ya., Pecherina T.V. Zosterin – a new sorbent for efferent therapy. Efferentnaya terapiya. 2007; 13 (4): 39–44 (in Russ.)].</item>
+            <item>Khasina E.I., Kolenchenko E.A., Sgrebneva M.N. et al. Antioxidant Activities of a Low Etherified Pectin from the Seagrass Zostera marina. Russian Journal of Marine Biology. 2003; 29 (4): 259–61.</item>
+            <item>Чернышева Е.С., Целыковский В.А. Мохов А.В. и др. Гельминтозы в хирургической гастроэнтерологии. Вестник хирургической гастроэнтерологии. 2012; 4: 76–9 [Chernysheva E.S., Ctelykovsky V.A., Mohov A.V. et al. Helminthosis in the surgical gastroenterology. Vestnik khirurgicheskoi gastroenterologii. 2012; 4: 76–9 (in Russ.)].</item>
+            <item>Македонская Т.П. Сочетанное применение глутамина и пектина в лечении синдрома кишечной недостаточности при перитоните. Автореф. дис. ... канд. мед. наук. М., 2003; 157 с. [Makedonskaya T.P. Sochetannoe primenenie glutamina i pektina v lechenii sindroma kishechnoi nedostatochnosti pri peritonite. Avtoref. dis. ... kand. med. nauk. M., 2003; 157 s. (in Russ.)].</item>
+            <item>Кирковский В.В. Детоксикационная терапия при перитоните. Минск: Полифакт-Альфа, 1997; с. 68–70 [Kirkovskii V.V. Detoksikatsionnaya terapiya pri peritonite. Minsk: Polifakt-Al’fa, 1997; s. 68–70 (in Russ.)].</item>
+            <item>Брискин Б.С., Демидов Д.А. Эволюция энтеросорбции в лечении хирургического эндотоксикоза. Международный медицинский журнал. 2004; 4: 86–8 [Briskin B.S., Demidov D.A. Evolution of enterosorption in treatment of endotoxicosis. Mezhdunarodnyi meditsinskii zhurnal. 2004; 4: 86–8 (in Russ.)].</item>
+            <item>Патент №218636 РФ от 27.07. 2002 [Patent №218636 RF ot 27.07. 2002 (in Russ.)].</item>
+            <item>Регистр лекарственных средств России РЛС [Дата обращения 20.01.2020] [Registr lekarstvennykh sredstv Rossii RLS (in Russ.)]. URL: https://www.rlsnet.ru/tn_index_id_24865.htm</item>
+            <item>Регистр лекарственных средств России РЛС [Дата обращения 20.01.2020] [Registr lekarstvennykh sredstv Rossii RLS (in Russ.)]. URL: https://www.rlsnet.ru/tn_index_id_5646.htm</item>
+        </references_ru>
+        <last_page>48</last_page>
+        <title_en>Plant sorbents in combination anthelmintic therapy</title_en>
+        <authors_info_en>E. Chernysheva(1), Candidate of Medical Sciences; E. Babaeva(2), Candidate of Biological Sciences; A. Yuryeva(3); S. Nikolaeva(4); D. Vychuzhanin(5), Candidate of Medical Sciences (1)Ivanteevka Central Town Hospital, Ivanteevka, Moscow Region (2)All-Russian Research Institute of Medicinal and Aromatic Plants, Moscow (3)RZhD-Meditsina Central Clinical Hospital, Moscow (4)Akademiya Zdoroviya (Academy of Health) Medical Center, Yaroslavl (5)I.M. Sechenov First Moscow State Medical University (Sechenov University)</authors_info_en>
+        <abstract_en>The task has been completed by choosing and using sorbents in the dehelmintization pro-cess. Objective: to determine the efficiency of detoxification in patients diagnosed with helmin-thiases. To study the combined use of anthelmintic agents and plant sorbents for endotoxemia elimination and in the dehelmintization process. Subjects and methods. There were a total of 180 patients, including 41% with skin allergy and 59% with gastrointestinal tract diseases. The patients took nemozole tablets for dehelmintiza-tion. They used in parallel plant enterosorbents, such as bran, zosterin-ultra, beet root powder. En-terosgel was used as a control. Fecal changes were monitored by histological and coprological sur-veys. Results and discussion. Pectins have a fairly potent sorption activity and, unlike the con-trol (enterosgel), antibacterial, therapeutic, and nutritional effects. The use of enterosorbents is mandatory in all patients before and during dehelmintization. Patients with a family history of al-lergy should additionally take antihistamines.</abstract_en>
+        <keywords_en>
+            <item>gastroenterology</item>
+            <item>plant sorbents</item>
+            <item>dehelmintization</item>
+            <item>allergic reactions</item>
+            <item>gastrointestinal tract diseases</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-06-09</doi>
+        <first_page>48</first_page>
+        <title_ru>Гериатрические синдромы – эпидемиология, диагностика, профилактика</title_ru>
+        <authors_list_ru>
+            <item>Е.Д. Голованова</item>
+            <item>Д.С. Баженова</item>
+            <item>А.С. Редьков</item>
+            <item>Н.С. Канареев</item>
+        </authors_list_ru>
+        <authors_info_ru>Е.Д. Голованова, доктор медицинских наук, профессор, Д.С. Баженова, А.С. Редьков, Н.С. Канареев Смоленский государственный медицинский университет E-mail: golovanovaed@rambler.ru</authors_info_ru>
+        <abstract_ru>Целью настоящей работы явилось изучение распространенности некоторых наиболее часто встречающихся гериатрических синдромов (старческой астении, синдрома мальнутриции) у пациентов пожилого и старческого возраста – жителей города и села Смоленского региона. Исследовано состояние здоровья с помощью метода комплексной гериатрической оценки (КГО) у 340 пациентов, проведен анализ историй болезни и амбулаторных карт. По скрининговой шкале «Возраст не помеха» проведен отбор пациентов с предполагаемым синдромом старческой астении (сумма баллов 3 и более). Состояние нутритивного статуса было оценено при помощи опросника Mini nutritional assessment (MNA). В статье представлены результаты исследования распространенности синдрома старческой астении и мальнутриции (нарушенного питания) среди пациентов пожилого, старческого возрастов Смоленского региона, изучена роль социально-экономического статуса в развитии синдрома мальнутриции и проведена сравнительная характеристика значений индекса Бартела в различных возрастных группах.</abstract_ru>
+        <keywords_ru>
+            <item>гериатрия</item>
+            <item>гериатрические синдромы</item>
+            <item>старческая астения</item>
+            <item>синдром мальнутриции</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Ильницкий А.Н., Прощаев К.И. Старческая астения (frailty) как концепция современной геронтологии. Геронтология. 2013; 1 (1): 1–12 [Il’nickij A.N., Proshhaev K.I. Senile asthenia (frailty) as a concept of modern gerontology. Gerontology. 2013; 1 (1): 1–12 (in Russ.)].</item>
+            <item>Зарудский А.А., Прощаев К.И. Старческая астения и сердечно-сосудистые болезни как факторы взаимоотягощения. Современные проблемы науки и образования. 2014; 1 [Zarudskij A.A., Proshhaev K.I. Senile asthenia and cardiovascular diseases as factors of mutual complication. Modern problems of science and education. 2014; 1 (in Russ.)].</item>
+            <item>Кисилева Г.В., Рафальская К.А. Распространенность гериатрических синдромов у пациентов врача общей практики. Российский семейный врач. 2017; 21 (4): 21–8 [Kiseleva G.V., Rafalskaya K.A. The prevalence of geriatric syndromes in general practice. Russian Family Doctor. 2017; 21 (4): 21–8 (in Russ.)]. DOI: 10.17816/RFD2017421-28</item>
+            <item>Шлепцова М.В., Фролова Е.В. Распространенность основных гериатрических синдромов в практике врача-гериатра амбулаторного этапа и возможности их коррекции. Российский семейный врач. 2018; 22 (2): 30–6 [Shlepcova M.V., Frolova E.V. The prevalence of major geriatric syndromes in the practice of an outpatient geriatrician and the possibility of their correction. Russian Family Doctor. 2018; 22 (2): 30–6 (in Russ.)]. DOI: 10.17816/RFD2018230-36</item>
+            <item>Ильницкий А.Н., Прощаев К.И., Кривецкий В.В. и др. Распространенность синдрома мальнутриции среди людей пожилого возраста. Фундаментальные исследования. 2012; 7: 330–3 [Ilnitski A.N., Praschayeu K.I., Krivetski V.V. et al. The prevalence of the syndrome of malnutrition among elders. Fundamental research. 2012; 7: 330–3 (in Russ.)].</item>
+        </references_ru>
+        <last_page>51</last_page>
+        <title_en>GERIATRIC SYNDROMES – EPIDEMIOLOGY, DIAGNOSTICS, PREVENTION</title_en>
+        <authors_info_en>Professor E. Golovanova, MD; D. Bazhenova; A. Red’kov; N. Kanareev Smolensk State Medical University</authors_info_en>
+        <abstract_en>The object of the following research is to study the incidence of the most widespread geriatric syndromes (frailty, syndrome malnutrition) advanced age and senility patients are suffering – in structure of rural dwellers and city dwellers population in Smolensk region. Health status of 340 patients was examined by the agency of Comprehensive geriatric assessment (CGA), case histories and outpatient’s cards were analyzed. Particular patients, supposedly suffering from frailty, were selected according to screening scale «Age is not a hindrance» (total score 3 and beyond). Nutrition status was examined by the agency of Mini nutritional assessment (MNA). In this article the geriatric syndromes and malnutrition (nutritional disorder) incidence research results in structure of advanced age and senility patients in Smolensk region population were represented, also the part of socio-economic status in conjunction with malnutrition syndrome genesis was studied and the comparative characteristics of Barthel Index figures of various age groups was accomplished.</abstract_en>
+        <keywords_en>
+            <item>geriatrics</item>
+            <item>geriatric syndromes</item>
+            <item>frailty</item>
+            <item>malnutrition syndrome</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-06-10</doi>
+        <first_page>52</first_page>
+        <title_ru>Пандемия коронавируса: жизнь пожилых людей в изоляции</title_ru>
+        <authors_list_ru>
+            <item>А.В. Алехина</item>
+            <item>М.В. Силютина</item>
+            <item>А.В. Чернов</item>
+            <item>С.Г. Тестова</item>
+            <item>О.Н. Таранина</item>
+        </authors_list_ru>
+        <authors_info_ru>А.В. Алехина(1, 2), М.В. Силютина(1), А.В. Чернов(1), доктор медицинских наук, С.Г. Тестова(1), О.Н. Таранина(1) (1)Воронежский государственный медицинский университет им. Н.Н. Бурденко (2)Семилукская районная больница им. А.В. Гончарова, Воронежская область, Семилуки E-mail: alechinaannaalex@gmail.com</authors_info_ru>
+        <abstract_ru>В связи с распространением новой коронавирусной инфекции в России людям старше 65 лет рекомендуется соблюдать режим самоизоляции, так как у пациентов старше 65 лет новая коронавирусная инфекция протекает, как правило, в тяжелой форме, нередко – с летальным исходом. Осложнениями являются пневмония и, как следствие, отек легких. В статье приведены простые упражнения для поддержания физической активности для пациентов старше 65 лет, находящихся в самоизоляции. Даны рекомендации для врачей первичного звена, работающих с такими пациентами (в том числе доступные цифровые технологии – приложение ICOPE Handbook App, ВОЗ).</abstract_ru>
+        <keywords_ru>
+            <item>геронтология</item>
+            <item>пандемия</item>
+            <item>COVID-19</item>
+            <item>пожилые пациенты</item>
+            <item>мобильное приложение</item>
+            <item>гериатрия</item>
+            <item>упражнения для пожилых</item>
+            <item>самоизоляция</item>
+        </keywords_ru>
+        <references_ru>
+            <item>WHO, Technical Report on Ageing, 2015. URL: https://www.who.int/ageing/events/world-report-2015-launch/en/</item>
+            <item>Al-Tawfiq J.A., Memish Z.A. Update on therapeutic options for Middle East Respiratory Syndrome Coronavirus (MERS-CoV). Exp. Rev. Anti-infect. Ther. 2017; 15 (3): 269–75. DOI: 10.1080/14787210.2017.1271712</item>
+            <item>Assiri A. et al. Middle East respiratory syndrome coronavirus infection during pregnancy: a report of 5 cases from Saudi Arabia. Clin. Infect. Dis. 2016; 63: 951–3. DOI: 10.1093/cid/ciw412</item>
+            <item>Alserehi H. et al. Impact of Middle East respiratory syndrome coronavirus (MERS-CoV) on pregnancy and perinatal outcome. BMC Infect. Dis. 2016; 16: 105. DOI: 10.1186/s12879-016-1437-y</item>
+            <item>Bassetti M. et al. The Novel Chinese Coronavirus (2019-nCoV) Infections: challenges for fighting the storm. Eur. J. Clin. Invest. 2020; 50 (3): e13209. DOI: 10.1111/eci.13209. URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/eci.13209</item>
+            <item>Ткачева О.Н. Методические рекомендации по двигательной активности для пожилых. М., 2017; с. 1–10 [Tkacheva O.N. Metodicheskie rekomendatsii po dvigatel’noi aktivnosti dlya pozhilykh. M., 2017; s. 1–10 (in Russ.)].</item>
+        </references_ru>
+        <last_page>55</last_page>
+        <title_en>The coronavirus pandemic: the life of elderly people under lockdown</title_en>
+        <authors_info_en>A. Alekhina(1, 2); M. Silyutina(1); A. Chernov(1), MD; S. Testova(1); O. Taranina(1) (1)N.N. Burdenko Voronezh State Medical University (2)A.V. Goncharov Semiluki District Hospital, Semiluki, Voronezh Region</authors_info_en>
+        <abstract_en>Due to the spread of the novel coronavirus infection in Russia, people over 65 years of age are advised to observe a lockdown regime, as in the patients older than 65 years, the new coronavirus infection generally occurs severely and often leads to death. The complications are pneumonia, resulting in pulmonary edema. The article provides simple exercises to maintain physical activity for patients older than 65 years who are under lockdown. It gives recommendations (including affordable digital technologies – the World Health Organization Integrated Care for Older People (ICOPE) Handbook App) for primary care physicians working with these patients.</abstract_en>
+        <keywords_en>
+            <item>gerontology</item>
+            <item>pandemic</item>
+            <item>COVID-19</item>
+            <item>elderly patients</item>
+            <item>mobile application</item>
+            <item>geriatrics</item>
+            <item>exercises for the elderly</item>
+            <item>lockdown</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-06-11</doi>
+        <first_page>55</first_page>
+        <title_ru>Комбинация гипербарической оксигенации и препарата Остеомед в лечении судорожных сокращений мышц нижних конечностей</title_ru>
+        <authors_list_ru>
+            <item>В.А. Темников</item>
+            <item>А.В. Токарев</item>
+            <item>Е.В. Вовк</item>
+        </authors_list_ru>
+        <authors_info_ru>В.А. Темников(1), А.В. Токарев(1), Е.В. Вовк(2) (1)Центр спортивной медицины «БАРОКОМ», Пенза (2)Пензенский государственный университет E-mail: DGE117@mail.ru</authors_info_ru>
+        <abstract_ru>Оценивается эффективность использования гипербарической оксигенации и курсового применения препарата Остеомед при лечении больных с синдромом судорожного сокращения мышц нижних конечностей.</abstract_ru>
+        <keywords_ru>
+            <item>терапия</item>
+            <item>хроническая венозная недостаточность</item>
+            <item>гипербарическая оксигенация</item>
+            <item>судорожные сокращения мышц нижних конечностей</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Барилко М., Цурцумия Д., Селиверстов П. и др. Остеомед в практике врача-терапевта. Врач. 2017; 28 (3): 37–40 [Barilko M., Tsurtsumiia D., Seliverstov P. The application of Osteomed in practice of physician. Vrach. 2017; 28 (3): 37–40 (in Russ.)]</item>
+            <item>Богачев В.Ю. Системная фармакотерапия хронической венозной недостаточности нижних конечностей. Современное состояние вопроса. РМЖ. 2004; 12 (17): 3–6 [Bogachev V.Yu. Sistemnaya farmakoterapiya khronicheskoi venoznoi nedostatochnosti nizhnikh konechnostei. Sovremennoe sostoyanie voprosa. RMZh. 2004; 12 (17): 3–6 (in Russ.)].</item>
+            <item>Ramelet A.-A. Место флеботропных средств в лечении заболеваний вен. Флеболимфология. 1999; 10: 11–5 [Ramelet A.-A. Mesto flebotropnykh sredstv v lechenii zabolevanii ven. Flebolimfologiya. 1999; 10: 11–5 (in Russ.)].</item>
+            <item>Кияшко В.А. Консервативное лечение хронической венозной недостаточности. РМЖ. 2002; 11 (26): 1214–9 [Kiyashko V.A. Konservativnoe lechenie khronicheskoi venoznoi nedostatochnosti. RMZh. 2002; 11 (26): 1214–9 (in Russ.)].</item>
+            <item>Михно Л., Левшин И., Поликарпочкин А. и др. Использование фармакологических средств для сохранения, восстановления и повышения работоспособности юных хоккеистов. Врач. 2018; 29 (9): 67–71 [Mikhno L., Levshin I., Polikarpochkin A. et al. Use of pharmacological agents to preserve, restore, and improve the performance of young hockey players. Vrach. 2018; 29 (9): 67–71 (in Russ.)]. DOI: 10.29296/25877305-2018-09-16</item>
+            <item>Поликарпочкин А.Н. Гипербарический кислород в медицине и спорте. Пенза: Изд. ПГУ, 2010; 250 с. [Polikarpochkin A.N. Giperbaricheskii kislorod v meditsine i sporte. Penza: Izd. PGU, 2010; 250 s. (in Russ.)]</item>
+            <item>Руководство по гипербарической медицине. Под ред. С.А. Байдина, А.Б. Граменицкого, Б.А.Рубинчика. М.: Медицина, 2008; 560 с. [Rukovodstvo po giperbaricheskoi meditsine. Pod red. S.A. Baidina, A.B. Gramenitskogo, B.A.Rubinchika. M.: Meditsina, 2008; 560 s. (in Russ.)].</item>
+            <item>Сарвилина И. Молекулярные механизмы эффективности препарата Остеомед Форте при псориатической артропатии. Врач. 2016; 26 (5): 49–54 [Sarvilina I. Molecular mechanisms of the efficacy of Osteomed Forte in psoriatic arthropathy. Vrach. 2016; 26 (5): 49–54 (in Russ.)].</item>
+            <item>Струков В.И. Гипервитаминоз D и гиперкальциемические состояния. Когда кальций опасен? Монография. 2-е изд., перераб., дополн. Пенза, 2014; 194 с. [Strukov V.I. Gipervitaminoz D i giperkal’tsiemicheskie sostoyaniya. Kogda kal’tsii opasen? Monografiya. 2-e izd., pererab., doрoln. Penza, 2014; 194 s. (in Russ.)].</item>
+            <item>Струков В.И. и др. Остеомед – эффективный регулятор минеральной плотности костей и закрытия полостных образований при лечении пресенильного и сенильного остеопороза. Поликлиника. 2013; 1 (1): 90–1 [Strukov V.I. et al. Osteomed – effektivnyi regulyator mineral’noi plotnosti kostei i zakrytiya polostnykh obrazovanii pri lechenii presenil’nogo i senil’nogo osteoporoza. Poliklinika. 2013; 1 (1): 90–1 (in Russ.)].</item>
+            <item>Шевченко Ю.Л., Стойко Ю.М., Лыткин М.И. Основы клинической флебологии. М.: Медицина, 2005 [Shevchenko Yu.L., Stoiko Yu.M., Lytkin M.I. Osnovy klinicheskoi flebologii. M.: Meditsina, 2005 (in Russ.)].</item>
+            <item>Handbook of venous disordes. 2nd Edition. Guidelines of the American Venous Forum. 2001; 557 p.</item>
+            <item>Zucarelli F. Diovenor 300 mg. Etude de l’activite therapeutique pendant 3 mois sur lesc oademes des membres inferieurs lies a une maladie veineuse fonctionnelle ou organique. Trib Med.1990; 343: 44–9.</item>
+            <item>Zucarelli F., Delecluse M., Ducros J.-J. et al. Essai clinique pragmatique de Diovenor 300 mg versus melange de flavonoides a 90% de diosmine dans le traitement des manifestations d’inssuffisance veineuse chronique chez la femme active jeune. Arteres et Veines. 1991; 7: 498–503.</item>
+            <item>Garde C., German C. Evaluation du meilleur horaire de prise unique, matin ou soir, de Diovenor 300 mg dans l’insuffisance veinese fonctionnelle des members inferieurs. JAMA (Suppl a Edit Franc). 1992; 3–7.</item>
+        </references_ru>
+        <last_page>63</last_page>
+        <title_en>A combination of hyperbaric oxygenation and Osteomed in the treatment of convulsive muscle contractions of the lower extremities</title_en>
+        <authors_info_en>V. Temnikov(1), A. Tokarev(1), E. Vovk(2) (1)Barokom Sports Medicine Center, Penza (2)Penza State University</authors_info_en>
+        <abstract_en>The authors evaluate the efficiency of hyperbaric oxygenation in combination of an Osteomed therapy cycle in treating patients with convulsive muscle contraction of the lower extremities.</abstract_en>
+        <keywords_en>
+            <item>therapy</item>
+            <item>chronic venous insufficiency</item>
+            <item>hyperbaric oxygenation</item>
+            <item>convulsive muscle contractions of the lower extremities</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-06-12</doi>
+        <first_page>63</first_page>
+        <title_ru>Случай хирургической коррекции деформаций переднего отдела стопы у пациента с гемофилией А</title_ru>
+        <authors_list_ru>
+            <item>А.В. Голобоков</item>
+            <item>В.Ю. Зоренко</item>
+            <item>Т.Ю. Полянская</item>
+            <item>Е.Е. Карпов</item>
+            <item>Н.В. Садыкова</item>
+            <item>М.С. Сампиев</item>
+            <item>Г.В. Мишин</item>
+            <item>Д.Ю. Петровский</item>
+            <item>А.А. Королева</item>
+        </authors_list_ru>
+        <authors_info_ru>А.В. Голобоков, В.Ю. Зоренко, доктор медицинских наук, профессор, Т.Ю. Полянская, кандидат медицинских наук, Е.Е. Карпов, Н.В. Садыкова, кандидат медицинских наук, М.С. Сампиев, Г.В. Мишин, Д.Ю. Петровский, А.А. Королева Национальный медицинский исследовательский центр гематологии Минздрава России, Москва E-mail: golobokov_aleks@mail.ru</authors_info_ru>
+        <abstract_ru>В статье приведен пример успешной хирургической коррекции переднего отдела стопы у пациента с тяжелой формой гемофилии А, полой стопой (pes cavus), молоткообразной деформацией III степени по М.И. Куслику при использовании современных широко применяемых во всем мире хирургических технологий.</abstract_ru>
+        <keywords_ru>
+            <item>гемофилия</item>
+            <item>гемофилическая артропатия</item>
+            <item>конская стопа (pes equinus), полая стопа (pes cavus)</item>
+            <item>Hallux Valgus</item>
+            <item>молоткообразная деформация пальцев стопы</item>
+            <item>проксимальные остеотомии плюсневых костей</item>
+            <item>проксимальная клиновидная остеотомия</item>
+            <item>Helal-остеотомия</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Андреев Ю.Н. Многоликая гемофилия. М: Ньюдиамед, 2006 [Andreev Yu.N. Mnogolikaya gemofiliya. M: N’yudiamed, 2006 (in Russ.)].</item>
+            <item>Полянская Т.Ю., Зоренко В.Ю., Карпов Е.Е. Современные представления о патогенезе гемофилической артропатии. Вопросы гематологии/онкологии и иммунопатологии в педиатрии. 2015; 14 (3): 5–12 [Polyanskaya T.Y., Zorenko V.Y., Karpov E.E. Modern concepts of the pathogenesis of haemophilic arthropathy. Pediatric Hematology/Oncology and Immunopathology. 2015; 14 (3): 5–12 (in Russ.)]. https://doi.org/10.24287/1726-1708-2015-14-3-5-12</item>
+            <item>Зоренко В.Ю. Реконструктивно-восстановительное лечение больных гемофилией. Автореф. дисс. … д-ра мед. наук. Барнаул, 2007 [Zorenko V.Yu. Rekonstruktivno-vosstanovitel’noe lechenie bol’nykh gemofiliei. Avtoref. diss. … d-ra med. nauk. Barnaul, 2007 (in Russ.)].</item>
+            <item>Jansen N.W.D., Roosendaal G., Lafeber F.P. Understanding haemophilic arthropathy: an exploration of current open issues. Br J Haematol. 2008; 143: 632–40. DOI: 10.1111/j.1365-2141.2008.07386.x</item>
+            <item>Llinás A. Haemophilic arthropathy. Haemophilia. 2010; 16 (Suppl 5): 121. DOI: 10.1111/j.1365-2516.2010.02309_1.x</item>
+            <item>Arnold W.D., Hilgartner M.W. Hemophilic arthropathy. Current concepts of pathogenesis and management. J. Bone Joint. Surg. Am. 1977; 59 (3): 287–305.</item>
+            <item>Кудлай Д.А. Иммунометаболические аспекты патогенеза политравмы. Автореф. дисс. … д-ра мед. наук. Новосибирск, 2007 [Kudlay D.A. Immunometabolicheskie aspekty patogeneza politravmy. Avtoref. diss. … d-ra med. nauk. Novosibirsk, 2007 (in Russ.)].</item>
+            <item>Меркулов В.Н. Способ оперативного лечения конской стопы при повреждениях малоберцового нерва у детей и подростков. Ортоп. и травмат. 1989; 2: 53 [Merkulov V.N. Sposob operativnogo lecheniya konskoi stopy pri povrezhdeniyakh malobertsovogo nerva u detei i podrostkov. Ortop. i travmat. 1989; 2: 53 (in Russ.)].</item>
+            <item>Егорова Е.А. Рентгенодиагностика в остеологии. М.: ООО «Столица», 2015; с. 356 [Egorova E.A. Rentgenodiagnostika v osteologii. M.: OOO «Stolitsa», 2015; s. 356 (in Russ.)].</item>
+            <item>Загородний Н.В., Карданов А.А., Макинян Л.Г. и др. Некоторые аспекты хирургического лечения деформаций переднего отдела стоп. Вестник РУДН. Серия: Медицина. 2008; 6: 151–5 [Zagorodniy N.V., Kardanov A.A., Makinyan L.G. et al. Some aspects of surgical treatment of forefoot. Vestnik RUDN. Seriya: Meditsina. 2008; 6: 151–5 (in Russ.)].</item>
+            <item>Morton D.J. Hypermobility of the first metatarsal bone: interlinking factor between metatarsalgia and longitudinal arc strains. J. Bone Joint. Surg. 1928; 10: 187–96.</item>
+            <item>Stephens M.M. Pathogenesis of hallux valgus. Eur. J. Foot Ankle Surg. 1994; 1: 10.</item>
+            <item>Helal B. Metatarsal osteotomy for metatarsalgla. J. Bone Joint. Surg. 1975; 57 (2): 187–92.</item>
+            <item>Perera A.M., Lyndon M., Stephens M.M. The pathogenesis of hallux valgus. J. Bone Joint. Surg. 2011; 93 (17): 1650–61. DOI: 10.2106/JBJS.H.01630</item>
+            <item>Bai L.B., Lee K.B., Seo C.Y. et al. Distal chevron osteotomy with distal soft tissue procedure for moderate to severe hallux valgus deformity. Foot Ankle Int. 2010; 31 (8): 683–8. DOI: 10.3113/FAI.2010.0683</item>
+            <item>Мовшович И.А. Оперативная ортопедия. М., 1983; с. 391 [Movshovich I.A. Operativnaya ortopediya. M., 1983; s. 391 (in Russ.)].</item>
+            <item>Wapner K.L., Chao W. Nonoperative tretment of posterior tibial tendon dysfunction. Clin. Orthop. 1999; 65: 39–45. DOI: 10.1097/00003086-199908000-00005</item>
+            <item>Карданов А.А. Хирургическая коррекция деформаций стопы. М: Медпрактика-М, 2016; с. 40–116 [Kardanov A.A. Khirurgicheskaya korrektsiya deformatsii stopy. M: Medpraktika-M, 2016; s. 40–116 (in Russ.)].</item>
+            <item>Бережной С.Ю., Афанасьев Д.С. Чрескожная остеотомия центральных плюсневых костей в лечении статических метатарсалгий. Астраханский медицинский журнал. 2010; 5 (4): 83–6 [Berezhnoi S.Yu., Afanas’ev D.S. Chreskozhnaya osteotomiya tsentral’nykh plyusnevykh kostei v lechenii staticheskikh metatarsalgii. Astrakhanskii meditsinskii zhurnal. 2010; 5 (4): 83–6 (in Russ.)].</item>
+            <item>Зоренко В.Ю., Мишин Г.В., Северова Т.В. и др. Фармакокинетические свойства, безопасность и переносимость препарата Октофактор (результаты I фазы клинического исследования у больных гемофилией А). Вопросы гематологии/онкологии и иммунопатологии в педиатрии. 2013; 12 (2): 30–7 [Zorenko V.Yu., Mishin G.V., Severova T.V. et al. Pharmacokinetics, safety, and tolerability of Octofactor in patients with hemophilia A: Results of phase I clinical study. Pediatric Hematology/Oncology and Immunopathology. 2013; 12 (2): 30–7 (in Russ.)].</item>
+            <item>Давыдкин И.Л., Андреева Т.А., Зоренко В.Ю. и др. Эффективность и безопасность препарата Октофактор при профилактическом лечении больных с тяжелой и среднетяжелой формой гемофилии А (результаты 1-й части клинического исследования II–III фазы). Вопросы гематологии/онкологии и иммунопатологии в педиатрии. 2013; 12 (3): 29–37 [Davydkin I.L., Andreeva TA., Zorenko V.Yu. et al. Efficiency and safety of Octofactor in prevention of bleeding episodes in patients with severe and moderate hemophilia A: Results of part 1 of phase II-III clinical trial. Pediatric Hematology/Oncology and Immunopathology. 2013; 12 (3): 29–37 (in Russ.)].</item>
+            <item>Андреева Т.А., Зоренко В.Ю., Давыдкин И.Л. и др. Эффективность и безопасность препарата Октофактор в лечении больных с тяжелой и среднетяжелой формой гемофилии А (результаты 2-й части клинического исследования II и III фазы). Вопросы гематологии/онкологии и иммунопатологии в педиатрии. 2013; 12 (4): 31–7 [Andreyeva T.A., Zorenko V.Yu., Davydkin I.L. et al. Efficiency and safety of Octofactor in the treatment of patients with severe and moderate hemophilia A: Results of part 2 of phase II–III clinical trial. Pediatric Hematology/Oncology and Immunopathology. 2013; 12 (4): 31–7 (in Russ.)].</item>
+            <item>Kitaoka H.B. et al. Clinical rating systems for the anklehindfoot, midfoot, hallux, and lesser toes. Foot Ankle Int. 1994; 15 (7): 349–53. DOI: 10.1177/107110079401500701</item>
+        </references_ru>
+        <last_page>68</last_page>
+        <title_en>A case of surgical correction of forefoot deformities in a patient with hemophilia A</title_en>
+        <authors_info_en>A. Golobokov; Professor V. Zorenko, MD; T. Polyanskaya, Candidate of Medical Sciences; E. Karpov, N. Sadykova, Candidate of Medical Sciences; M. Sampiev, G. Mishin, D. Petrovsky, A. Koroleva National Medical Research Center of Hematology, Ministry of Health of Russia, Moscow</authors_info_en>
+        <abstract_en>The paper gives an example of successful surgical correction of the forefoot with the most used up-to-date surgical techniques worldwide in a patient with severe hemophilia A, hollow foot (pes cavus), and grade III hammertoe deformity according to the classification of M.I. Kuslik.</abstract_en>
+        <keywords_en>
+            <item>hemophilia</item>
+            <item>hemophilic arthropathy</item>
+            <item>tip foot (pes equinus), hollow foot (pes cavus)</item>
+            <item>Hallux Valgus</item>
+            <item>hammertoe deformity</item>
+            <item>proximal metatarsal osteotomies</item>
+            <item>proximal cuneiform osteotomy</item>
+            <item>Helal osteotomy</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-06-13</doi>
+        <first_page>69</first_page>
+        <title_ru>Профилактика развития и прогрессирования основных гериатрических синдромов у лиц старшего возраста в период самоизоляции: акцент на онлайн-адаптивную физическую культуру</title_ru>
+        <authors_list_ru>
+            <item>Т.Л. Оленская</item>
+            <item>В.Н. Астапенко</item>
+        </authors_list_ru>
+        <authors_info_ru>Т.Л. Оленская(1), доктор медицинских наук, доцент, В.Н. Астапенко(2) (1)Витебский государственный ордена Дружбы народов медицинский университет, Витебск, Республика Беларусь (2)Комитет по труду, занятости и социальной защите Витебского облисполкома, Витебск, Республика Беларусь E-mail: t_olen@tut.by</authors_info_ru>
+        <abstract_ru>Появление инфекции COVID-19 поставило перед специалистами здравоохранения и социальной службы задачи, связанные с оказанием медико-социальной помощи людям старшего возраста в период самоизоляции. В статье представлены результаты совместной работы Витебского государственного медицинского университета и Комитета по труду, занятости и социальной защите Витебского облисполкома по профилактике развития ряда гериатрических синдромов посредством онлайн-занятий адаптивной физической культурой.</abstract_ru>
+        <keywords_ru>
+            <item>пожилые люди</item>
+            <item>самоизоляция</item>
+            <item>адаптивная физкультура</item>
+            <item>эрготерапия</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Гериатрия: национальное руководство. Под ред. О.Н. Ткачевой, Е.В. Фроловой, Н.Н. Яхно. М., 2018; 608 [Geriatriya: natsional’noe rukovodstvo. Pod red. O.N. Tkachevoi, E.V. Frolovoi, N.N. Yakhno. M., 2018; 608 (in Russ.)].</item>
+            <item>Лазебник Л.Б. Практическая гериатрия (Избранные клинические и организационные аспекты). М: РАМН Межведомственный научный совет по геронтологии и гериатрии при РАМН и МЗ РФ, ЗАО «Объединенная редакция «Боргес»», 2002; 555 [Lazebnik L.B. Prakticheskaya geriatriya (Izbrannye klinicheskie i organizatsionnye aspekty). M: RAMN Mezhvedomstvennyi nauchnyi sovet po gerontologii i geriatrii pri RAMN i MZ RF, ZAO «Ob»edinennaya redaktsiya «Borges», 2002; 555 (in Russ.)].</item>
+            <item>Оленская Т.Л., Коневалова Н.Ю., Прощаев К.И. Основные гериатрические синдромы у пациентов с артериальной гипертензией: прогнозирование вероятности развития и их профилактика. Витебск, 2015; с. 76 [Olenskaya T.L., Konevalova N.Yu., Proshchaev K.I. Osnovnye geriatricheskie sindromy u patsientov s arterial’noi gipertenziei: prognozirovanie veroyatnosti razvitiya i ikh profilaktika. Vitebsk, 2015; s. 76 (in Russ.)].</item>
+            <item>Пожилой больной. Под ред. Л.И. Дворецкого. М., 2001 [Pozhiloi bol’noi. Pod red. L.I. Dvoretskogo. M., 2001 (in Russ.)].</item>
+            <item>Прощаев К.И., Ильницкий А.Н., Жернакова Н.И. Основные гериатрические синдромы. Учебное пособие. М.: АНО НИМЦ Геронтология, 2012; 228 [Proshchaev K.I., Il’nitskii A.N., Zhernakova N.I. Osnovnye geriatricheskie sindromy. Uchebnoe posobie. M.: ANO NIMTs Gerontologiya, 2012; 228 (in Russ.)].</item>
+        </references_ru>
+        <last_page>72</last_page>
+        <title_en>PREVENTION OF THE DEVELOPMENT AND PROGRESSION OF MAJOR GERIATRIC SYNDROME IN OLDER PERSONS DURING SELF-ISOLATION: EMPHASIS ON ONLINE ADAPTIVE PHYSICAL CULTURE</title_en>
+        <authors_info_en>T. Alenskaya(1), MD, Associate Professor, V. Astapenko(2) (1)Vitebsk State Order of Friendship of Peoples Medical University, Vitebsk, Republic of Belarus (2)Committee on Labour, Employment and Social Protection of the Vitebsk Regional Executive Committee, Vitebsk, Republic of Belarus</authors_info_en>
+        <abstract_en>The emergence of COVID-19 infection has set health and social service professionals with tasks related to the provision of medical and social assistance to older people during the period of self-isolation. The article presents the results of the joint work of the Vitebsk State Medical University and the Committee on Labour, Employment and Social Protection of the Vitebsk Regional Executive Committee on the prevention of the development of a number of geriatric syndrome through online activities in adaptive physical culture.</abstract_en>
+        <keywords_en>
+            <item>older people</item>
+            <item>self-isolation</item>
+            <item>adaptive physical education</item>
+            <item>ergotherapy</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-06-14</doi>
+        <first_page>73</first_page>
+        <title_ru>Влияние биорегуляционной терапии на течение пигментного ретинита у людей старшей возрастной группы</title_ru>
+        <authors_list_ru>
+            <item>С.В. Трофимова</item>
+            <item>Я. Дацерис</item>
+            <item>А.В. Трофимов</item>
+            <item>Р. Диаманти</item>
+        </authors_list_ru>
+        <authors_info_ru>С.В. Трофимова(1), доктор медицинских наук, профессор, Я. Дацерис(2), MD, профессор, А.В. Трофимов(3), доктор медицинских наук, Р. Диаманти(2) (1)Санкт-Петербургский институт биорегуляции и геронтологии (2)Офтальмологический госпиталь «ОММА», Афины, Греция (3)ООО «Клиника Древо жизни», Санкт-Петербург E-mail: dr.s.trofimova@gmail.com</authors_info_ru>
+        <abstract_ru>Представлены результаты 30-летнего клинического применения пептидных ретинопротекторов при лечении дегенеративных заболеваний сетчатки глаза, в частности, пигментного ретинита. Полученные данные свидетельствуют о высоком клиническом эффекте пептидных ретинопротекторов и перспективности применения данных лекарственных пептидных препаратов у людей старшей возрастной группы.</abstract_ru>
+        <keywords_ru>
+            <item>офтальмология</item>
+            <item>пептидные ретинопротекторы</item>
+            <item>пептидные биорегуляторы</item>
+            <item>пигментный ретинит</item>
+            <item>дистрофия сетчатки</item>
+        </keywords_ru>
+        <item>Трофимова С.В., Нероева В.В. Влияние ретиналамина на течение пигментной дегенерации сетчатки у лиц пожилого и старческого возраста. Геронтология и гериатрия. 2004; 3: 188–91 [Trofimova S.V., Neroeva V.V. Vliyanie retinalamina na techenie pigmentnoi degeneratsii setchatki u lits pozhilogo i starcheskogo vozrasta. Gerontologiya i geriatriya. 2004; 3: 188–91 (in Russ.)].</item>
+        <item>Трофимова С.В., Максимов И.Б., Нероев В.В. Регуляторное действие пептидов сетчатки. СПб: ИКФ «Фолиант», 2004; 160 с. [Trofimova S.V., Maksimov I.B., Neroev V.V. Regulyatornoe deistvie peptidov setchatki. SPb: IKF «Foliant», 2004; 160 s. (in Russ.)].</item>
+        <item>Хавинсон В.Х., Линькова Н.С., Проняева В.Е. Методика создания монослоя клеток на базе органотипической культуры для тестирования физио логически активных веществ. Бюлл. экспер. биол. мед. 2012; 2: 759 [Khavinson V.Kh., Lin’kova N.S., Pronyaeva V.E. Metodika sozdaniya monosloya kletok na baze organotipicheskoi kul’tury dlya testirovaniya fizio logicheski aktivnykh veshchestv. Byull. eksper. biol. med. 2012; 2: 759 (in Russ.)].</item>
+        <item>Хавинсон В.Х., Проняева В.Е., Линькова Н.С. и др. Пептидергическая регуляция дифференцировка эмбриональных клеток сетчатки. Клеточные технологии в биологии и медицине. 2013; 1: 57–60 [Khavinson V.K., Pronyaeva V.E., Linkova N.S. et al. Peptidegic regulation of differentiation of embryonic retinal cells. Bulletin of Experimental Biology and Medicine. 2013; 1: 57–60 (in Russ.)].</item>
+        <item>Anisimov V.N., Khavinson V.Kh. Peptide bioregulation of aging: results and prospects. Biogerontology. 2010; 11: 139. DOI: 10.1007/s10522-009-9249-8</item>
+        <item>Berson E.L., Rosner B., Sandberg M.A. Clinical trial of docosahexaenoic acid in patients with retinitis pigmentosa receiving vitamin A treatment. Arch. Ophthalmol. 2004; 122 (9): 1297–305. DOI: 10.1001/archopht.122.9.1297</item>
+        <item>Cremers F., Jose A. Molecular genetics of Leber congenital amaurosis. Hum. Molec. Genet. 2002; 11 (10): 1169–76. DOI: 10.1093/hmg/11.10.1169</item>
+        <item>Datseris Y., Diamanti R., Trofimova S. Results of many years of application of peptide bioregulators in patients with retinitis pigmentosa. In: Book of Abstracts. Proceedings of V European Congress of Preventive, Regenerative and Anti-Aging Medicine, St. Petersburg. September 8–10, 2016. SPb: FlyPrint, 2016; p. 31–2.</item>
+        <item>Datseris Y., Diamanti R., Trofimova S. Retinoprotectiv effect of peptide bioregulators in treatment of retinitis pigmentosa. In: Book of Abstracts International symposium of experts «Effective current approaches in anti-aging medicine and gerontology», Sweden, 13–14 April, 2018; p. 30–3.</item>
+        <item>Ferrari S., Iorio E., Barbaro V. et al. Retinitis pigmentosa: genes and disease mechanisms. Curr. Genomics. 2011; 1: 238–49. DOI: 10.2174/138920211795860107</item>
+        <item>Khavinson V. Peptides and Ageing. NeuroEndocrynol. Lett. 2002; 23 (Suppl. 3): 144.</item>
+        <item>Khavinson V.Kh., Malinin V.V., Trofimova S.V. et al. Inductive activity of retinal peptides. Bull. Exp. Biol. Med. 2002 (А); 134 (5): 482.</item>
+        <item>Khavinson V.Kh., Razumovsky M., Trofimova S. Pineal regulating tetrapeptide epitalon improves eye retina condition in retinitis pigmentosa. NeuroEndocrinol. Lett. 2002 (Б); 23 (4): 365.</item>
+        <item>Khavinson V.Kh., Solov’ev A.Yu., Zhilinskii D.V. et al. Epigenetic aspects of peptide mediated regulation of aging. Advances in Gerontology. 2012; 2 (4): 277.</item>
+        <item>Khavinson V.Kh., Zemchikhina V.N., Trofimova S.V. et al. Effect of peptides on proliferative activity of retinal and pigmented epithelial cells. Bull. Exp. Biol. Med. 2003; 135 (6): 597.</item>
+        <item>Khavinson V.Kh., Malinin V.V. Gerontological Aspects of Genom Peptide Regulation. Basel (Switzerland): Karger AG, 2005; p. 104.</item>Takano M. Brain derived neutrophic factor enhances neurite regeneration from retinal ganglion cells in aged human retina in vitro. Exp. Eye Res. 2002; 74 (2): 319–23.<references_ru>
+            <item>DOI: 10.1006/exer.2001.1118</item>
+            <item>Vanyushin B.F., Khavinson V.Kh. Short Biologically Active Peptides as Epigenetic Modulators of Gene Activity. W. Doerfler, P. Böhm (eds.). Epigenetics – A Different Way of Looking at Genetics. Springer International Publishing Switzerland, 2016; p. 69–90.</item>
+        </references_ru>
+        <last_page>75</last_page>
+        <title_en>Impact of bioregulation therapy on the course of retinitis pigmentosa in older people</title_en>
+        <authors_info_en>Professor S. Trofimova(1), MD; Professor Y. Datseris(2), MD; A. Trofimov(3), MD; R. Diamanti(2) (1)Saint Petersburg Institute of Bioregulation and Gerontology (2)OMMA Ophthalmology Hospital, Athens, Greece (3)OOO «Tree of Life. Clinic», Saint Petersburg</authors_info_en>
+        <abstract_en>The paper presents the results of 30-year clinical use of peptide retinoprotectors in the treatment of degenerative retinal diseases, retinitis pigmentosa in particular. The findings suggest that peptide retinoprotectors have a high clinical effect and that these peptide drugs are promising for use in older people.</abstract_en>
+        <keywords_en>
+            <item>ophthalmology</item>
+            <item>peptide retinoprotectors</item>
+            <item>peptide bioregulators</item>
+            <item>retinitis pigmentosa</item>
+            <item>retinal dystrophy</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-06-15</doi>
+        <first_page>76</first_page>
+        <title_ru>Ранняя диагностика гальваноза в полости рта</title_ru>
+        <authors_list_ru>
+            <item>Н.Г. Саркисян</item>
+            <item>П.И. Зараев</item>
+            <item>К.А. Хлыстова</item>
+            <item>Е.П. Юффа</item>
+        </authors_list_ru>
+        <authors_info_ru>Н.Г. Саркисян(1, 2), доктор медицинских наук, П.И. Зараев(3), К.А. Хлыстова(1), Е.П. Юффа(4), кандидат медицинских наук (1)Институт иммунологии и физиологии Уральского отделения РАН, Екатеринбург (2)Уральский государственный медицинский университет, Екатеринбург (3)Стоматологическая клиника «Дента ОС», Екатеринбург (4)Тюменский государственный медицинский университет E-mail: narine_25@mail.ru</authors_info_ru>
+        <abstract_ru>Статья посвящена ранней диагностике гальваноза полости рта. Анализ источников охватывает большой временной диапазон – последние 20 лет. В настоящее время имеются исследования о действии различных материалов, из которых изготавливаются зубные протезы, на слизистую оболочку и органы полости рта, а также на организм в целом. Число больных гальванозом после ортопедического лечения увеличивается. В статье освещается вопрос о внедрении портативных аппаратов, так как на данный момент их арсенал достаточно мал. Наряду с этим рассматривается значение аппаратов, принцип их действия, достоинства и недостатки для измерения электрохимического потенциала полости рта.</abstract_ru>
+        <keywords_ru>
+            <item>стоматология</item>
+            <item>гальваноз</item>
+            <item>диагностика</item>
+            <item>аппараты</item>
+            <item>металл</item>
+            <item>электрохимический потенциал</item>
+            <item>слизистая оболочка полости рта</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Жидовинов А.В., Головченко С.Г., Денисенко Л.Н. и др. Проблема выбора метода очистки провизорных конструкций на этапах ортопедического лечения. Современные проблемы науки и образования. 2015; 3 [Zhidovinov A.V., Golovchenko, S.G., Denisenko L.N. et al. The problem of choice cleaning methods provisionally designs on stage orthopedic treatment. Modern problems of science and education. 2015; 3 (in Russ.)]. URL: https://science-education.ru/ru/article/view?id=20120</item>
+            <item>Dal Sacco D., Gilbelli D., Gallo R. Contact allergy in the burning mouth syndrome: a retrospective study on 38 patients. Acta Dermato-Venerologica. 2005; 85 (1): 63–4.</item>
+            <item>Kaneko Т. Influence of finishing on the electrochemical properties of dental alloys. Bull. Tokyo Dent. Coll. 2000; 41 (2): 49–57. DOI: 10.2209/tdcpublication.41.49</item>
+            <item>Karov J., Hinberg I. Galvanic corrosion of selected dental alloys. J. Oral. Rehab. 2001; 28 (3): 212–9.</item>
+            <item>Messer R.L.W., Lucas L.C. Cytotoxicity of nickel-chromium alloys: bulk alloys compared to multiple ion salt solutions. Dental Materials. 2000; 16 (3): 207–12. DOI: 10.1016/s0109-5641(00)00010-5</item>
+            <item>Potgieter J.H. Corrosion of passive alloys: the effect of noble metal additions. Shreir’s Corrosion. 2010; 2224–49.</item>
+            <item>Данилина Т.Ф. Литье в ортопедической стоматологии. Волгоград: ВолгГМУ; 2011; 131 с. [Danilina T.F. Lit’e v ortopedicheskoi stomatologii. Volgograd: VolgGMU; 2011; 131 s. (in Russ.)].</item>
+            <item>Саган Н.Н. Выявление гальванических токов в полости рта. Стоматолог. 2006; 1: 35–43 [Sagan N.N. Vyyavlenie gal’vanicheskikh tokov v polosti rta. Stomatolog. 2006; 1: 35–43 (in Russ.)].</item>
+            <item>Schmalz G., Garhammer P. Biological interactions of dental cast alloys with oral tissues. Dental Materials. 2002; 18 (5): 396–406. DOI: 10.1016/s0109-5641(01)00063-x</item>
+            <item>Васенев Е.Е. Измерение биоэлектрической активности слизистой оболочки полости рта у стоматологических больных. Мед. вестн. Юга России. 2016; 3: 36–41 [Vasenev E.E.1, Alechanova I.F.1, Starikova I.V. et al. Bioelectric potential measurement of oral cavity of dental patients. Medical Herald of the South of Russia. 2016; 3: 36–41 (in Russ.)]. DOI: 10.21886/2219-8075-2016-3-36-39</item>
+            <item>Марков Б.П. Комплексный подход к проблеме индивидуальной непереносимости стоматологических конструкций из различных материалов. Стоматология. 2003; 3: 47–51 [Markov B.P. Kompleksnyi podkhod k probleme individual’noi neperenosimosti stomatologicheskikh konstruktsii iz razlichnykh materialov. Stomatologiya. 2003; 3: 47–51 (in Russ.)].</item>
+            <item>Amado F., Lobi M.J., Domingues P. et al. Salivary peptidomics. Expert Rev. Proteomics. 2010; 7 (5): 709–21. DOI: 10.1586/epr.10.48</item>
+            <item>Wataha J.C. Biocompatibility of dental casting alloys: a review. J. Prosthet. Dent. 2000; 83 (2): 223–34. DOI: 10.1016/s0022-3913(00)80016-5</item>
+            <item>Бухарцева Н.А. Механизмы развития и лечение парестезии слизистой оболочки рта на фоне заболеваний желудка с повышенной кислотообразующей функцией. Автореф. дис. … канд. мед. наук. СПб, 2017; 14 с. [Bukhartseva N.A. Mekhanizmy razvitiya i lechenie parestezii slizistoi obolochki rta na fone zabolevanii zheludka s povyshennoi kislotoobrazuyushchei funktsiei. Avtoref. dis. … kand. med. nauk. SPb, 2017; 14 s. (in Russ.)].</item>
+            <item>Борисова Э.Г., Комова А.А. Диагностика гальваноза в амбулаторных условиях. Здоровье и образование в XXI веке. 2018; 20 (6): 38–42 [Borisova E.G., Komova A.A. Diagnostics of galvanosis in outpatient conditions. Health &amp; Education Millennium. 2018; 20 (6): 38–42 (in Russ.)]. http://dx.doi.org/10.26787/nydha-2226-7425-2018-20-4-38-41</item>
+            <item>Гречишников В.Н. Методы диагностики гальваноза. Научное обозрение. Медицинские науки. 2017; 4: 7–11 [Grechishnikov N.S. Methods of diagnosis galvanosis. Scientific Review. Medical Sciences. 2017; 4: 7–11 (in Russ.)].</item>
+            <item>Борисова Э.Г., Комова А.А., Никитина Е.А. Особенности состояния пародонта при гальванозе полости рта. Здоровье и образование в XXI веке. 2018; 20 (5): 50–4 [Borisova E.G., Komova A.A., Nikitina E.A. Features of the status of parodont in the conditions of galvanosis in oral cavity. Health &amp; Education Millennium. 2018; 20 (5): 50–4 (in Russ.)]. http://dx.doi.org/10.26787/nydha-2226-7425-2018-20-5-50-54</item>
+            <item>Гумилевский Б.Ю., Жидовинов А.В., Деревянченко С.П. и др. Взаимосвязь иммунного воспаления и клинических проявлений гальваноза полости рта. Фундаментальные исследования. 2014; 7–2: 278–81 [Gumilevskiy B.Y., Zhidovinov A.V., Derevyanchenko S.P. et al. The relationship of immune inflammation and clinical manifestations of galvanise oral cavities. Fundamental Research. 2014; 7–2: 278–81 (in Russ.)].</item>
+            <item>Kulak Y., Arikan A. Effect of dental base metal alloys on IgE levels and some blood parameters. J. Oral. Rehab. 2008; 24 (10): 749–54. DOI: 10.1046/j.1365-2842.1997.00549.x</item>
+            <item>Борисова Э.Г., Комова А.А., Никитина Е.А. Особенности микроциркуляции в слизистой оболочке полости рта при хроническом рецидивирующем афтозном стоматите и при сочетании хронического афтозного стоматита с гальванозом. Здоровье и образование в XXI веке. 2018; 20 (6): 38–42 [Borisova E.G., Komova A.A. Diagnostics of galvanosis in outpatient conditions. Health &amp; Education Millennium. 2018; 20 (6): 38–42 (in Russ.)]. http://dx.doi.org/10.26787/nydha-2226-7425-2018-20-4-38-41.</item>
+            <item>Борисова Э.Г., Никитенко В.В. Методологические подходы к оказанию медицинской помощи пациентам с хроническими болевыми синдромами полости рта. Международный научно-исследовательский журнал. 2016; 6 (48): 59–61 [Nikitenko V.V., Borisova E.G. Methodological approach to rendering medical aid to patients with chronic pain syndromes of the oral cavity. International Research Journal. 2016; 6 (48): 59–61 (in Russ.)]. https://doi.org/10.18454/IRJ.2016.48.090</item>
+            <item>Борисова Э.Г., Никитенко В.В., Хлебников Д.А. Методы дифференциальной диагностики гальваноза и глоссодинии в амбулаторных условиях. Здоровье и образование в XXI веке. 2016; 18 (4): 29–31 Borisova E.G., Nikitenko V.V., Khlebnikov D.A. Methods of differential diagnosis galvanosis and glossodinii on an outpatient basis. Health &amp; Education Millennium. 2016; 18 (4): 29–31 (in Russ.)].</item>
+            <item>Кунин А.А., Борисова Э.Г., Ипполитов Ю.А. Глоссодиния – хронический болевой синдром языка. Воронеж: ВГПУ; 2014; 97 с. [Kunin A.A., Borisova E.G., Ippolitov Yu.A. Glossodiniya – khronicheskii bolevoi sindrom yazyka. Voronezh: VGPU; 2014; 97 s. (in Russ.)].</item>
+            <item>Данилина Т.Ф., Жидовинов А.В., Порошин А.В. и др. Диагностические возможности гальваноза полости рта у пациентов с металлическими ортопедическими конструкциями. Современные наукоемкие технологии. 2012; 2: 49–51 [Danilina T.F., Zhidovinov A.V., Poroshin A.V. et al. Crown for differential diagnostics galvanos. Modern High Technologies. 2012; 2: 49–51 (in Russ.)].</item>
+            <item>Леоненко П.В. Дифференциально-диагностические критерии клинических форм непереносимости сплавов металлов зубных протезов. Современная стоматология. 2003; 1: 104–8 [Leonenko P.V. Differentsial’no-diagnosticheskie kriterii klinicheskikh form neperenosimosti splavov metallov zubnykh protezov. Sovremennaya stomatologiya. 2003; 1: 104–8 (in Russ.)].</item>
+            <item>Choi B.W., Lim H.N. Effect of compositional difference by presence or absence of beryllium on castabilty of dental Ni-Cr alloys. Korean J. Dent. Materials. 2011; 38 (1): 43–50.</item>
+            <item>Никитенко В.В., Борисова Э.Г. Клинические аспекты диагностики, лечения и профилактики основных заболеваний и болевых симптомов языка. Учеб. пос. СПб: Нормедиздат, 2016; 80 с. [Nikitenko V.V., Borisova E.G. Klinicheskie aspekty diagnostiki, lecheniya i profilaktiki osnovnykh zabolevanii i bolevykh simptomov yazyka. Ucheb. pos. SPb: Normedizdat, 2016; 80 s. (in Russ.)].</item>
+            <item>Mashkov A.V., Sirak S.V., Mikhalchenko D.V. et al. Variability index of activity of masticatory muscles in healthy individuals within the circadian rhythm. Int. J. Appl. Fundam. Res. 2016; 5.</item>
+            <item>Matveev S.V., Sirak S.V., Mikhalchenko D.V. et al. Rehabilitation diet patients using the dental and maxillofacial prostheses. Int. J. Appl. Fundam. Res. 2016; 5.</item>
+            <item>Гречишников Н.С. Методы диагностики гальваноза. Саратов: ООО «Научно-издательский центр «Академия Естествознания»», 2017 [Grechishnikov N.S. Metody diagnostiki gal’vanoza. Saratov: OOO «Nauchno-izdatel’skii tsentr «Akademiya Estestvoznaniya»», 2017 (in Russ.)].</item>
+            <item>Matveev S.V., Sirak S.V., Mikhalchenko D.V. et al. Selection criteria fixing materials for fixed prosthesis. Int. J. Appl. Fundam. Res. 2016; 5.</item>
+            <item>Поройский С.В., Михальченко Д.В., Ярыгина Е.Н. и др. К вопросу об остеоинтеграции дентальных имплантатов и способах ее стимуляции. Вестник ВолГМУ. 2015; 3 (55): 6–9 [Poroysky S.V., Mikhalchenko D.V., Yarigina E.N. et al. On the osseointergration of dental implants and methods of its stimulation. Vestnik VolGMU. 2015; 3 (55): 6–9 (in Russ.)].</item>
+            <item>Ронь Г.И., Жолудев С.Е., Баньков В.И. и др. Инновационные технологии диагностики в стоматологии. ИД «Тираж», 2009 [Ron’ G.I., Zholudev S.E., Ban’kov V.I. et al. Innovatsionnye tekhnologii diagnostiki v stomatologii. ID «Tirazh», 2009 (in Russ.)].</item>
+        </references_ru>
+        <last_page>78</last_page>
+        <title_en>Early diagnosis of galvanosis in the oral cavity</title_en>
+        <authors_info_en>N. Sarkisyan(1, 2), MD; P. Zaraev(3), K. Khlystova(1); E. Yuffa(4), Candidate of Medical Sciences (1)Institute of Immunology and Physiology, Ural Branch, Russian Academy of Sciences, Yekaterinburg (2)Ural State Medical University, Yekaterinburg (3)Denta OS Dental Clinic, Yekaterinburg (4)Tyumen State Medical University</authors_info_en>
+        <abstract_en>The paper deals with the early diagnosis of galvanosis in the oral cavity. An analysis of sources covers a long period range over the last 20 years. There have been currently many studies on the effect of various materials, from which dentures are made, on the oral mucosa and organs, as well as on the body as a whole. The number of patients with galvanosis is increasing after orthopedic treatment. The paper highlights the issue of introducing portable devices, as their arsenal is quite small at the moment. Along with this, it also considers the importance of devices, their principle of operation, advantages and disadvantages for measuring the electrochemical potential of the oral cavity.</abstract_en>
+        <keywords_en>
+            <item>dentistry</item>
+            <item>galvanosis</item>
+            <item>diagnosis</item>
+            <item>devices</item>
+            <item>metal</item>
+            <item>electrochemical potential</item>
+            <item>oral mucosa</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-06-16</doi>
+        <first_page>79</first_page>
+        <title_ru>Дифференцированный подход к оценке желудочковой эктопической активности: показания к назначению пролонгированной формы лаппаконитина гидробромида</title_ru>
+        <authors_list_ru>
+            <item>В.М. Фролов</item>
+        </authors_list_ru>
+        <authors_info_ru>В.М. Фролов, кандидат медицинских наук Медицинский центр преморбидных и неотложных состояний Центрального военного клинического госпиталя им. П.В. Мандрыка, Москва E-mail: v.frolov-med@mail.ru</authors_info_ru>
+        <abstract_ru>Целью настоящего исследования явились отбор пациентов из числа лиц с высоким уровнем желудочковой эктопической активности, которым показано лечение пролонгированной формой лаппаконитина гидробромида (препарат Аллафорте®), изучение антиаритмической эффективности препарата при различных некоронарогенных заболеваниях, а также анализ роли инструментальных исследований при оценке желудочковых аритмий и их значения при контроле эффективности проводимой терапии.</abstract_ru>
+        <keywords_ru>
+            <item>кардиология</item>
+            <item>аритмии</item>
+            <item>желудочковая эктопическая активность</item>
+            <item>лаппаконитина гидробромид</item>
+            <item>Аллафорте®</item>
+            <item>эффективность</item>
+            <item>побочные действия</item>
+            <item>вариабельность сердечного ритма</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Кушаковский М.С. Аритмии сердца. СПб: Фолиант 2004; c. 226–7 [Kushakovskii M.S. Aritmii serdtsa. SPb: Foliant 2004; c. 226–7 (in Russ.)].</item>
+            <item>Шомахов Р.А., Макаренко В.Н., Бокерия Л.А. Эволюция методов диагностики и прогнозирования некоронарогенных желудочковых аритмий. Креативная кардиология. 2014; 2: 36–47 [Shomakhov R.A., Makarenko V.N., Bockeria L.A. Evolution of diagnostic methods and prediction of noncoronary ventricular arrhythmias. Creative Cardiology. 2014; 2: 36–47 (in Russ.)].</item>
+            <item>Трешкур Т.В. Дифференцированный подход к лечению желудочковых аритмий. Доктор.Ру. 2008; 3: 14–9 [Treshkur T.V. Differentsirovannyi podkhod k lecheniyu zheludochkovykh aritmii. Doktor.Ru. 2008; 3: 14–9 (in Russ.)].</item>
+            <item>Голицын С.П. Устранение желудочковых аритмий и снижение риска смерти: всегда ли пути в одном направлении? Сердце. 2006; 5 (1): 4–11 [Golitsyn S.P. Ustranenie zheludochkovykh aritmii i snizhenie riska smerti: vsegda li puti v odnom napravlenii? Serdtse. 2006; 5 (1): 4–11 (in Russ.)].</item>
+            <item>Руководство по нарушениям ритма сердца. Под ред. Е.И. Чазова, С.П. Голицына. М.: ГЭОТАР-Медиа, 2008; 416 с. [Rukovodstvo po narusheniyam ritma serdtsa. Pod red. E.I. Chazova, S.P. Golitsyna. M.: GEOTAR-Media, 2008; 416 s. (in Russ.)].</item>
+            <item>Bigger J.T. Identification of patients high risk for sudden cardiak death. Am J Cardiol. 1984; 54: 3D–8D. DOI: 10.1016/s0002-9149(84)80277-5</item>
+            <item>Недоступ А.В., Благова О.В. Как лечить аритмии. Диагностика и терапия нарушений ритма и проводимости в клинической практике. М.: МЕДпресс-информ, 2006; 288 с. [Nedostup A.V., Blagova O.V. Kak lechit’ aritmii. Diagnostika i terapiya narushenii ritma i provodimosti v klinicheskoi praktike. M.: MEDpress-inform, 2006; 288 s. (in Russ.)].</item>
+            <item>Соколов С.Ф., Беляева М.М., Бакалов С.А. и др. Лаппаконитина гидробромид и его пролонгированная форма при желудочковой экстрасистолии у больных без органической патологии сердца: эффективность и безопасность. Кардиология: новости, мнения, обучение. 2018; 6 (2): 29–37 [Sokolov S.F., Belyaeva M.M., Bakalov S.A. et al. Lappaconitine hydrobromide and its sustained-release form in case of ventricular premature beats in patients without organic heart diseases: efficiency and safety. Kardiologiya: novosti, mneniya, obuchenie. 2018; 6 (2): 29–37 (in Russ.)]. DOI: 10.24411/2309-1908-2018-12004</item>
+            <item>Соколов С.Ф. Аллапинин и пролонгированная форма лаппаконитина гидро-бромида – аллафорте. Современные подходы к лечению нарушений ритма сердца. Методические рекомендации по применению препарата. М., 2018; 45 с. [Sokolov S.F. Allapinin i prolongirovannaya forma lappakonitina gidro-bromida – allaforte. Sovremennye podkhody k lecheniyu narushenii ritma serdtsa. Metodicheskie rekomendatsii po primeneniyu preparata. M., 2018; 45 s. (in Russ.)].</item>
+            <item>Дощицын В.Л. Принципы и тактика медикаментозной терапии аритмий сердца. Врач. 2001; 1: 19–20 [Doshchitsyn V.L. Printsipy i taktika medikamentoznoi terapii aritmii serdtsa. Vrach. 2001; 1: 19–20 (in Russ.)].</item>
+            <item>Дощицын В.Л. Антиаритмические препараты. 1С класс: актуальные вопросы. Эффективная фармакотерапия в кардиологии и ангиологии. 2007; 1: 32 [Doshchitsyn V.L. Antiaritmicheskie preparaty. 1С klass: aktual’nye voprosy. Effektivnaya farmakoterapiya v kardiologii i angiologii. 2007; 1: 32 (in Russ.)].</item>
+            <item>Шляхто Е.В., Трешкур Т.В., Пармон Е.В. и др. Идиопатические желудочковые нарушения ритма: результаты проспективного наблюдения. Вестник аритмологии. 2003; 33: 5–11 [Shlyakhto E.V., Treshkur T.V., Parmon E.V. et al. Idiopathic ventricular arrhythmias: data of long-term follow-up. Vestnik aritmologii. 2003; 33: 5–11 (in Russ.)].</item>
+            <item>Абдин А.А., Мазур Н.А., Назаренко В.А. Сравнение эффективности и алгоритмы подбора антиаритмических препаратов I класса у больных с желудочковыми нарушениями ритма. Кардиология. 1991; 6: 22–5 [Abdin A.A., Mazur N.A., Nazarenko V.A. Sravnenie effektivnosti i algoritmy podbora antiaritmicheskikh preparatov I klassa u bol’nykh s zheludochkovymi narusheniyami ritma. Kardiologiya. 1991; 6: 22–5 (in Russ.)].</item>
+            <item>Bigger J.T., Sahar D.I. Clinical Types of Proarrhythmic Ressponse to Antiarrhythmic Drugs. Am J Cardiol. 1987; 59: 2E–9F. DOI: 10.1016/0002-9149(87)90195-0</item>
+            <item>Благова О.В., Недоступ А.В. Современные маски миокардита (от клинических синдромов к диагнозу). Российский кардиологический журнал. 2014; 5: 13–22 [Blagova O.V., Nedostup A.V. Contemporary masks of the myocarditis (from clinical signs to diagnosis). Russian Journal of Cardiology. 2014; 5: 13–22 (in Russ.)]. https://doi.org/10.15829/1560-4071-2014-5-13-22</item>
+        </references_ru>
+        <last_page>87</last_page>
+        <title_en>A differentiated approach to assessing ventricular ectopic activity: for whom sustained-release lappaconitine hydrobromide is indicated</title_en>
+        <authors_info_en>V. Frolov, Candidate of Medical Sciences Medical Center for Premorbid and Emergency Conditions, P.V. Mandryka Central Military Clinical Hospital, Moscow</authors_info_en>
+        <abstract_en>Objective: to select those, for whom the treatment with sustained-release lappaconitine hydrobromide (Allaforte®) is indicated, among the patients with high ventricular ectopic activity; to study the antiarrhythmic efficacy of the drug in patients with various non-coronarogenic diseases; to analyze the role of instrumental studies in the evaluation of ventricular arrhythmias and their importance in monitoring the efficiency of performed therapy.</abstract_en>
+        <item>cardiology</item>
+        <item>arrhythmias</item>
+        <item>ventricular ectopic activity</item>
+        <item>lappaconitine hydrobromide</item>
+        <item>Allaforte®</item>
+        <item>efficacy</item>
+        <item>side effects</item>
+        <item>heart rate variability</item>
+    </Article>
+</journal>

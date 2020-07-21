@@ -2,6 +2,7 @@
 
 from os import listdir, rename, environ
 import logging
+import ssl
 from pymongo import MongoClient
 from openpyxl import load_workbook
 from textprocessing_module import id_is_valid
@@ -17,7 +18,7 @@ def export_to_mongo() -> None:
     trash_dir = "trash"
 
     # setup DB connection
-    client = MongoClient(mongo_conection_string)
+    client = MongoClient(mongo_conection_string, ssl_cert_reqs=ssl.CERT_NONE)
     db = client.rvph
     collection = db.articles
 

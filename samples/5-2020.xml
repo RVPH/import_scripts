@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<journal>
+    <issue>5</issue>
+    <year>2020</year>
+    <volume>31</volume>
+    <date>28.05.20</date>
+    <issn>2587-7305</issn>
+    <Article>
+        <rubric_ru>актуальная тема</rubric_ru>
+        <doi>10.29296/25877305-2020-05-01</doi>
+        <first_page>3</first_page>
+        <title_ru>Лабораторные проявления коронавирусной инфекции COVID-19</title_ru>
+        <authors_list_ru>
+            <item>Р.Ю. Абдуллаев</item>
+            <item>О.Г. Комиссарова</item>
+        </authors_list_ru>
+        <authors_info_ru>Р.Ю. Абдуллаев(1), доктор медицинских наук, профессор, О.Г. Комиссарова(1, 2), доктор медицинских наук, профессор (1)Центральный научно-исследовательский институт туберкулеза, Москва (2)Российский национальный исследовательский медицинский университет им. Н.И. Пирогова, Москва E-mail: rizvan0403@yandex.ru</authors_info_ru>
+        <abstract_ru>В данном обзоре приводятся литературные данные об особенностях изменения показателей клинического и биохимического анализа крови, а также систем гемостаза и фибринолиза у больных с новой коронавирусной инфекцией COVID-19. Показано, что изменения в показателях клинического и биохимического анализа крови, а также систем гемостаза и фибринолиза при COVID-19 имеют свои особенности и тесно взаимосвязаны с характером течения инфекции. В клиническом анализе крови у пациентов данной категории наиболее часто встречаются лимфопения и тромбоцитопения. Среди биохимических показателей крови при COVID-19 чаще выявляются повышение уровня С-реактивного белка и ферритина, а также снижение уровня альбумина. Следует отметить, что у ⅓ тяжелых больных COVID-19 нарастает активность печеночных ферментов – аланин- и аспартатаминострансферазы. Среди показателей систем гемостаза и фибринолиза чаще выявляется повышение концентрации D-димера в плазме крови.</abstract_ru>
+        <keywords_ru>
+            <item>инфекционные болезни</item>
+            <item>COVID-19</item>
+            <item>лимфопения</item>
+            <item>тромбоцитопения</item>
+            <item>С-реактивный белок</item>
+            <item>ферритин</item>
+            <item>D-димер</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Chen N., Zhou M., Dong X. et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020; 395 (10223): 507–13. DOI: 10.1016/S0140-6736(20)30211-7</item>
+            <item>Chen H., Guo J., Wang C. et al. Clinical characteristics and intrauterine vertical transmission potential of COVID-19 infection in nine pregnant women: a retrospective review of medical records. Lancet. 2020; 395 (10226): 809–15. DOI: 10.1016/S0140-6736(20)30360-3</item>
+            <item>Guan W.J., Ni Z.Y., Hu Y. et al. China Medical Treatment Expert Group for COVID-19. Clinical characteristics of coronavirus disease 2019 in China. N. Engl. J. Med. 2020 Feb 28. DOI: 10.1056/NEJMoa2002032.records. Lancet. February 12, 2020. DOI: 10.1016/ S0140-6736(20)30360-3 Huang C., Wang Y., Li X. et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020; 395 (10223): 497–506. DOI: 10.1016/S0140-6736(20)30183-5</item>
+            <item>Lippi G., Plebani M. Laboratory abnormalities in patients with COVID-2019 infection. Clin. Chem. Lab. Med. (CCLM). 2020. DOI: 10.1515/cclm-2020-0198. Published online: 03 Mar 2020</item>
+            <item>Lippi G., Plebani M., Henry B.M. Thrombocytopenia is associated with severe coronavirus disease 2019 (COVID-19) infections: A meta-analysis. Clin. Chim. Acta. 2020; 506: 145–8. DOI: 10.1016/j.cca.2020.03.022</item>
+            <item>Lippi G., Mattiuzzi C. Hemoglobin value may be decreased in patients with severe coronavirus disease 2019. Hematol., Transfus. Cell Ther. 2020. DOI: 10.1016/j.htct.2020.03.001</item>
+            <item>Liu W., Li H. COVID-19: Attacks the 1-Beta Chain of Hemoglobin and Captures the Porphyrin to Inhibit Human Heme Metabolism. Chem. Rxiv. Preprint. 2020. https://doi.org/10.26434/chemrxiv.11938173.v6</item>
+            <item>Liu Y., Yang Y., Zhang C. et al. Clinical and biochemical indexes from 2019-nCoV infected patients linked to viral loads and lung injury. Sci. China Life Sci. 2020; 63 (3): 364–74. DOI: 10.1007/s11427-020-1643-8</item>
+            <item>Tang N., Li D., Wang X. et al. Abnormal coagulation parameters are associated with poor prognosis in patients with novel coronavirus pneumonia. J. Thromb. Haemost. 2020; 18 (4): 844–7. DOI: 10.1111/jth.14768</item>
+            <item>Tang N., Bai H., Chen X. et al. Anticoagulant treatment is associated with decreased mortality in severe coronavirus disease 2019 patients with coagulopathy. J. Thromb. Haemost. 2020. DOI: 10.1111/jth.14817</item>
+            <item>Wang D., Hu B., Hu C. et al. Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan, China. J. Am. Med. Assoc. 2020. DOI: 10.1001/jama.2020.1585</item>
+            <item>Wang X.F., Yuan J., Zheng Y.J. et al. Clinical and epidemiological characteristics of 34 children with 2019 novel coronavirus infection in Shenzhen. Zhonghua Er Ke Za Zhi. 2020; 58: E008.</item>
+            <item>Zhang J.J., Dong X., Cao Y.Y. et al. Clinical characteristics of 140 patients infected by SARS-CoV-2 in Wuhan, China. Allergy. 2020. DOI: 10.1111/all.14238</item>
+        </references_ru>
+        <last_page>6</last_page>
+        <title_en>Laboratory indicators of coronАvirus infection COVID-19</title_en>
+        <authors_info_en>Professor R. Abdullaev(1), MD; Professor O. Komissarova(1, 2), MD (1)Central Research Institute of Tuberculosis, Moscow (2)N.I. Pirogov Russian National Research Medical University, Moscow</authors_info_en>
+        <abstract_en>This review provides literature data on the features of changes in the indicators of clinical and biochemical analysis of blood, as well as hemostatic and fibrinolysis systems in patients with new coronavirus infection COVID-19. It was shown that changes in indicators of clinical and biochemical blood analysis, as well as hemostatic and fibrinolysis systems with COVID-19, have their own characteristics and are closely interrelated with the severity of infection. In a clinical blood test, lymphopenia and thrombocytopenia are most common in this category of patients. Among blood biochemical parameters with COVID-19, an increase in CRP and ferritin levels, as well as a decrease in albumin levels, are more often detected. It should be noted that in ⅓ of severe patients with COVID-19 infection, the activity of liver enzymes, ALT and AST, increases. Among the indicators of hemostasis and fibrinolysis systems, an increase in the concentration of D-dimer in blood plasma is more often detected.</abstract_en>
+        <keywords_en>
+            <item>infectious diseases</item>
+            <item>COVID-19</item>
+            <item>lymphopenia</item>
+            <item>thrombocytopenia</item>
+            <item>CRP</item>
+            <item>ferritin</item>
+            <item>D-dimer</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>актуальная тема</rubric_ru>
+        <doi>10.29296/25877305-2020-05-02</doi>
+        <first_page>6</first_page>
+        <title_ru>Пункционная вертебропластика при опухолях и заболеваниях позвоночника</title_ru>
+        <authors_list_ru>
+            <item>А.В. Яриков</item>
+            <item>А.А. Денисов</item>
+            <item>И.И. Смирнов</item>
+            <item>С.В. Масевнин</item>
+            <item>М.Ю. Докиш</item>
+            <item>О.А. Перльмуттер</item>
+            <item>А.П. Фраерман</item>
+            <item>А.Е. Симонов</item>
+        </authors_list_ru>
+        <authors_info_ru>А.В. Яриков(1, 2), кандидат медицинских наук, А.А. Денисов(3), И.И. Смирнов(2), С.В. Масевнин(3), кандидат медицинских наук, М.Ю. Докиш(3), кандидат медицинских наук, О.А. Перльмуттер(2), доктор медицинских наук, профессор, А.П. Фраерман(2), доктор медицинских наук, профессор, А.Е. Симонов(2), кандидат медицинских наук (1)Приволжский окружной медицинский центр ФМБА, Нижний Новгород (2)Городская клиническая больница №39, Нижний Новгород (3)Российский НИИ травматологии и ортопедии им. Р.Р. Вредена Минздрава России, Санкт-Петербург E-mail: anton-yarikov@mail.ru</authors_info_ru>
+        <abstract_ru>Пункционная вертебропластика – один из распространенных методов лечения больных с заболеваниями позвоночника разного генеза. Подробно изложены общие рекомендации по проведению пункционной вертебропластики, описана методика ее выполнения. Приведены биомеханические характеристики одного из часто используемых костных цементов – полиметилметакрилата. Описаны показания к вертебропластике, противопоказания и ее осложнения. Особое внимание уделено использованию этой процедуры при гемангиомах позвонков, метастатическом поражении и остеопорозе.</abstract_ru>
+        <keywords_ru>
+            <item>нейрохирургия</item>
+            <item>вертебропластика</item>
+            <item>гемангиома позвонка</item>
+            <item>остеопороз</item>
+            <item>метастатическое поражение позвоночника</item>
+            <item>опухоли позвоночника</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Парфенов В.Е., Мануковский В.А., Алексеев Е.Д. и др. Пункционная чрескожная вертебропластика в лечении патологии позвоночника. В кн.: Сборник лекций по актуальным вопросам нейрохирургии. СПб, 2008; с. 386–419 [Parfenov V.E., Manukovskiy V.A., Alekseev E.D. et al. Puncture percutaneous vertebroplasty in the treatment of spinal pathology. In the book: A Collection of lectures on topical issues of neurosurgery. SPb, 2008; s. 386–419 (in Russ.)].</item>
+            <item>Парфенов В.Е., Мануковский В.А., Кандыба Д.В. и др. Метод пункционной вертебропластики в лечении агрессивных гемангиом. Вестн. Рос. воен.-мед. акад. 2007; 4 (20): 24–31 [Parfyonov V.E., Manukovski V.A., Kandyba D.V. et al. Vertebroplasty method for treatment of aggressive hemangiomas. Ros. voen.-med. akad. 2007; 4 (20): 24–31 (in Russ.)].</item>
+            <item>Borgström F. et al. Costs and quality of life associated with osteoporosis-related fractures in Sweden. Osteoporosis Int. – 2006; 17 (5): 637–50. DOI: 10.1007/s00198-005-0015-8</item>
+            <item>Leech J. et al. Relationship of Lung Function to Severity of Osteoporosis in Women. Am. Rev. Respir. Dis. 1990; 141 (1): 68–71. DOI: 10.1164/ajrccm/141.1.68</item>
+            <item>Джинджихадзе Р.С., Лазарев В.А., Горожанин А.В. и др. Перкутанная вертебропластика. Нейрохирургия. 2005; 1: 36–40 [Gingihadze R.S., Lazarev V.A., Gorozhanin A.V. et al. Percutaneous vertebroplasty. Neirokhirurgiya. 2005; 1: 36–40 (in Russ.)].</item>
+            <item>Джинджихадзе P.С., Древаль О.Н., Лазарев В.А., и др. Хирургическое лечение миеломного поражения позвоночника и спинного мозга. Нейрохирургия. 2007; 3: 72–9 [Dzhindzhikhashvili R.S., Dreval O.N., Lazarev V.A. et al. Surgical treatment of myelogenic lesions in the vertebral column and the spinal cord. Neirokhirurgiya. 2007; 3: 72–9 (in Russ.)].</item>
+            <item>Зарецков В.В., Сумин Д.Ю., Арсениевич В.Б. и др. Вертебропластика при повреждениях тел поясничных позвонков у пациентов с остеопорозом. Хирургия позвоночника. 2011; 3: 26–30 [Zaretskov V.V., Sumin D.Y., Arsenievich V.B. et al. Vertebroplasty for lumbar vertebral body injury in patients with osteoporosis. Hirurgiâ pozvonočnika (Spine Surgery). 2011; 3: 26–30 (in Russ.)]. https://doi.org/10.14531/ss2011.3.26-30</item>
+            <item>Щедренок В.В., Могучая О.В., Себелев К.И. Применение вертебропластики при травме и заболеваниях позвоночника. Академический журнал Западной Сибири. 2013; 9 (6): 77 [Shchedrenok V.V., Mighty O.V., Sebelev K.I. The Use of vertebroplasty in trauma and diseases of the spine. Akademicheskii zhurnal Zapadnoi Sibiri. 2013; 9 (6): 77 (in Russ.)].</item>
+            <item>Валеев Е.К., Валеев И.Е. Пункционная вертебропластика (осложнения и пути их предупреждения). Практическая медицина. 2012; 8–2 (64): 22–4 [Valeev E.K., Valeev I.E. Paracentetic vertebroplasty (complications and their warnings). Prakticheskaya meditsina. 2012; 8–2 (64): 22–4 (in Russ.)].</item>
+            <item>Норкин И.А., Лихачев С.В., Чомартов А.Ю. и др. Гемангиомы позвоночника. Саратовский научно-медицинский журнал. 2010; 6 (2): 428–32 [Norkin I.A., Likhachev S.V., Chomartov A.Y. et al. Spinal Hemangiomas. Saratovskii nauchno-meditsinskii zhurnal. 2010; 6 (2): 428–32 (in Russ.)].</item>
+            <item>Дуров О.В., Шевелев И.Н., Тиссен Т.П. Вертебропластика при лечении опухолей позвоночника. Хирургия позвоночника. 2004; 4: 68–73 [Durov O.V., Shevelev I.N., Tissen T.P. Vertebroplasty for spinal tumors. Hirurgiâ pozvonočnika (Spine Surgery). 2004; 4: 68–73 (in Russ.)].</item>
+            <item>Малиновский М.Н., Володюхин М.Ю. Чрезкожная вертебропластика. Казанский медицинский журнал. 2002; 83 (6): 453–5 [Malinovsky M.N., Volodukhin M.Yu. Percutaneous vertebroplasty. Kazanskii meditsinskii zhurnal. 2002; 83 (6): 453–5 (in Russ.)].</item>
+            <item>Гайворонский И.В., Мануковский В.А., Кац А.В. Морфометрические характеристики поясничных позвонков взрослого человека и возможность прогнозирования объема их тела при чрескожной вертебропластике. Морфология. 2009; 136 (5): 67–72 [Gaivoronskiy I.V, Manukovskiy V.A., Katz A.V. Morphometric characteristics of lumbar vertebra of an adult person and the feasibility of their body volume prediction in percutaneous vertebroplasty. Morfologiya. 2009; 136 (5): 67–72 (in Russ.)].</item>
+            <item>Гайворонский И.В., Мануковский В.А., Кац А.В. Возможности прогнозирования объема тела поясничного позвонка у взрослого человека при проведении транспедикулярной чрескожной вертебропластики. Вестн. Рос. воен.-мед. акад. 2009; 2 (26): 130–4 [Guyvoronsky I.V., Manukovsky V.A., Katz A.V. Opportunities of prognosing of a body volume of lumbar vertebras at the adult person at realization of transpedicular percutaneous vertebroplasty. Vestn. Ros. voen.-med. akad. 2009; 2 (26): 130–4 (in Russ.)].</item>
+            <item>Мануковский В.А., Бадалов В.И., Коростелев К.Е. и др. Применение минимально инвазивных методов хирургического лечения компрессионных переломов позвонков. Здоровье. Медицинская экология. Наука. 2012; 1–2 (47–48): 33–4 [Manukovsky V.A.1, Badalov V.I.1, Korostelev K.E. et al. Application of a minimally invasive procedure of surgical treatment of vertebral compression fractures. Zdorov’e. Meditsinskaya ekologiya. Nauka. 2012; 1–2 (47–48): 33–4 (in Russ.)].</item>
+            <item>Боков А.Е., Млявых С.Г., Алейник А.Я. и др. Легочная цементная эмболия при перкутанной вертебропластике и транспедикулярной фиксации с установкой винтов на костный цемент: возможные факторы риска. Хирургия позвоночника. 2016; 13 (1): 67–71 [Bokov A.E., Mlyavykh S.G., Aleynik A.Y., et al. Pulmonary cement embolism after percutaneous vertebroplasty and transpedicular screw fixation with bone cement: potential risk factors. Hirurgiâ pozvonočnika (Spine Surgery). 2016; 13 (1): 67–71 (in Russ.)]. https://doi.org/10.14531/ss2016.1.67-71</item>
+            <item>Парфенов В.Е., Мануковский В.А., Кандыба Д.В. и др. Осложнения чрескожной вертебропластики. Нейрохирургия. 2008; 2: 48–53 [Parfenov V.E., Manukovasky V.A., Kandyba D.V. et al. The complications of transcutaneous vertebroplasty. Neirokhirurgiya. 2008; 2: 48–53 (in Russ.)].</item>
+            <item>Валиев А.К., Алиев М.Д. Роль чрескожной вертебропластики и биопсии в диагностике и лечении больных с опухолевым поражением позвоночника. Саркомы костей, мягких тканей и опухоли кожи. 2012; 2: 3–9 [Valiev A.K., Aliev M.D. Role of percutaneous vertebroplasty and biopsy in diagnostics and treatment of pateints with spinal tumors. Sarkomy kostei, myagkikh tkanei i opukholi kozhi. 2012; 2: 3–9 (in Russ.)].</item>
+            <item>Kim D. Minimally Invasive Percutaneous Spinal Techniques. Saunders, 2010.</item>
+            <item>Zhan Y. et al. Risk Factors for Cement Leakage After Vertebroplasty or Kyphoplasty: A Meta-Analysis of Published Evidence. World Neurosurg. 2017; 101: 633–42. DOI: 10.1016/j.wneu.2017.01.124</item>
+            <item>Beall D. et al. Technical strategies and anatomic considerations for parapedicular access to thoracic and lumbar vertebral bodies. Skeletal Radiology. 2007; 36 (1): 47–52. DOI: 10.1007/s00256-006-0192-3</item>
+            <item>Wilcox R. The biomechanics of vertebroplasty: A review. Proc. Inst. Mech. Eng. H. 2004; 218 (1): 1–10. DOI: 10.1243/095441104322807703</item>
+            <item>Коновалов Н.А., Назаренко А.Г., Асютин Д.С. и др. Комплексная оценка исходов хирургического лечения пациентов с метастатическими поражениями позвоночника. Вопросы нейрохирургии им. Н.Н. Бурденко. 2015; 79 (3): 34–44 [Konovalov N.A., Nazarenko A.G., Asyutin D.S. et al. Comprehensive assessment of the outcomes of surgical treatment of patients with metastatic spinal cord injuries. Burdenko’s Journal of Neurosurgery = Voprosy neirokhirurgii im. N.N. Burdenko. 2015; 79 (3): 34–44 (in Russ.)]. https://doi.org/10.17116/neiro201579334-44</item>
+            <item>Кострицкий С.В., Семенов Д.В., Широкорад В.И. и др. Чрескожная вертебропластика у больных с метастазами рака почки в позвоночник. Онкоурология. 2013; 1: 24–8 [Kostritsky S.V., Semenov D.V., Shirokorad V.I., et al. Percutaneous vertebroplasty in patients with kidney cancer metastases to the vertebral column. Cancer Urology. 2013; 9 (1): 24–7 (in Russ.)]. https://doi.org/10.17650/1726-9776-2013-9-1-24-27</item>
+            <item>Бухаров А.В., Карпенко В.Ю., Агзамов Д.С. и др. Многоуровневая вертебропластика при множественном метастатическом поражении позвоночника. Клиническая практика. 2014; 2 (18): 47–53 [Bukharov A.V., Karpenko V.Y., Agzamov D.S. et al. Multilevel vertebroplasty with multiple metastatic lesions of the spine. Journal of Clinical Practice. 2014; 2 (18): 47–53 (in Russ.)].</item>
+            <item>Хамидуллин Ф.Г., Ермолаев Ю.Ф., Петров С.И. и др. Чрескожная вертебропластика в нейрохирургической практике. Acta Biomedica Scientifica. 2011; 1–2 (77): 275–7 [Khamidullin F.G., Ermolaev Yu.F., Petrov S.I. et al. Percutaneous vertebroplasty in neurosurgical practice. Acta Biomedica Scientifica. 2011; 1–2 (77): 275–7 (in Russ.)].</item>
+            <item>Кандыба Д.В., Мануковский В.А., Кравцов М.Н. и др. Осложнения пункционной вертебропластики. Травматология и ортопедия России. 2008; 3 (49): 85a–86 [Kandyba D. V., Manukovsky V. A., Kravtsov M. N., Fedorenkov A. V. Complications of puncture vertebroplasty. Travmatologiya i ortopediya Rossii. 2008; 3 (49): 85a–86 (in Russ.)].</item>
+            <item>Монашенко Д.Н., Бадалов В.И., Кистень В.К. Интраоперационные осложнения в спинальной хирургии. Вестн. Рос. воен.-мед. акад. 2016; 4 (56): 217–23 [Monashenko D.N., Badalov V.I., Kisten V.K. Intraoperative complications in spinal surgery. Vestn. Ros. voen.-med. akad. 2016; 4 (56): 217–23 (in Russ.)].</item>
+            <item>Мануковский В.А., Кандыба Д.В., Алексеев Е.Д. и др. Пункционная вертебропластика – метод выбора при компрессионных переломах тел позвонков на фоне остеопороза. Травматология и ортопедия России. 2008; 3 (49): 95a–96 [Manukovskiy V. A., Kandyba D. V., Alekseev E. D., Fedorenkov A.V. Puncture vertebroplasty is the method of choice for compression fractures of vertebral bodies against osteoporosis. Travmatologiya i ortopediya Rossii. 2008; 3 (49): 95a–96 (in Russ.)].</item>
+            <item>Бывальцев В.А., Барза П., Сухомель П. и др. Приоритетность использования вертебропластики в лечении симптоматических гемангиом позвоночника. Хирургия позвоночника. 2008; 2: 41–7 [Byvaltsev V.A., Barza P., Sukhomel P. et al. The priority of vertebroplasty for treatment of symptomatic vertebral hemangiomas. Hirurgiâ pozvonočnika (Spine Surgery). 2008; 2: 41–7 (in Russ.)]. https://doi.org/10.14531/ss2008.2.41-47</item>
+            <item>Орлов В.П., Идричан С.М., Кравцов М.Н. и др. Опыт хирургического лечения больных с опухолями позвоночника и спинного мозга в специализированном стационаре. Вестн. рос. воен.-мед. акад. 2014; 2 (46): 63–6 [Orlov V.P., Idrichan S.M., Kravzov M.N. et al. Experience of surgical treatment of patients with spine and spinal cord tumours in specialized intreatment facility. Vestn. ros. voen.-med. akad. 2014; 2 (46): 63–6 (in Russ.)].</item>
+            <item>Пташников Д.А., Магомедов Ш.Ш., Татаринцев А.П. и др. Анализ классификаций и алгоритмов хирургического лечения опухолей позвоночника, современный подход в планировании. Вопросы онкологии. 2018; 64 (2): 185–9 [Ptashnikov D.A., Magomedov Sh.Sh., Tatarintsev A.P. et al. Analysis of classifications and algorithms of surgical treatment for spinal tumors, modern approach in planning. Voprosy onkologii. 2018; 64 (2): 185–9 (in Russ.)].</item>
+            <item>Кравцов М.Н., Мануковский В.А., Жаринов Г.М. и др. Агрессивные гемангиомы позвонков: оптимизация тактики лечения. Вопросы нейрохирургии им. Н.Н. Бурденко. 2012; 76 (2): 23–32 [Kravtsov M.N., Manukovskii V.A., Zharinov G.M. et al. Aggressive vertebral hemangiomas: optimization of management tactics. Burdenko’s Journal of Neurosurgery = Voprosy neirokhirurgii im. N.N. Burdenko. 2012; 76 (2): 23–32 (in Russ.)].</item>
+            <item>Евзиков Г.Ю., Фарафонтов А.В., Шишкина Л.В. и др. Капиллярная гемангиома эпидурального пространства позвоночного канала. Описание клинического наблюдения и обзор литературы. Нейрохирургия. 2015; 4: 71–4 [Evzikov G.Y., Farafontov A.V., Shishkina L.V. et al. Epidural spinal capillary hemangioma. Clinical case and literature review. Russian journal of neurosurgery. 2015; 4: 71–4 (in Russ.)]. https://doi.org/10.17650/1683-3295-2015-0-4-71-74</item>
+            <item>Климов В.С., Косимшоев М.А., Евсюков А.В. и др. Результаты дифференцированного хирургического лечения агрессивных гемангиом позвонков. Хирургия позвоночника. 2018; 15 (1): 79–90 [Klimov V.S., Kosimshoev M.A., Evsyukov A.V. et al. Results of differentiated surgical treatment of aggressive vertebral hemangiomas. Hirurgiâ pozvonočnika (Spine Surgery). 2018; 15 (1): 79–90 (in Russ.)]. https://doi.org/10.14531/ss2018.1.79-90</item>
+            <item>Карабаев И.Ш., Волков И.В. Клинико-рентгенологическая классификация гемангиом позвоночника. Медико-биологические и социально-психологические проблемы безопасности в чрезвычайных ситуациях. 2012; 1: 30–5 [Karabaev I.Sh., Volkov I.V. Clinical radiological classification of spinal hemangioma. Medicо-Biological and Socio-Psychological Problems of Safety in Emergency Situations. 2012; 1: 30–5 (in Russ.)].</item>
+            <item>Мануковский В.А., Кравцов М.Н., Жаринов Г.М. и др. Изучение эффективности пункционной вертебропластики и лучевой терапии в лечении агрессивных гемангиом позвонков. Мед. акад. журн. 2008; 8 (4): 101–14 [Manukovski V.A., Kravtsov M.N., Zharinov G.M. et al. Vertebroplasty method and radiation therapy for treatment of aggressive hemangiomas. Med. Aсad. J. 2008; 8 (4): 101–14 (in Russ.)].</item>
+            <item>Nguyen J., Djindjian M., Pavlovich J. Hemangiomes vertebraux avec signes neurologiques. Les resultants therapeutiques. Enquete de la S.N.F. Neuroshirurgie. 1989; 35: 299–303.</item>
+            <item>Гохфельд И.Г., Павлов Б.Б. Гемангиомы позвоночника и их лечение: пункционная вертебропластика. Междунар. неврол. журн. 2010; 1: 71–3 [Gohfeld I.G., Pavlov B.B. Vertebral Hemangioma and its Treatment: Puncture Vertebroplasty. International Neurological Journal. 2010; 1: 71–3 (in Russ.)].</item>
+            <item>Кущаев С.В. Нежелательные явления и осложнения пункционной вертебропластики. Нейрохирургия. 2008; 1: 17–25 [Kushchayev S.V. Adverse effects and complications of puncture vertebroplasty. Neirokhirurgiya. 2008; 1: 17–25 (in Russ.)].</item>
+            <item>Валиев А.К., Мелузова О.М., Кукушкин А.В. и др. Вертебропластика в плане комбинированного лечения больных с опухолевым поражением позвоночника. Вестник РОНЦ им. Н.Н. Блохина РАМН. 2003; 14 (2–1): 49–52 [Valiev A.K., Meluzova O.M., Kukushkin A.V. et al. Vertebroplasty in terms of combined treatment of patients with tumoral lesions of the spine. Vestnik RONTs im. N.N. Blokhina RAMN. 2003; 14 (2–1): 49–52 (in Russ.)].</item>
+            <item>Усиков В.Д., Пташников Д.А., Магомедов Ш.Ш. и др. Чрескожная вертебропластика у больных с метастазами в позвоночник. Травматология и ортопедия России. 2008; 2 (48): 49–52 [Usikov V.D., Ptashnikov D.A., Magomedov Sh.Sh. et al. Percutaneous vertebroplasty in patients with metastases in spine. Travmatologiya i ortopediya Rossii. 2008; 2 (48): 49–52 (in Russ.)].</item>
+            <item>Кострицкий С.В., Широкорад В.И., Семенов Д.В. и др. Хирургическое лечение больных с метастазами рака почки в позвоночник. Онкоурология. 2014; 3: 40–2 [Kostritsky S.V., Shirokorad V.I., Semenov D.V. et al. Surgical treatment in patients with kidney cancer metastasizing to the spine. Cancer Urology. 2014; 10 (3): 40–2 (in Russ.)]. https://doi.org/10.17650/1726-9776-2014-10-3-40-42</item>
+            <item>Валиев А.К., Мусаев Э.Р., Сушенцов Е.А. и др. Чрескожная вертебропластика при метастатическом поражении позвоночника. Саркомы костей, мягких тканей и опухоли кожи. 2009; 1: 23–7 [Valiev A., Musaev E., Sushentsov E. et al. Treatment of spinal metastasis by percutaneous vertebroplasty. Sarkomy kostei, myagkikh tkanei i opukholi kozhi. 2009; 1: 23–7 (in Russ.)].</item>
+            <item>Курамшин А.Ф., Сафин Ш.М., Рахматуллин Т.Р. и др. Малоинвазивное хирургическое лечение метастатических опухолей позвонков. Лазерная медицина. 2008; 12 (3): 23–6 [Кuramshin A.F., Safin Sh.M., Rahmatullin T.R. et al. Minimally Invasive Surgical Treatment of Metastatic Tumours of Vertebra. Lazernaya meditsina. 2008; 12 (3): 23–6 (in Russ.)].</item>
+            <item>Валиев А.К., Соколовский А.В., Неред А.С. и др. Малоинвазивные хирургические технологии при поражениях позвоночника в онкогематологии. Клиническая онкогематология. Фундаментальные исследования и клиническая практика. 2013; 6 (2): 177–94 [Valiyev A.K., Sokolovskiy A.V., Nered A.S. et al. Minimally invasive surgical techniques in hematological malignancies with spinal involvement. Klinicheskaya onkogematologiya. Fundamental’nye issledovaniya i klinicheskaya praktika. 2013; 6 (2): 177–94 (in Russ.)].</item>
+            <item>Гринь А.А., Григорьева Е.В. Лучевая диагностика позвоночно-спинномозговой травмы. Часть 1. Нейрохирургия. 2012; 4: 8–16 [Grin A.A., Grigorieva E.V. The radiology diagnostics of vertebral and spinal trauma. Part 1. Russian journal of neurosurgery. 2012; 4: 8–16 (in Russ.)].</item>
+            <item>Крылов В.В., Гринь А.А., Кайков А.К. и др. Современные принципы в хирургии травм и заболеваний позвоночника. Журнал им. Н.В. Склифосовского. Неотложная медицинская помощь. 2014; 4: 36–41 [Krylov V.V., Grin A.A., Kaykov A.K. et al. Modern principles in surgery of injuries and diseases of the spine. Russian Sklifosovsky Journal «Emergency Medical Care». 2014; 4: 36–41 (in Russ.)].</item>
+            <item>Гринь А.А., Григорьева Е.В. Лучевая диагностика позвоночно-спинномозговой травмы. Часть 2. Нейрохирургия. 2013; 1: 7–21 [Grin A.A., Grigorieva E.V. The radiology diagnostics of vertebral and spinal trauma. Part 2. Russian journal of neurosurgery. 2013; 1: 7–21 (in Russ.)].</item>
+            <item>Sukkarieh H. Vertebroplasty. In: Saghieh S., Weinstein S., Hoballah J. (eds) Operative Dictations in Orthopedic Surgery. NY: Springer, 2013.</item>
+            <item>Гринь А.А., Некрасов М.А., Кайков А.К. и др. Лечение и профилактика переломов позвоночника у больных с остеопорозом. Нейрохирургия. 2013; 3: 72–5 [Grin A.A., Nekrasov M.A., Kaikov A.K. et al. Treatment and prophylaxis of spine fractures at patients with osteoporosis. Russian journal of neurosurgery. 2013; 3: 72–5 (in Russ.)]. https://doi.org/10.17650/1683-3295-2013-0-3-72-75</item>
+            <item>Щедренок В.В., Зуев И.В., Топольскова Н.В. и др. Опыт диагностики и хирургического лечения остеопороза позвоночника. Травматология и ортопедия России. 2013; 3 (69): 113–8 [Shchedrenok V.V., Zuev I.V., Topolskova N.V. et al. Diagnostics and surgical treatment of vertebral osteoporosis. Traumatology and Orthopedics of Russia = Travmatologiya i ortopediya Rossii. 2013; 3: 113–8 (in Russ.)]. https://doi.org/10.21823/2311-2905-2013--3-113-118</item>
+            <item>Boszczyk B. Volume matters: A review of procedural details of two randomised controlled vertebroplasty trials of 2009. Eur. Spine J. 2010; 19 (11): 1837–40. DOI: 10.1007/s00586-010-1525-4.</item>
+            <item>Hirsch J., Chandra R. Resurrection of evidence for vertebroplasty? Lancet. 2016; 388 (10052): 1356–7. https://doi.org/10.1016/S0140-6736(16)31356-3</item>
+            <item>Buchbinder R., Johnston R., Rischin K. et al. Percutaneous vertebroplasty for osteoporotic vertebral compression fracture. Cochrane Database Syst. Rev. 2018; 4: CD006349. DOI: 10.1002/14651858.CD006349.pub3</item>
+            <item>Clark W. et al. Cochrane vertebroplasty review misrepresented evidence for vertebroplasty with early intervention in severely affected patients. BMJ Evidence-Based Medicine. 2019. http://dx.doi.org/10.1136/bmjebm-2019-111171</item>
+            <item>Боков А.Е., Млявых С.Г., Алейник А.Я. и др. Факторы риска дренирования цемента в позвоночный канал при пункционной вертебропластике. Хирургия позвоночника. 2015; 12 (4): 25–9 [Bokov A.E., Mlyavykh S.G., Aleynik A.Y., et al. Risk factors of intracanal cement leakage during percutaneous vertebroplasty. Hirurgiâ pozvonočnika (Spine Surgery). 2015; 12 (4): 25–9 (in Russ.)]. https://doi.org/10.14531/ss2015.4.25-29</item>
+        </references_ru>
+        <last_page>13</last_page>
+        <title_en>Puncture vertebroplasty for spinal tumors and diseases</title_en>
+        <authors_info_en>A. Yarikov(1, 2)*, Candidate of Medical Sciences; A. Denisov(3); I. Smirnov(2); S. Masevnin(3), Candidate of Medical Sciences; M. Dokish(3), Candidate of Medical Sciences; Professor O. Perlmutter(2), MD; Professor A. Fraerman(2), MD; A. Simonov(2), Candidate of Medical Sciences (1)Volga District Medical Center, Federal Biomedical Agency, Nizhny Novgorod (2)City Clinical Hospital Thirty-Nine, Nizhny Novgorod (3)R.R. Vreden Russian Research Institute of Traumatology and Orthopedics, Ministry of Health of Russia, Saint Petersburg</authors_info_en>
+        <abstract_en>Puncture vertebroplasty is one of the common treatments in patients with spinal diseases of various origins. The paper details general recommendations for puncture vertebroplasty and depicts its procedure. It also presents the biomechanical characteristics of one of the commonly used bone cements, such as polymethyl methacrylate. Indications for and contraindications to vertebroplasty and its complications are described. Particular attention is paid to the use of this technique for vertebral hemangiomas, metastatic lesion, and osteoporosis.</abstract_en>
+        <keywords_en>
+            <item>neurosurgery</item>
+            <item>vertebroplasty</item>
+            <item>vertebral hemangioma</item>
+            <item>osteoporosis</item>
+            <item>metastatic lesion of the spine</item>
+            <item>spinal tumors</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>актуальная тема</rubric_ru>
+        <doi>10.29296/25877305-2020-05-03</doi>
+        <first_page>13</first_page>
+        <title_ru>Проект новой классификации гонартроза с учетом доклинической стадии</title_ru>
+        <authors_list_ru>
+            <item>Е.В. Аршин</item>
+            <item>Д.А. Горшков</item>
+            <item>М.А. Радощёкин</item>
+            <item>О.В. Хлынова</item>
+            <item>Р.Е. Аршин</item>
+        </authors_list_ru>
+        <authors_info_ru>Е.В. Аршин(1), доктор медицинских наук, профессор, Д.А. Горшков(1), М.А. Радощёкин(2), О.В. Хлынова(1), член-корреспондент РАН, доктор медицинских наук, профессор, Р.Е. Аршин(1) (1)Пермский государственный медицинский университет им. акад. Е.А. Вагнера (2)Медицинский центр ООО «ВИТА-Д», Пермский край, Чайковский E-mail: Danilgorshcov@yandex.ru</authors_info_ru>
+        <abstract_ru>Цель: пересмотреть существующую классификацию гонартроза (ГА) с учетом ранней дорентгенологической стадии заболевания. Материал и методы. Обследованы 819 пациентов с высоким риском развития ГА, из которых у 445 (54,3%) на начало исследования клинических проявлений ГА не отмечено, а у 374 (45,7%) больных определялась клиника ГА. В течение 2 лет у 450 пациентов (216 – без клинических проявлений и 234 – с манифестным ГА) проводилась комбинированная хондропротективная терапия (ХПТ). Исходно и через 2 года всем осуществлялось УЗИ коленных суставов. Анализировалась динамика минимальной толщины гиалинового хряща (ГХ). Результаты. Наибольшая двухгодичная убыль суставного хряща (СХ) отмечена при клинически выраженном ГА. За период наблюдения пациенты потеряли 0,24±0,11 мм от исходной высоты СХ, причем ХПТ позволила сократить уменьшение хряща более чем в 2 раза – до 0,10±0,11 мм. Особенно интересным оказалось то, что у пациентов без клинических и рентгенологических признаков ГА, но с факторами высокого риска заболевания также произошла достоверная убыль СХ, хотя и в меньшей степени – 0,17±0,13 мм. ХПТ в данном случае позволила сократить потерю ГХ на 54%, или до 0,08±0,11 мм за 2 года. Заключение. Результаты исследования позволяют предложить к рассмотрению новую классификацию ГА с акцентом на доклиническую дорентгенологическую стадию заболевания и рекомендовать раннюю ХПТ рентген-негативным пациентам с факторами риска и (или) ранние ультрасонографические изменения СХ коленных суставов.</abstract_ru>
+        <keywords_ru>
+            <item>ревматология</item>
+            <item>остеоартрит</item>
+            <item>гонартроз</item>
+            <item>доклиническая стадия</item>
+            <item>классификация гонартроза</item>
+            <item>гиалиновый хрящ</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Кабалык М.А. Распространенность остеоартрита в России: региональные аспекты динамики статистических показателей за 2011–2016 гг. Научно-практическая ревматология. 2018; 4: 416–22 [Kabalyk M.A. Prevalence of osteoarthritis in Russia: regional aspects of trends in statistical parameters during 2011–2016. Rheumatology Science and Practice. 2018; 4: 416–22 (in Russ.)]. DOI: 10.14412/1995-4484-2018-416-422</item>
+            <item>Allen K., Choong P., Davis A. et al. Models for appropriate care across the disease continuum. Best Pract Res Clin Rheumatology. 2016; 30 (3): 503–35. DOI: 10.1016/j.berh.2016.09.003</item>
+            <item>Woolf A., Pfleger B. Burden of major musculoskeletal conditions. Bulletin of the World Health Organization. 2003; 81: 646–56.</item>
+            <item>Blagojevic M., Jinks C., Jeffery A. et al. Risk factors for onset of osteoarthritis of the knee in older adults: a systematic review and meta-analysis. Osteoarthritis Cartilage. 2010; 18 (1): 24–33. DOI: 10.1016/j.joca.2009.08.010</item>
+            <item>Madry H., Kon E, Condello V. Early osteoarthritis of the knee. Knee Surgery, Sports Traumatology, Arthroscopy. 2016; 24 (6): 1753–62. DOI: 10.1007/s00167-016-4068-3</item>
+            <item>Oberhauser C., Escorpizo R., Boonen A. et al. Statistical validation of the brief International Classiffication of Functioning, Disability and Health Core Set for Osteoarthritis based on a Large International Sample of patients with Osteoarthritis. Arthritis care and research. 2013; 65 (2): 177–86. DOI: 10.1002/acr.21775</item>
+            <item>Попова Л.А., Сазонова П.В. Структурная характеристика остеоартрозов нижних конечностей у жителей Курганской области, занятых в различных сферах деятельности. Травматология и ортопедия России. 2009; 1 (51): 107–11 [Popova L.A., Sazonova N.V. Structural characteristic of osteoarthrosis of lower extremities in Kurgan region inhabitants employed in different fields. Traumatology and orthopedics in Russia. 2009; 1 (51): 107–11 (in Russ.)].</item>
+            <item>Luyten F., Bierma-Zeinstra S., Dell’Accio F. et al. Toward classification criteria for early osteoarthritis of the knee. Seminars in Arthritis and Rheumatism. 2018; 47 (4): 457–63. DOI: 10.1016/j.semarthrit.2017.08.006</item>
+            <item>Макарова М.В., Проклова Л.В., Яворская Г.В. и др. Насколько объективны данные ультразвукового исследования при гонартрите рентгенологической нулевой стадии. Лучевая диагностика и терапия. 2017; 4: 60–7 [Makarova M.V. Proklova L.V., Yavorskaya G.V. et al. How data of ultrasound examination for x-ray 0 stage gonarthritis may be objective. Radiation diagnostics and therapy. 2017; 4: 60–7 (in Russ)]. DOI: 10.22328/2079-5343-2017-4-60-67</item>
+            <item>Mahjoub M., Berenbaum F., Houard X. Why subchondral bone in osteoarthritis? The importance of the cartilage bone interface in osteoarthritis. Osteoporosis Int. 2012; 8: 841–6. DOI: 10.1007/s00198-012-2161-0</item>
+            <item>Макарова М.В., Агапитов А.В., Юницына А.В. и др. Ультразвуковая сонография и магнитно-резонансная томография в выявлении дегенеративных изменений при рентгенологически нулевой стадии остеоартроза коленных суставов. Вестник новых медицинских технологий. 2014; 1: 100 [Makarova M.V., Agapitov A.V., Yunitsina A.V. et al. Ultrasound sonography and magnetic resonance imaging in the detection of degenerative changes of x-ray negative osteoarthritis of the knee. Journal of New Medical Technologies. 2014; 1: 100 (in Russ.)].</item>
+            <item>Смирнов А.В. Рентгенологическая диагностика первичного идиопатического остеоартроза. Русский медицинский журнал. 2001; 9 (7–8): 294–8 [Smirnov A.V. Rentgenologicheskaya diagnostika pervichnogo idiopaticheskogo osteoartroza. Russkij medicinskij zhurnal. 2001; 9 (7–8): 294–8 (in Russ.)].</item>
+            <item>Зайцева Е.М., Алексеева Л.И., Смирнов А.В. и др. Магнитно-резонансная томография при остеоартрозе. Научно-практическая ревматология. 2006; 44 (5): 59–75 [Zaitseva E.M., Alekseeva L.I., Smirnov A.V., et al. Magnetic resonance imaging for osteoarthritis. Rheumatology Science and Practice. 2006; 44 (5): 59–75 (in Russ.)].</item>
+            <item>Lee Y., Woo J., Choi S. et al. Effect of glucosamine or chondroitin sulfate on the osteoarthritis progression: a meta-analysis. Rheumatol. Int. 2010; 30 (3): 357–63. DOI: 10.1007/s00296-009-0969-5</item>
+            <item>Martel-Pelletier J., Roubille C., Abram F. et al. First-line analysis of the effects of treatment on progression of structural changes in knee osteoarthritis over 24 months: data from the osteoarthritis initiative progression cohort. Ann. Rheum. Dis. 2013; 74 (3): 547–56. DOI: 10.1136/annrheumdis-2013-203906</item>
+            <item>Pavelka K., Bruyere O., Cooper C. et al. Diacerein: benefits, risks and place in the management of osteoarthritis. An opinion-based report from the ESCEO. Drugs Aging. 2016; 33 (2): 75–85. DOI: 10.1007/s40266-016-0347-4</item>
+            <item>Verbruggen G. Chondroprotective drugs in degenerative joint diseases. Rheumatology (Oxford). 2006; 45 (2): 129–38. DOI: 10.1093/rheumatology/kei171</item>
+        </references_ru>
+        <last_page>17</last_page>
+        <title_en>The draft of a new classification of gonarthrosis in terms of its preclinical stage</title_en>
+        <authors_info_en>Professor E. Arshin(1), MD; D. Gorshkov(1); M. Radoshchyokin(2); Professor O. Khlynova(1), MD, Corresponding Member of the Russian Academy of Sciences, R. Arshin(1) (1)Acad. E.A. Vagner Perm State Medical University (2)OOO «VITA-D» Medical Center, Tchaikovsky, Perm Territory</authors_info_en>
+        <abstract_en>Objective: to reconsider the existing classification of gonarthrosis (GA) in terms of the early pre-radiographic stage of the disease. Subjects and methods. Examinations were made in 819 patients at a high risk of GA, including 445 (54.3%) without its clinical manifestations at the beginning of the study and 374 (45.7%) with its clinical manifestations. A total of 450 people (216 without clinical manifestations and 234 with manifest GA) received combined chondroprotective therapy (CPT) for two years. At baseline and after two years, all underwent ultrasound examination of the knee joint. The dynamics of the minimum hyaline cartilage thickness was analyzed. Results. The patients with clinical GA had the greatest decrease in articular cartilage over a 2-year period. During the follow-up period, they lost 0.24±0.11 mm of the baseline articular cartilage (AC) height; moreover, CPT could reduce this value by more than twice (to 0.10±0.11 mm). However, it was especially interesting that patients without clinical and radiological signs of GA, who had high risk factors for the disease, also showed a significant AC decrease, although to a lesser extent (0.17±0.13 mm). In this case, CPT could reduce the loss of hyaline cartilage by 54% or by 0.08±0.11 mm during two years. Conclusion. The results of the study may propose a new classification of GA with emphasis on the preclinical pre-radiological stage of the disease and recommend early CPT for X-ray-negative patients having risk factors and (or) early ultrasonographic articular cartilage changes in the knee joints.</abstract_en>
+        <keywords_en>
+            <item>rheumatology</item>
+            <item>osteoarthritis</item>
+            <item>gonarthrosis</item>
+            <item>preclinical stage</item>
+            <item>classification of gonarthrosis</item>
+            <item>hyaline cartilage</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>актуальная тема</rubric_ru>
+        <doi>10.29296/25877305-2020-05-04</doi>
+        <first_page>18</first_page>
+        <title_ru>Особенности репродуктивной функции женщин с ревматоидным артритом</title_ru>
+        <authors_list_ru>
+            <item>Б.Т. Турмухамбетова</item>
+            <item>Л.К. Козлова</item>
+            <item>А.Б. Джуламанова</item>
+            <item>Е.Н. Никонова</item>
+        </authors_list_ru>
+        <authors_info_ru>Б.Т. Турмухамбетова, кандидат медицинских наук, Л.К. Козлова, доктор медицинских наук, профессор, А.Б. Джуламанова, Е.Н. Никонова, кандидат медицинских наук Оренбургский государственный медицинский университет Е-mail: lilikon@list.ru</authors_info_ru>
+        <abstract_ru>Оценивается состояние репродуктивной системы женщин с ревматоидным артритом (РА). Материал и методы. Обследовано 27 женщин с РА в возрасте 37,65±8,76 года и давностью заболевания 7,01±4,23 года. Контрольную группу составила 21 практически здоровая женщина в возрасте 36,8±8,3 года. Иммуноферментным методом всем определяли уровень фолликулостимулирующего (ФСГ), лютеинизирующего (ЛГ) гормонов, эстрадиола (Е2), пролактина (ПрЛ), общего тестостерона, кортизола, свободного тироксина, тиреотропного гормонов (ТТГ) и антител к тиреоидной пероксидазе. Проводилось УЗИ органов малого таза и допплерография кровотока в яичниковых артериях. Результаты. Нарушения менструального цикла были у 14 (51,85%) женщин с РА. Чаще всего диагностирован гипоменструальный синдром. Средний возраст наступления менопаузы у больных РА был 36,54±1,09 года. В структуре причин бесплодия превалировал эндокринный фактор (66,66%). У женщин с РА уровень ЛГ, ФСГ, Е2, ПрЛ и ТТГ был статистически достоверно выше, чем в контрольной группе. По данным УЗИ органов малого таза и допплерометрии яичниковых артерий при РА выявлено достоверное снижение числа антральных фолликулов и повышение индекса резистентности и систолодиастолического соотношения по сравнению с контрольной группой. Показатели активности РА прямо коррелировали с уровнем Е2, ПрЛ и ТТГ, а клиническая стадия – с уровнем ФСГ. Обнаружена обратная корреляция объема яичников и количества антральных фолликулов с клинической стадией РА. Таким образом, показатели репродуктивной функции женщин с РА отличаются от таковых в здоровой популяции. Это подтверждает концепцию о влиянии гормонального фона на течение аутоиммунных процессов, в то же время не исключается, что РА вносит существенный вклад в развитие эндокринных расстройств, в том числе отражаясь на показателях репродуктивной функции.</abstract_ru>
+        <keywords_ru>
+            <item>ревматология</item>
+            <item>гинекология</item>
+            <item>ревматоидный артрит</item>
+            <item>нарушение менструального цикла</item>
+            <item>репродуктивная функция</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Кошелева Н.М., Матьянова Е.В. Ревматоидный артрит и беременность. Научно-практическая ревматология. 2014; 52 (6): 589–99 [Kosheleva N.M, Matyanova E.V. Rheumatoid arthritis and pregnancy. Rheumatology Science and Practice. 2014; 52 (6): 589–99 (in Russ.)]. DOI: 10.14412/1995-4484-2014-589-599</item>
+            <item>Матьянова Е.В., Кошелева Н.М., Алекберова З.С. и др. Влияние беременности на активность ревматоидного артрита и его терапию по данным проспективного наблюдения. Научно-практическая ревматология. 2015; 53 (3): 266–73 [Matyanova E.V, Kosheleva N.M, Alekberova Z.S. et al. Impact of pregnancy on the activity of rheumatoid arthritis and its therapy according to prospective follow-up data. Rheumatology Science and Practice. 2013; 53 (3): 266–73 (in Russ.)]. DOI: 10.14412/1995-4484-2015-266-273</item>
+            <item>Валеева Ф.В., Киселева Т.А., Ахунова Г.Р. Проблемы взаимосвязи патологии щитовидной железы и ревматологических заболеваний. Сибирский мед. журн. 2011; 26 (4, Вып. 2): 22–8 [Valeeva F.V., Kiseleva T.А., Ahunova G.R. Problems of relationship between thyroid disease and rheymatological diseases. Siberian medical journal. 2011; 26 (4, Issue 2): 22–8 (in Russ.)].</item>
+            <item>Cardenas Roldan J., Amaya-Amaya J., Castellanos-de la Hoz J. et al. Autoimmune thyroid disease in rheumatoid arthritis: a global perspective. Arthritis. 2012; 2012: 864907. DOI: 10.1155/2012/864907</item>
+            <item>Кондратьева Л.В., Попкова Т.В. Аутоиммунные заболевания и дисфункция щитовидной железы при ревматоидном артрите. Научно-практическая ревматология. 2017; 55 (2): 211–7 [Kondratyeva L.V., Popkova T.V. Autoimmune diseases and thyroid dysfunction in rheumatoid arthritis. Rheumatology Science and Practice. 2017; 55 (2): 211–7 (in Russ.)]. DOI: http://dx.doi.org/10.14412/1995-4484-2017-211-217</item>
+            <item>Ngo S., Steyn F., McCombe P. Gender differences in autoimmune disease. Front Neuroendocrinol. 2014; 35 (3): 347–69. DOI: 10.1016/j.yfrne.2014.04.004</item>
+            <item>Hezarkhani S., Sedighi S., Aghaei M. et al. Rheumatologic manifestations in Iranian patients with autoimmune thyroid diseases. Clin. Diagn. Res. 2014; 8 (10): MC06-8. DOI: 10.7860/JCDR/2014/7974.4981</item>
+            <item>Raterman H., Voskuyl A., Simsek S. et al. Increased progression of carotid intima media thickness in thyroid peroxidase antibodies-positive rheumatoid arthritis patients. Eur. J. Endocrinol. 2013; 169 (6): 751–7. DOI: 10.1530/EJE-13-0394</item>
+            <item>Волкова М.В., Кундер Е.В., Генералов И.И. и др. Гетерогенность нуклеазной активности поликлональных иммуноглобулинов при ревматоидном и реактивном артритах. Мед. иммунол. 2017; 19 (6): 771–8 [Volkova M.V., Kunder E.V., Generalov I.I. et al. Heterogeneity of nuclease activity of polyclonal immunoglobulins in rheumatoid and reactive arthritis. Med. Immunol. 2017; 19 (6): 771–8 (in Russ.)] DOI: 10.15789/1563-0625-2017-6-771-778</item>
+            <item>Каратеев Д.Е., Олюнин Ю.А., Лучихина Е.Л. Новые классификационные критерии ревматоидного артрита ACR/EULAR 2010 – шаг вперед к ранней диагностике. Научно-практическая ревматология. 2011; 49 (1): 10–5 [Karateev D.E., Olyunin Y.A., Luchikhina E.L. New ACR/EULAR 2010 classification criteria for rheumatoid arthritis: a step forward in its early diagnosis. Rheumatology Science and Practice. 2011; 49 (1): 10–5 (in Russ.)]. DOI: 10.14412/1995-4484-2011-861</item>
+            <item>Юренева С.В., Ермакова Е.И. Оценка эффективности альтернативных методов лечения менопаузальных симптомов у женщин в постменопаузе. Мед. совет. 2017; 2: 76–80 [Yureneva S.V., Ermakova E.I. Evaluation of the effectiveness of alternative treatments for menopausal symptoms in postmenopausal women. Medical recommendation. 2017; 2: 76–80 (in Russ.)]. DOI: 10.21518/2079-701X-2017-2-76-80</item>
+            <item>Паскарь С.С., Боярский К.Ю. Эпидемиологические аспекты бесплодного брака (обзор литературы). Проблемы репродукции. 2017; 23 (5): 23–6 [Paskar S.S., Boyarsky K.Y. The epidemiological aspects of infertile marriage (a review). Reproduction problems. 2017; 2: 76–80 (in Russ.)]. DOI: 10.17116/repro201723523-26</item>
+            <item>Матьянова Е.В., Кошелева Н.М., Алекберова З.С. и др. Оценка активности ревматоидного артрита во время беременности и после родов. Научно-практическая ревматология. 2015; 53 (2): 155–61 [Matyanova E.V., Kosheleva N.M., Alekberova Z.S. et al. Assessment of rheumatoid arthritis activity during pregnancy and postpartum. Rheumatology Science and Practice. 2015; 53 (2): 155–61 (in Russ.)]. DOI: 10.14412/1995-4484-2015-155-162</item>
+            <item>Лабыгина А.В. Основные клинико-патогенетические варианты женского эндокринного бесплодия. Международный эндокринологический журнал. 2011; 3 (35): 140–8 [Labygina A.V. The main clinical and pathogenetic variants of female endocrine infertility. Mezhdunarodnyi endokrinologicheskii zhurnal. 2011; 3 (35): 140–8 (in Russ)].</item>
+            <item>Raterman H., Jamnitski A., Lems W. et al. Improvement of thyroid function in hypothyroid patients with rheumatoid arthritis after 6 months of adalimumab treatment: a pilot study. J. Rheumatol. 2011; 38 (2): 247–51. DOI: 10.3899/jrheum.100488</item>
+            <item>Kerola A., Nieminen T., Kauppi M. et al. Increased risk of levothyroxine-treated hypothyroidism preceding the diagnosis of rheumatoid arthritis: a nationwide registry study. Clin. Exp. Rheumatol. 2014; 32 (4): 455–9.</item>
+            <item>Bengtsson C., Padyukov L., Källberg H. et al. Thyroxin substitution and the risk of developing rheumatoid arthritis; results from the Swedish population-based EIRA study. Ann. Rheum. Dis. 2014; 73 (6): 1096–100. DOI: 10.1136/annrheumdis-2013-203354</item>
+            <item>Воронина М.С., Шилкина Н.П., Виноградов А.А. Роль лабораторных методов исследования в диагностике и лечении ревматоидного артрита. Терапевт. 2013; 1: 34–8 [Voronina M.S., Shilkina N.P., Vinogradov А.А. The role of laboratory methods in the diagnosis and treatment of rheumatoid arthritis. Journal of Therapeutics. 2013; 1: 34–8 (in Russ.)].</item>
+            <item>Александрова Е.Н., Новиков А.А., Насонов Е.Л. Роль биомаркеров в диагностике и прогнозировании эффективности современной терапии ревматоидного артрита. Клиническая лабораторная диагностика. 2013; 8: 3–13 [Alexandrova E.N., Novikov A.А., Nasonov E.L. The role of biomarkers in the diagnosis and prognosis of the effectiveness of modern therapy of rheumatoid arthritis. Clinical laboratory diagnostics. 2013; 8: 3–13 (in Russ.)].</item>
+            <item>Александрова Е.Н., Авдеева А.С., Лукина Г.В. и др. Клинико-иммунологические эффекты анти-В-клеточной терапии у больных ревматоидным артритом. Научно-практическая ревматология. 2012; 50 (1): 14–21 [Aleksandrova E.N., Avdeyeva A.S., Lukina G.V. et al. The clinical and immunological effects of anti-B-cell therapy in patients with rheumatoid arthritis. Rheumatology Science and Practice. 2012; 50 (1): 14–21 (in Russ.)]. DOI: 10.14412/19954484-2012-498</item>
+            <item>Pan X., Gu J., Shan Z. Increased risk of thyroid autoimmu-nity in rheumatoid arthritis: a systematic review and meta-analysis. Endocrine. 2015; 50 (1): 79–86. DOI: 10.1007/s12020-015-0533-x</item>
+            <item>Насонов Е.Л., Александрова Е.Н., Новиков А.А. Аутоиммунные ревматические заболевания: итоги и перспективы научных исследований. Научно-практическая ревматология. 2015; 53 (3): 230–7 [Nasonov E.L., Aleksandrova E.N., Novikov A.A. Autoimmune rheumatic diseases: Results and prospects for researches. Rheumatology Science and Practice. 2013; 53 (3): 230–7 (in Russ.)]. DOI: 10.14412/1995-4484-2015-230-237</item>
+            <item>Ruggeri R., Saitta S., Cristani M. et al. Serum interleukin-23 (IL-23) is increased in Hashimoto’s thyroiditis. Endocr. J. 2014; 61 (4): 359–63. DOI: 10.1507/endocrj.EJ13-0484</item>
+            <item>Mikos H., Mikos M., Obara-Moszynska M. et al. The role of the immune system and cytokines involved in the pathogenesis of autoimmune thyroid disease (AITD). Endokrynol. Pol. 2014; 65 (2): 150–5. DOI: 10.5603/EP.2014.0021</item>
+            <item>Теплова Л.В., Еремеева А.В., Байкова О.А. и др. Ревматические проявления гипотиреоза. Современная ревматология. 2017; 1 (2): 47–53 [Teplova L.V., Eremeeva A.V., Baykova O.A. et al. Rheumatic manifestations of hypothyroidism. Modern rheumatology. 2017; 1 (2): 47–53 (in Russ.)].</item>
+            <item>Helen Kemp E., Ajjan R., Metcalfe R. et al. IL-14 and IL-16 are expressed in the thyroid of patients with either Graves’ disease or Hashimoto’s thyroiditis. Clin. Endocrinol. (Oxford). 2015; 83 (5): 726–32. DOI: 10.1111/cen.12810</item>
+            <item>Парамонова О.В., Русанова О.А., Гонтарь И.П. Взаимосвязь органоспецифической аутоиммунной патологии щитовидной железы с неорганическими аутоиммунными ревматическими заболеваниями. Клин. и эксперим. тиреоидол. 2012; 8 (1): 46–50 [Paramonova O.V., Rusanova O.A., Gontar I.P. Interrelation specific autoimmune pathologies of a thyroid gland with inorganic autoimmune rheumatic diseases. Klinicheskaya i Eksperimental’naya Tireoidologiya = Clinical and Experimental Thyroidology. 2012; 8 (1): 46–50 (in Russ.)]. DOI: 10.14341/ket20128146-50</item>
+            <item>Tagoe C., Zezon A., Khattri S. et al. Rheumatic manifestations of euthyroid, anti-thyroid antibody-positive patients. Rheumatol. Int. 2013; 33 (7): 1745–52. DOI: 10.1007/s00296-012-2616-9</item>
+            <item>Bourji K., Gatto M., Cozzi F. et al. Rheumatic and autoimmune thyroid disorders: a causal or causal relationship? Autoimmun. Rev. 2015; 14 (1): 57–63. DOI: 10.1016/j.autrev.2014.10.007</item>
+        </references_ru>
+        <last_page>22</last_page>
+        <title_en>The features of reproductive function in women with rheumatoid arthritis</title_en>
+        <authors_info_en>B. Turmukhambetova, Candidate of Medical Sciences; Professor L. Kozlova, MD; A. Dzhulamanova; E. Nikonova, Candidate of Medical Sciences Orenburg State Medical University</authors_info_en>
+        <abstract_en>Objective: to evaluate the reproductive system of women with rheumatoid arthritis (RA). Subjects and methods. Examinations were made in 27 women aged 37.65±8.76 years with RA and its duration of 7.01±4.23 years. A control group consisted of 21 apparently healthy women aged 36.8±8.3 years. Enzyme immunoassay was used in all to measure the levels of follicle-stimulating hormone (FSH), luteinizing hormone (LH), estradiol (E2), prolactin (PRL), total testosterone, cortisol, free thyroxine, thyroid stimulating hormone (TSH) and anti-thyroid peroxidase antibodies. Pelvic ultrasonography and ovarian artery blood flow Doppler sonography were performed. Results. Menstrual irregularities were present in 14 (51.85%) women with RA. Hypomenstrual syndrome was most frequently diagnosed. The average age of menopause onset was 36.54±1.09 years in patients with RA. The endocrine factor (66.66%) prevailed in the structure of the causes of infertility. The level of LH, FSH, E2, PRL, and TSH was statistically significantly higher in women with RA than in controls. Pelvic ultrasonography and ovarian artery blood flow Doppler sonography revealed a significant decline in the number of antral follicles and an increase in the resistance index and systolic/diastolic ratio in the patients with RA compared with the controls. RA disease activity parameters were directly correlated with the level of E2, PRL, and TSH, whereas the clinical stage was with the level of FSH. There was an inverse correlation of the volume of the ovaries and the number of antral follicles with the clinical stage of RA. Thus, the parameters of reproductive function in the women with RA differ from those in the healthy population. This confirms the concept of the impact of the hormonal background on the course of autoimmune processes, while it is not inconceivable that RA makes a considerable contribution to the development of endocrine disorders, inter alia, by affecting the indicators of reproductive function.</abstract_en>
+        <keywords_en>
+            <item>rheumatology</item>
+            <item>gynecology</item>
+            <item>rheumatoid arthritis</item>
+            <item>menstrual irregularities</item>
+            <item>reproductive function</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>проблема</rubric_ru>
+        <doi>10.29296/25877305-2020-05-05</doi>
+        <first_page>23</first_page>
+        <title_ru>Организационные и клинические проблемы диагностики COVID-19 на амбулаторном этапе</title_ru>
+        <authors_list_ru>
+            <item>И.В. Самородская</item>
+            <item>В.Н. Ларина</item>
+            <item>К.Е. Назимкин</item>
+            <item>В.Г. Ларин</item>
+        </authors_list_ru>
+        <authors_info_ru>И.В. Самородская(1), доктор медицинских наук, профессор, В.Н. Ларина(2), доктор медицинских наук, профессор, К.Е. Назимкин(2), кандидат медицинских наук, В.Г. Ларин(2), кандидат медицинских наук (1)Национальный медицинский исследовательский центр терапии и профилактической медицины, Москва (2)Российский национальный исследовательский медицинский университет им. Н.И. Пирогова, Москва E-mail: larinav@mail.ru</authors_info_ru>
+        <abstract_ru>В обзорной статье освещается ряд организационных и клинических проблем диагностики COVID-19 на амбулаторном этапе, связанных с недостатком знаний и новыми вызовами для системы здравоохранения. Существующее определение ВОЗ для COVID-19 и лабораторные тесты не позволяют однозначно устанавливать диагноз COVID-19, оценивать тяжесть состояния пациента и прогнозировать течение заболевания. Учет случаев болезни в статистике на основании лабораторных тестов сомнителен. При значительном увеличении числа лиц, которым показано проведение тестирования, система здравоохранения неизбежно сталкивается с проблемами ресурсного обеспечения. Неспецифичность и гетерогенность симптомов при COVID-19 затрудняют диагностику, в том числе дифференциальную, на амбулаторном этапе. Высокий риск развития тяжелого поражения легких требует применения компьютерной томографии (КТ) органов грудной клетки (ОГК), но отсутствие изменений на КТ не исключает, а их наличие – не подтверждает именно COVID-19. Быстрое получение результата может обеспечить лучшую маршрутизацию пациента, но КТ ОГК идентифицирует только поражение легких при COVID-19, имеет противопоказания к проведению, сопряжено с относительно высокой стоимостью, требует дополнительных организационных затрат, связанных с транспортировкой пациента в медицинское учреждение, повышает вероятность инфицирования персонала и окружающих лиц. Амбулаторное применение пульсоксиметрии может способствовать решению вопросов о своевременной госпитализации, помогает избежать позднего поступления пациентов в стационар, но может привести к дефициту пульсоксиметров, ошибкам при их применении, повышенной тревоге и страху у пациентов, увеличению нагрузки на отделения неотложной помощи. Учитывая высокую контагиозность возбудителя, значительную нагрузку на врачей первичного звена в период эпидемии, вероятно, целесообразно широкое применение телемедицинских консультаций. Необходимы признаки/показатели/критерии, которые помогут врачу амбулаторного звена решать вопросы тактики ведения пациента.</abstract_ru>
+        <keywords_ru>
+            <item>инфекционные заболевания</item>
+            <item>коронавирус</item>
+            <item>тяжелый острый респираторный синдром</item>
+            <item>симптомы</item>
+            <item>пневмония</item>
+            <item>компьютерная томография</item>
+            <item>пульсоксиметрия</item>
+        </keywords_ru>
+        <references_ru>
+            <item>WHO Clinical management of severe acute respiratory infection when Novel coronavirus (nCoV) infection is suspected: interim guidance. URL: https://www.who.int/internal-publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected</item>
+            <item>Hui D.S., Azhar E.I., Madani T.A. et al. The continuing 2019-nCoV epidemic threat of novel coronaviruses to global health – the latest 2019 novel coronavirus outbreak in Wuhan, China. Int. J. Infec.t Dis. 2020; 91: 264–6. DOI: 10.1016/j.ijid.2020.01.009</item>
+            <item>Naming the coronavirus disease (COVID-19) and the virus that causes it. URL: https://www.who.int/ru/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it</item>
+            <item>Coronavirus disease 2019 (COVID-19). Situation Report – 95. URL: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200424-sitrep-95-covid-19.pdf?sfvrsn=e8065831_4</item>
+            <item>Coronavirus disease 2019 (COVID-19). Situation Report – 65. URL: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200325-sitrep-65-covid-19.pdf?sfvrsn=ce13061b_2</item>
+            <item>Временные методические рекомендации «Профилактика, диагностика и лечение новой коронавирусной инфекции» МЗ РФ. Версия 28.04.2020 г. [Vremennye metodicheskie rekomendatsii «Profilaktika, diagnostika i lechenie novoi koronavirusnoi infektsii» MZ RF. Versiya 28.04.2020 g. (in Russ.)].</item>
+            <item>Loeffelholz M.J., Tang Y.W. Laboratory diagnosis of emerging human coronavirus infections - the state of the art. Emerg. Microbes Infect. 2020; 9 (1): 747–56. DOI: 10.1080/22221751.2020.1745095</item>
+            <item>Guidance on the use of COVID-19 rapid diagnostic tests. URL: https://www.itg.be/E/Article/guidance-on-the-use-of-covid-19-rapid-diagnostic-tests</item>
+            <item>Основы полимеразной цепной реакции. Метод. пособ. М., 2012 [Osnovy polimeraznoi tsepnoi reaktsii. Metod. posob. M., 2012 (in Russ.)]. URL: http://site.dna-technology.ru/files/images/metodichki/OsnoviPCR.pdf</item>
+            <item>Московские врачи предложили включить больницы для лечения коронавируса и пневмонии в единую систему [Moskovskie vrachi predlozhili vklyuchit’ bol’nitsy dlya lecheniya koronavirusa i pnevmonii v edinuyu sistemu (in Russ.)]. URL: https://mosgorzdrav.ru/ru-RU/news/default/card/3748.html</item>
+            <item>Patel R., Babady E., Theel E.S. et al. Report from the American Society for Microbiology COVID-19 International Summit, 23 March 2020: Value of Diagnostic Testing for SARS-CoV-2/COVID-19. mBio. 2020; 11 (2): e00722-20. DOI: 10.1128/mBio.00722-20</item>
+            <item>Zhengtu Li., Yongxiang Yi., Xiaomei Luo. Development and clinical application of a rapid IgM-IgG combined antibody test for SARS-CoV-2 infection diagnosis. J. Med. Virol. 2020 Feb 27. https://doi.org/10.1002/jmv.25727.</item>
+            <item>Advice on the use of point-of-care immunodiagnostic tests for COVID-19. Scientific Brief. URL: https://www.who.int/news-room/commentaries/detail/advice-on-the-use-of-point-of-care-immunodiagnostic-tests-for-covid-19</item>
+            <item>COVIDView Weekly Summary. URL: https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html</item>
+            <item>Ebrahimi M., Malehi A.S., Rahim F. Laboratory findings, signs and symptoms, clinical outcomes of Patients with COVID-19 Infection: an updated systematic review and meta-analysis. BMJ. 2020. medRxiv. 2020. https://doi.org/10.1101/2020.03.25.20043703</item>
+            <item>Konrad R., Eberle U., Dangel A. et al. Rapid establishment of laboratory diagnostics for the novel coronavirus SARS-CoV-2 in Bavaria, Germany, February 2020. Euro Surveill. 2020; 25 (9). DOI: 10.2807/1560-7917.ES.2020.25.9.2000173</item>
+            <item>State figures on testing raise questions about efforts to contain outbreak - The Boston Globe. BostonGlobe.com. Davey. Australian stocks of coronavirus testing kits ‘rapidly deteriorating’, says chief medical officer (14 марта 2020).</item>
+            <item>Liu K., Fang Y.Y., Deng Y. et al. Clinical characteristics of novel coronavirus cases in tertiary hospitals in Hubei Province. Chin. Med. J. (Engl). 2020. DOI: 10.1097/CM9.0000000000000744</item>
+            <item>Wenham C., Smith J., Morgan R. Gender and C-W Group COVID-19. The gendered impacts of the outbreak. Lancet. 2020; 395 (10227): 846–8. DOI: 10.1016/S0140-6736(20)30526-2</item>
+            <item>Hall K.S., Samari G., Garbers S. et al. 2020. Centring sexual and reproductive health and justice in the global COVID-19 response. Lancet. 2020 395 (10231): 1175–7. DOI: 10.1016/S0140-6736(20)30801-1</item>
+            <item>Zhou F., Yu T., Du R. et al. Clinical course and risk factors for mortality of adult in patients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020; 395 (10229): 1054–62. DOI: 10.1016/S0140-6736(20)30566-3</item>
+            <item>Guan W.J., Ni Z.Y., Hu Y. et al; China Medical Treatment Expert Group for Covid-19. Clinical characteristics of coronavirus disease 2019 in China. N. Engl. J. Med. 2020. DOI: 10.1056/NEJMoa2002032</item>
+            <item>Wang D., Hu B., Hu C. et al. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus–Infected Pneumonia in Wuhan, China. JAMA. 2020; 323 (11): 1061–9. DOI: 10.1001/jama.2020.1585</item>
+            <item>Chen N., Zhou M., Dong X. et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020; 395 (10223): 507–13. DOI: 10.1016/S0140-6736(20)30211-7</item>
+            <item>Arons M., Hatfield K., Reddy S. et al. or the Public Health–Seattle and King County and CDC COVID-19 Investigation Team. Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility. April 24, 2020. DOI: 10.1056/NEJMoa2008457</item>
+            <item>Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. Vital surveillances: the epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) – China, 2020. China CDC Weekly. Accessed February 20, 2020. URL: http://weekly. chinacdc.cn/en/article/id/e53946e2-c6c4-41e9- 9a9b-fea8db1a8f51</item>
+            <item>Tian H., Liu Y., Li Y. et al. An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China. Science. 2020; pii: eabb6105. DOI: 10.1126/science.abb6105</item>
+            <item>Huang C., Wang Y., Li X. et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020; 395 (10223): 497–506. DOI: 10.1016/s0140-6736(20)30183-5</item>
+            <item>Swadźba J., Kozłowska D., Tomasz Anyszek T. et al. Atypical pneumonia diagnosed as COVID-19 by serologic test (patient #1 in Poland). Pol. Arch. Intern. Med. 2020; Published online: April 24, 2020. DOI: 10.20452/pamw.15313</item>
+            <item>Szymanek-Pasternak A., Serafińska S., Kucharska M. et al. Severe course of COVID-19 in a middle-aged man without risk factors. Pol. Arch. Intern. Med. 2020; Published online: April 03, 2020. DOI: 10.20452/pamw.15277</item>
+            <item>Greenhalgh T., Koh G., Car J. Covid-19: a remote assessment in primary care. BMJ. 2020; 368: m1182. https://doi.org/10.1136/bmj.m1182</item>
+            <item>COVID-19 rapid guideline: managing suspected or confirmed pneumonia in adults in the community. URL: https://www.nice.org.uk/guidance/ng165/chapter/3-Diagnosis-and-assessment</item>
+            <item>Xie X., Zhong Z., Zhao W. et al. Chest CT for typical 2019-nCoV pneumonia: relationship to negative RT-PCR testing. Radiology. 2020; 200343. DOI: 10.1148/radiol.2020200343</item>
+            <item>Hosseiny M., Kooraki S., Gholamrezanezhad A. et al. Radiology perspective of coronavirus disease 2019 (COVID-19): lessons from severe acute respiratory syndrome and Middle East Respiratory Syndrome. AJR Am. J. Roentgenol. 2020; 214 (5): 1078–82. DOI: 10.2214/AJR.20.22969</item>
+            <item>Chan J.F.-W., Yuan S., Kok K.-H. et al. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet. 2020; 395 (10223): 514–23. DOI: 10.1016/S0140-6736(20)30154-9</item>
+            <item>Gattinoni L., Coppola S., Cressoni M. et al. Covid-19 Does Not Lead to a «Typical» Acute Respiratory Distress Syndrome [published online ahead of print, 2020 Mar 30]. Am. J. Respir. Crit. Care Med. 2020. DOI: 10.1164/rccm.202003-0817LE</item>
+            <item>Salehi S., Abedi A., Balakrishnan S. et al. Coronavirus Disease 2019 (COVID-19): A Systematic Review of Imaging Findings in 919 Patients [published online ahead of print, 2020 Mar 14]. AJR Am. J. Roentgenol. 2020; 1–7. DOI: 10.2214/AJR.20.23034</item>
+            <item>Ai T., Yang Z., Hou H. et al. Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases [published online ahead of print, 2020 Feb 26]. Radiology. 2020; 200642. DOI: 10.1148/radiol.2020200642</item>
+            <item>Bai H.X. et al. Performance of radiologists in differentiating COVID-19 from viral pneumonia on chest CT. Radiology. 2020; 200823. DOI: 10.1148/radiol.2020200823</item>
+            <item>Lee E.Y.P., Ng M.Y., Khong P.L. COVID-19 pneumonia: what has CT taught us? Lancet Infect. Dis. 2020; 20 (4): 384–5. DOI: 10.1016/S1473-3099(20)30134-1</item>
+            <item>Ai J.W., Zhang Y., Zhang H.C. et al. Era of molecular diagnosis for pathogen identification of unexplained pneumonia, lessons to be learned. Emerg. Microbes Infect. 2020; 9 (1): 597–600. DOI: 10.1080/22221751.2020.1738905</item>
+            <item>Liu W.H., Wang X.W., Cai Z.Q. et al. Chest CT as a screening tool for COVID-19 in unrelated patients and asymptomatic subjects without contact history is unjustified. Quant. Imaging Med. Surg. 2020; 10 (4): 876–7. DOI: 10.21037/qims.2020.04.02</item>
+            <item>Plüddemann A., Thompson M., Heneghan C. et al. Pulse oximetry in primary care: primary care diagnostic technology update. Br. J. Gen. Pract. 2011; 61 (586): 358–9. DOI: 10.3399/bjgp11X572553</item>
+            <item>Moore M., Stuart B., Little P. et al. Predictors of pneumonia in lower respiratory tract infections: 3C prospective cough complication cohort study. Eur. Respir. J. 2017; 50 (5): 1700434. DOI: 10.1183/13993003.00434-2017</item>
+            <item>Xu Z., Shi L., Wang Y. et al. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. Lancet Respir. Med. 2020; 8 (4): 420–2. https://doi.org/10.1016/S2213-2600(20)30076-X</item>
+            <item>Johnson K. COVID-19: Home Pulse Oximetry Could Be Game Changer, Says ER Doc. URL: https://www.medscape.com/viewarticle/929309</item>
+        </references_ru>
+        <last_page>29</last_page>
+        <title_en>Organizational and clinical problems of outpatient COVID-19 diagnostics</title_en>
+        <authors_info_en>Professor I. Samorodskaya(1), MD; Professor V. Larina(2), MD; K. Nazimkin(2), Candidate of Medical Sciences; V. Larin(2), Candidate of Medical Sciences (1)National Medical Center for Therapy and Preventive Medicine, Moscow (2)Pirogov Russian National Research Medical University, Moscow</authors_info_en>
+        <abstract_en>The review article highlights a number of organizational and clinical problems in outpatient COVID-19 diagnostics related to a lack of knowledge and new challenges for the healthcare system. The existing WHO definition for COVID-19 and laboratory tests do not allow a clear diagnosis of COVID-19, to assess the severity of the patient’s condition and to predict the course of the disease. The inclusion of cases in statistics based on laboratory tests is uncertain. With a significant increase in the number of people who are shown to be tested, the healthcare system inevitably faces resource supply problems. The non-specificity and heterogeneity of symptoms with COVID-19 complicate the diagnosis and differential diagnosis at the outpatient stage. A high risk of developing severe lung damage requires the use of computed tomography (CT), but the absence of changes on the CT does not exclude, and the presence does not confirm COVID-19. A quick result can provide better patient routing, but CT only identifies lung damage with COVID-19, has contraindications, is associated with a relatively high cost, requires additional organizational costs associated with transporting the patient to a medical facility and increases the likelihood of infection of staff and surrounding persons. The outpatient use of pulse oximetry can help resolve issues of timely hospitalization, avoid late admission of patients to the hospital, but can lead to deficiency, improper use, increased anxiety and fear in patients, and an increase in the load on emergency departments. Given the high contagiousness of the pathogen, a significant burden on primary care doctors during the epidemic, it is likely that widespread use of telemedicine consultations is advisable. Signs / indicators / criteria are needed that will help resolve the issues of patient management tactics for an outpatient doctor.</abstract_en>
+        <keywords_en>
+            <item>infectious diseases</item>
+            <item>coronavirus</item>
+            <item>severe acute respiratory syndrome</item>
+            <item>symptoms</item>
+            <item>pneumonia</item>
+            <item>computed tomography</item>
+            <item>pulse oximetry</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>проблема</rubric_ru>
+        <doi>10.29296/25877305-2020-05-06</doi>
+        <first_page>30</first_page>
+        <title_ru>Искусственный интеллект в выявлении туберкулеза: возможности и перспективы</title_ru>
+        <authors_list_ru>
+            <item>Е.А. Бородулина</item>
+        </authors_list_ru>
+        <authors_info_ru>Е.А. Бородулина, доктор медицинских наук, профессор Самарский государственный медицинский университет E-mail: borodulinbe@yandex.ru</authors_info_ru>
+        <abstract_ru>В период глобальной цифровизации медицины одним из перспективных направлений является организация скрининговых обследований населения, прежде всего на социально-значимые заболевания с привлечением искусственного интеллекта (ИИ). В нашей стране это ежегодные флюорографические обследования на туберкулез. Переход на цифровую флюорографию уже предопределил положительные тенденции в системном подходе к своевременному выявлению туберкулеза. Перспективность дальнейшего совершенствования скрининговых обследований на туберкулез определяется прежде всего необходимостью системного подхода к рутинно повторяющимся исследованиям, что предполагает использование ИИ для распознавания патологии, отбора и формирования групп для дальнейшего обследования у врача-специалиста. Возможно ли это в ближайшем будущем и как идет создание ИИ, обсуждается в данном обзоре.</abstract_ru>
+        <keywords_ru>
+            <item>искусственный интеллект</item>
+            <item>туберкулез</item>
+            <item>скрининг</item>
+            <item>распознавание</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Мирошниченко С.И., Коваленко Ю.Н., Чернецов В.Б. Замена флюорографии на скрининговую цифровую рентгенографию. Поликлиника. 2016; 6: 19–22 [Miroshnichenko S.I., Kovalenko Yu.N., Chernetsov V.B. Zamena flyuorografii na skriningovuyu tsifrovuyu rentgenografiyu. Poliklinika. 2016; 6: 19–22 (in Russ.)].</item>
+            <item>Старшинова А.А., Кудлай Д.А., Довгалюк И.Ф. и др. Эффективность применения новых методов иммунодиагностики туберкулезной инфекции в Российской Федерации. Педиатрия. 2019; 98 (4): 229–35 [Starshinova A.A., Kudlay D.A., Dovgalyuk I.F. et al. Efficacy of new methods of tuberculosis infection immunodiagnostics in the Russian Federation. Pediatria. 2019; 98 (4): 229-235 (in Russ.)]. DOI: 10.24110/0031-403X-2019-98-4-229-235</item>
+            <item>Слогоцкая Л.В., Синицын М.В., Кудлай Д.А. Возможности иммунологических тестов в диагностике латентной туберкулезной инфекции и туберкулеза. Туберкулез и болезни легких. 2019; 97 (11): 46–58 [Slogotskaya L.V., Sinitsyn M.V., Kudlay D.A. Potentialities of immunological tests in the diagnosis of latent tuberculosis infection and tuberculosis. Tuberculosis and Lung Diseases. 2019; 97 (11): 46–58 (in Russ.)]. DOI: 10.21292/2075-1230-2019-97-11-46-58</item>
+            <item>Каканов О.Г. Особенности флюорографического выявления туберкулеза легких. Бюллетень медицинских интернет-конференций. 2018; 8 (4): 159 [Kakanov O.G. Osobennosti flyuorograficheskogo vyyavleniya tuberkuleza legkikh. Byulleten’ meditsinskikh internet-konferentsii. 2018; 8 (4): 159 (in Russ.)].</item>
+            <item>Зубова Н.А. Эффективность массовых профилактических осмотров в субъектах российской федерации с низким уровнем заболеваемости туберкулезом. Социальные аспекты здоровья населения. 2016; 4 (50): 8 [Zubova N.A. Effectiveness of mass preventive examinations in subjects of the russian federation with low morbidity rates of tuberculosis. Sotsial’nye aspekty zdorov’ya naseleniya. 2016; 4 (50): 8 (in Russ.)]. DOI: 10.21045/2071-5021-2016-50-4-8. URL: http://vestnik.mednet.ru/content/view/767/30/</item>
+            <item>Бехтерев А.В., Лабусов В.А., Путьмаков А.Н. и др. О флюорографии, цифровой рентгенографии, скрининге и эффективности. Поликлиника. 2019; 1–1: 17–20 [Bekhterev A.V., Labusov V.A., Put’makov A.N. et al. O flyuorografii, tsifrovoi rentgenografii, skrininge i effektivnosti. Poliklinika. 2019; 1–1: 17–20 (in Russ.)].</item>
+            <item>Xu Sh., Jahn W., Müller J.-D. CAD-based shape optimisation with CFD using a discrete adjoint. Numerical Methods in Fluids. 2014; 74 (3): 153-68. DOI: 10.1002/fld.3844</item>
+            <item>Khan F.A., Pande T., Song R. et al. Computer-aided reading of tuberculosis chest radiography: moving the research agenda forward to inform policy. Eur. Respir. J. 2017; 50: 1700953; DOI: 10.1183/13993003.00953-2017</item>
+            <item>Jaeger S., Karargyris A., Antani S. et al. Detecting tuberculosis in radiographs using combined lung masks. Annual International Conference of the IEEE Engineering in Medicine and Biology Society. Conference Proceedings. 2012; 2012: 4978–81. DOI: 10.1109/EMBC.2012.6347110</item>
+            <item>Vajda S., Karargyris A., Jaeger S. et al. Feature Selection for Automatic Tuberculosis Screening in Frontal Chest Radiographs. J. Med. Syst. 2018; 42 (8): 146. DOI: 10.1007/s10916-018-0991-9</item>
+            <item>Pande T., Cohen C., Pai M. et al. Computer-aided detection of pulmonary tuberculosis on digital chest radiographs: a systematic review. Int. J. Tuberc. Lung. Dis. 2016; 20 (9): 1226–30. DOI: 10.5588/ijtld.15.0926</item>
+            <item>Rahman M., Codlin A., Rahman M. et al. An evaluation of automated chest radiography reading software for tuberculosis screening among public- and private-sector patients. Eur. Respir. J. 2017; 49 (5): 1602159. DOI: 10.1183/13993003.02159-2016</item>
+            <item>Zaidi S., Habib S., Van Ginneken B. et al. Evaluation of the diagnostic accuracy of Computer-Aided Detection of tuberculosis on Chest radiography among private sector patients in Pakistan. Sci. Rep. 2018; 8 (1): 12339. DOI: 10.1038/s41598-018-30810-1</item>
+            <item>Melendez J., Sánchez C., Philipsen R. et al. An automated tuberculosis screening strategy combining X-ray-based computer-aided detection and clinical information. Sci. Rep. 2016; 6: 25265. DOI: 10.1038/srep25265</item>
+            <item>Hwang S., Kim H.-E., Jeong J. et al. A novel approach for tuberculosis screening based on deep convolutional neural networks. Proc. SPIE 9785, Medical Imaging 2016: Computer-Aided Diagnosis, 97852W (24 March 2016); https://doi.org/10.1117/12.2216198</item>
+            <item>Lakhani P., Sundaram B. Deep learning at chest radiography: automated classification of pulmonary tuberculosis by using convolutional neural networks. Radiology. 2017; 284 (2): 574–82. DOI: 10.1148/radiol.2017162326.</item>
+            <item>Jaeger S., Juarez-Espinosa O., Candemir S. et al. Detecting drug-resistant tuberculosis in chest radiographs. Int. J. Comput. Assist. Radiol. Surg. 2018; 13 (12): 1915–25. DOI: 10.1007/s11548-018-1857-9</item>
+        </references_ru>
+        <last_page>33</last_page>
+        <title_en>Artificial intelligence in tuberculosis detection. Opportunities and prospects</title_en>
+        <authors_info_en>Professor E. Borodulina, MD Samara State Medical University</authors_info_en>
+        <abstract_en>In the period of global digitalization of medicine, one of the promising areas is the organization of population screening with artificial intelligence (AI), above all, for socially significant diseases. In our country, these are annual fluorographic examinations for tuberculosis. The transition to digital fluorography has already predetermined positive trends in a systematic approach to the timely detection of tuberculosis. The prospects for further improvement of screening for tuberculosis are determined primarily by the need for a systematic approach to routine repetitive studies, which involves the use of AI to recognize the disease, to select and form groups for further examination by a medical specialist. Whether this is possible in the near future and how the creation of AI is going on is discussed in this review.</abstract_en>
+        <keywords_en>
+            <item>artificial intelligence</item>
+            <item>tuberculosis</item>
+            <item>screening</item>
+            <item>recognition</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>новое в медицине</rubric_ru>
+        <doi>10.29296/25877305-2020-05-07</doi>
+        <first_page>34</first_page>
+        <title_ru>Система компьютерного зрения для анализа обзорных рентгенограмм органов грудной клетки: возможности искусственного интеллекта в обнаружении патологических изменений и инородных тел</title_ru>
+        <authors_list_ru>
+            <item>Е.А. Жуков</item>
+            <item>Д.С. Блинов</item>
+            <item>В.С. Леонтьев</item>
+            <item>П.В. Гаврилов</item>
+            <item>У.А. Смольникова</item>
+            <item>Е.В. Блинова</item>
+            <item>И.Г. Камышанская</item>
+        </authors_list_ru>
+        <authors_info_ru>Е.А. Жуков(1), Д.С. Блинов(1), доктор медицинских наук, В.С. Леонтьев(2), П.В. Гаврилов(3), кандидат медицинских наук, У.А. Смольникова(3), Е.В. Блинова(4), доктор медицинских наук, профессор, И.Г. Камышанская(5), кандидат медицинских наук (1)ООО «КэреМенторЭйАй», Москва (2)Городская клиническая больница им. Ф.И. Иноземцева Департамента здравоохранения Москвы (3)Санкт-Петербургский НИИ фтизиопульмонологии Минздрава России (4)Первый МГМУ им. И.М. Сеченова Минздрава России (Сеченовский Университет) (5)Санкт-Петербургский государственный университет E-mail: d.blinov@cmai.team</authors_info_ru>
+        <abstract_ru>Цель – разработать эффективную систему компьютерного зрения для обнаружения признаков патологии и инородных тел бытового и медицинского происхождения на обзорных рентгенограммах (РГ) органов грудной клетки (ОГК). Материал и методы. Для построения модели использовался ансамбль сверточных искусственных нейронных сетей архитектур Inception V3, ResNet-50 и Global Average Pooling. Выходы со всех моделей объединялись в один вектор и использовались как вход для модели бустинга, в качестве которой применялась XGBoost модель. Для обучения и тестирования системы использовали 276 840 обезличенных обзорных РГ ОГК в прямой проекции. Результаты. Был разработан ряд моделей компьютерного зрения для анализа рентгенологических исследований легких. Для достижения удовлетворительного баланса между показателями точности предсказания эмпирическим путем был подобран порог принятия решения, равный 0,4. Такой баланс позволяет добиться снижения числа ложноотрицательных прогнозов модели и увеличение количества случаев, где подозревается наличие патологических изменений. Выводы. Разработанная модель компьютерного зрения может рассматриваться как эффективный ассистент рентгенолога при анализе РГ-снимков ОГК, позволяющая формировать список приоритетных изображений для немедленного и отсроченного анализа и описания.</abstract_ru>
+        <keywords_ru>
+            <item>нейронная сеть</item>
+            <item>искусственный интеллект</item>
+            <item>патология легких</item>
+            <item>инородное тело</item>
+            <item>обнаружение</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Yao L., Poblenz E., Dagunts D. et al. Learning to diagnose from scratch by exploiting dependencies among labels. arXiv:1710.10501v2 [cs.CV]. 2018; 1: 1–18.</item>
+            <item>Sabih D.E., Sabih A., Sabih Q. et al. Image perception and interpretation of abnormalities; can we believe our eyes? Can we do something about it? Insights Imaging. 2011; 2: 47–55. https://doi.org/10.1007/s13244-010-0048-1</item>
+            <item>Makary M.A., Daniel M. Medical error: the third leading cause of death in the US. BMJ. 2016; 353: i2139. https://doi.org/10.1136/bmj.i2139</item>
+            <item>Kohn L.T., Corrigan J.M., Donaldson M.S. et al. To err is human: building a safer health system. Washington, DC: National Academies Press, 2000. pp. 287. https://doi.org/10.17226/9728</item>
+            <item>Busby L.P., Courtier J.L., Glastonbury C.M. Bias in radiology: the How and Why of misses and misinterpretation. Radiographics. 2018; 38: 236–47. https://doi.org/10.1148/rg.2018170107</item>
+            <item>Waite S., Scott J., Gale J. et al. Interpretative error in radiology. AJR. 2017; 208: 739–49. https://doi.org/10.2214/ajr.16.16963</item>
+            <item>Ropp A., Waite S., Reede D. et al. Did I miss that: subtle and commonly missed findings on chest radiographs. Curr Probl Diagn Radiol. 2015; 44: 277–89. https://doi.org/10.1067/j.cpradiol.2014.09.003</item>
+            <item>Del Ciello A., Franchi D., Contegiacomo A. et al. Missed lung cancer: when, where, and why? Diagn Interv Radiol. 2017; 23 (2): 118–26. https://doi.org/10.5152/dir.2016.16187</item>
+            <item>Garland L.H. On the scientific evaluation of diagnostic procedures. Radiology. 1949; 52: 309–28. https://doi.org/10.1148/52.3.30910</item>
+            <item>Er O., Yumusak N., Temurtas F. Chest diseases diagnosis using artificial neural networks. Expert Sys Appl. 2010; 37 (12): 7648–55. https://doi.org/10.1016/j.eswa.2010.04.078</item>
+            <item>Er O., Sertkaya C., Temurtas F. et al. A comparative study on chronic obstructive pulmonary and pneumonia diseases diagnosis using neural networks and artificial immune system. J. Med. Sys. 2009; 33 (6): 485–92. https://doi.org/10.1007/s10916-008-9209-x</item>
+            <item>Khobragade S., Tiwari A., Pati C.Y. et al. Automatic detection of major lung diseases using chest radiographs and classification by feed-forward artificial neural network. Proceedings of 1st IEEE International Conference on Power Electronics. Intelligent Control and Energy Systems (ICPEICES-2016) 2016 IEEE, p. 1–5. https://doi.org/10.1109/icpeices.2016.7853683</item>
+            <item>Litjens G., Kooi T., Bejnordi E.B. et al. A survey on deep learning in medical image analysis. Medical Image Analysis. 2017; 42: 60–88. https://doi.org/10.1016/j.media.2017.07.005</item>
+            <item>Albarqouni S., Baur C., Achilles F. et al. Aggnet: deep learning from crowds for mitosis detection in breast cancer histology images. IEEE Transactions on Medical Imaging. 2016; 35 (5): 1313–21. https://doi.org/10.1109/tmi.2016.2528120</item>
+            <item>Avendi M.R., Kheradvar A., Jafarkhani H.A. combined deep-learning and deformable-model approach to fully automatic segmentation of the left ventricle in cardiac MRI. Medical Image Analysis. 2016; 30: 108–19. https://doi.org/10.1016/j.media.2016.01.005</item>
+            <item>Shin H.-C., Roberts K., Lu L. et al. Learning to read chest X-rays: recurrent neural cascade model for automated image annotation. Cornel University library. 2016. https://arxiv.org/abs/1603.08486.</item>
+            <item>Wang X.S., Peng Y.F., Lu L. et al. ChestX-ray8: hospital-scale chest x-ray database and benchmarks on weakly-supervised classification and localization of common thorax diseases. In: 2017 IEEE conference on computer vision and pattern recognition (CVPR). Honolulu, HI, USA: IEEE. 2017. p. 3462–71. http://dx.doi.org/10.1109/CVPR.2017.369</item>
+            <item>XGBoost Documentation, <year>2019</year>, accessed 29 September 2019, https://xgboost.readthedocs.io/en/latest/index.html</item>
+        </references_ru>
+        <last_page>41</last_page>
+        <title_en>System of Digital Vision for X-Ray Lung Pathology and Foreign Body Detection</title_en>
+        <authors_info_en>E. Zhukov(1); D. Blinov(1), MD; V. Leontiev(2); P. Gavrilov(3), Candidate of Medical Sciences; U. Smolnikova(3); Professor E. Blinova(4), MD; I. Kamishanskaya(5), Candidate of Medical Sciences (1)Care Mentor AI, Moscow (2)Inozemtzev Moscow State Clinical Hospital, Moscow (3)Saint-Petersburg Research Institute of Phthisiopulmonology (4)I.M. Sechenov First Moscow State Medical University (Sechenov University) (5)Saint-Petersburg State University</authors_info_en>
+        <abstract_en>Goal and objectives: to develop an effective computer vision system for detecting pathology and foreign bodies of medical and unmedical origin on plain chest radiographs. Material and methods: in order to build the model, aggregation of convolutional artificial neural networks of the InceptionV3, ResNet-50 and GlobalAveragePooling architectures was used. The outputs from all models were combined into a single vector and used as input for the boosting model, which was used as the XGBoost model. For training and testing the system, 276840 anonymized chest x-ray in a frontal view were used. Results. A number of computer vision models have been developed for the analysis of X-ray examinations of the lungs. To achieve a satisfactory balance between the prediction accuracy indicators, a decision threshold of 0.4 was chosen empirically. Such a balance makes it possible to reduce the number of false-negative model predictions and increase the number of cases where pathological changes are suspected. Conclusions. The developed model of computer vision can be considered as an effective assistant to the radiologists in the analysis of chest x-ray images, allowing them to create a list of priority images for immediate and delayed analysis and description.</abstract_en>
+        <keywords_en>
+            <item>neural network</item>
+            <item>artificial intelligence</item>
+            <item>lung pathology</item>
+            <item>foreign body</item>
+            <item>detection</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>новое в медицине</rubric_ru>
+        <doi>10.29296/25877305-2020-05-08</doi>
+        <first_page>41</first_page>
+        <title_ru>Предсказание сердечно-сосудистых событий при помощи комплексной оценки факторов риска с использованием методов машинного обучения</title_ru>
+        <authors_list_ru>
+            <item>Д.В. Гаврилов</item>
+            <item>Л.М. Серова</item>
+            <item>И.Н. Корсаков</item>
+            <item>А.В. Гусев</item>
+            <item>Р.Э. Новицкий</item>
+            <item>Т.Ю. Кузнецова</item>
+        </authors_list_ru>
+        <authors_info_ru>Д.В. Гаврилов(1), Л.М. Серова(1), кандидат технических наук, И.Н. Корсаков(1), кандидат физико-математических наук, А.В. Гусев(1), кандидат технических наук, Р.Э. Новицкий(1), Т.Ю. Кузнецова(2), доктор медицинских наук (1)ООО «К-Скай», Петрозаводск (2)Петразоводский государственный университет E-mail: dgavrilov@webiomed.ai</authors_info_ru>
+        <abstract_ru>Актуальность: профилактика сердечно-сосудистых заболеваний (ССЗ) является актуальной проблемой, связанной с лидирующем уровнем смертности от них в мире, различными способами оценки сердечно-сосудистого риска, точностью его определения. Цель: разработать модель при помощи машинного обучения для предсказания сердечно-сосудистого риска и валидировать ее с использованием российских медицинских данных. Материал и методы: набор данных для обучения получен из Фрамингемского исследования, в него входили 4363 пациента без ССЗ, из которых 852 (19,5%) умерли от инфаркта миокарда и инсульта в течение 10 лет с начала наблюдения. Входящие признаки модели: пол, возраст, систолическое АД, холестерин, курение, индекс массы тела, частота сердечных сокращений. Исходный набор данных был разделен на 2 части: учебный набор данных «train» (80% записей) и набор данных проверки «validate» (оставшиеся 20%). Дополнительно было проведено тестирование модели на внешнем наборе данных «test», который включал 411 деперсонифицированных данных пациентов российской популяции. Результаты: итогом работы стала модель WML.CVD.Score, построенная методом последовательной нейронной сети с одним входным, двумя скрытыми и одним выходным слоем. Результаты точности на учебном наборе данных: Accuracy – 81,15%, AUC – 0,80. Эти же показатели на проверочном наборе данных «validate» составили: Accuracy – 81,1%, AUC 0,76. Результаты тестирования на наборе данных «test»: Accuracy – 79,07, AUC – 0,86. На российских тестовых данных AUC для шкалы SCORE составила 0,81 против 0,86 для разработанной модели, что показало обоснованность применения машинного обучения с целью повышения прогностической модели. Заключение: разработанная модель продемонстрировала высокую точность предсказания сердечно-сосудистых событий как при внутренней, так и при внешней валидации.</abstract_ru>
+        <keywords_ru>
+            <item>кардиология</item>
+            <item>сердечно-сосудистые заболевания</item>
+            <item>факторы риска</item>
+            <item>моделирование риска</item>
+            <item>машинное обучение</item>
+        </keywords_ru>
+        <references_ru>
+            <item>WHO Global Action Plan for the Prevention and Control of Non-communicable Diseases 2013–2020 (resolution WHA66.10, 27 May 2013) Available at: http://apps.who.int/gb/ebwha/pdf_files/WHA66/A66_R10-en.pdf?ua=1 [Accessed 27 Mar. 2020].</item>
+            <item>Федеральная служба государственной статистики [Federal State Statistic Service (in Russ.)]. Available at: https://gks.ru/folder/13721 [Accessed 27 Mar. 2020].</item>
+            <item>Паспорт национального проекта «Здравоохранение» (утв. Президиумом Совета при Президенте РФ по стратегическому развитию и национальным проектам, протокол от 24.12.2018 №6) [Passport of the national project «Healthcare» (in Russ.)] Available at: http://www.consultant.ru [Accessed 27 Mar. 2020].</item>
+            <item>Шляхто E.В., Звартау Н.Э., Виллевальде C.В. и др. Система управления сердечно-сосудистыми рисками: предпосылки к созданию, принципы организации, таргетные группы. Рос. кардиол. журн. 2019; 24 (11): 69–82 [Shlyakhto E.V., Zvartau N.E., Villevalde S.V. et al. Cardiovascular risk management system: prerequisites for developing, organization principles, target groups. Russian Journal of Cardiology. 2019; 24 (11): 69–82 (in Russ.)]. DOI: 10.15829/1560-4071-2019-11-69-82</item>
+            <item>Белялов Ф.И. Шкалы прогноза сердечно-сосудистых заболеваний. Архив внутренней медицины. 2015; 5: 19–21 [Belyalov F.I. Prognostic scores for cardiovascular diseases. The Russian Archives of Internal Medicine. 2015; 5: 19–21 (in Russ.)].</item>
+            <item>Бойцов С.А., Шальнова С.А., Деев А.Д. и др. Моделирование риска развития сердечно-сосудистых заболеваний и их осложнений на индивидуальном и групповом уровнях. Тер. арх. 2013; 85 (9): 4–10 [Boitsov S.A., Shalnova S.A., Deev A.D. et al. Simulation of a risk for cardiovascular diseases and their events at individual and group levels. Therapeutic archive. 2013; 85 (9): 4–10 (in Russ.)].</item>
+            <item>Weng S.F., Reps J., Kai J. et al. Can machine-learning improve cardiovascular risk prediction using routine clinical data? PLoS One. 2017; 12 (4): e0174944. DOI: 10.1371/journal.pone.0174944</item>
+            <item>Angraal S., Mortazavi B.J., Gupta A. et al. Machine Learning Prediction of Mortality and Hospitalization in Heart Failure With Preserved Ejection Fraction. JACC: Heart Failure. 2020; 8 (1): 12–21. https://doi.org/10.1016/j.jchf.2019.06.013</item>
+            <item>Meyer A., Zverinski D., Pfahringer B. et al. Machine learning for real-time prediction of complications in critical care: a retrospective study. Lancet Respir. Med. 2018; 6 (12): 905–14. https://doi.org/10.1016/S2213-2600(18)30300-X</item>
+            <item>Kuznetsova T., Novitskiy R., Gusev A. et al. Deep and machine learning models to improve risk prediction of cardiovascular disease using data extraction from electronic health records. Eur. Heart J. 2019; 40 (Suppl. 1): 1923–4. https://doi.org/10.1093/eurheartj/ehz748.0670</item>
+            <item>Clinical Practice Research Datalink, reference number: CPRD00039761. Available at: https://www.cprd.com</item>
+            <item>European guidelines on cardiovascular disease prevention in clinical practice: third joint task force of European and other societies on cardiovascular disease prevention in clinical practice (constituted by representatives of eight societies and by invited experts). Eur. J. Cardiovasc. Prev. Rehabil. 2003; 10 (4): 1–10. DOI: 10.1097/01.hjr.0000087913.96265.e2</item>
+            <item>Conroy R.M., Pyorala K., Fitzgerald A.P. et al. Estimation of ten-year risk of fatal cardiovascular disease in Europe: the SCORE project. Eur. Heart J. 2003; 24: 987–1003. DOI: 10.1016/s0195-668x(03)00114-3</item>
+            <item>Beunzaa J.-J., Puertasa E. et al. Comparison of machine learning algorithms for clinical event prediction (risk of coronary heart disease). J. Biomed. Inform. 2019; 97: 103257. DOI:10.1016/j.jbi.2019.103257</item>
+            <item>Fawcett T. An introduction to ROC analysis. Pattern Recognition Letters. 2006; 27 (8): 861–74. https://doi.org/10.1016/j.patrec.2005.10.010</item>
+        </references_ru>
+        <last_page>46</last_page>
+        <title_en>Cardiovascular diseases prediction by integrated risk factors assessment by means of machine learning</title_en>
+        <authors_info_en>D. Gavrilov(1); L. Serova(1), Candidate of Engineering Sciences; I. Korsakov(1), Candidate of Physico-Mathematical Sciences; A. Gusev(1), Candidate of Engineering Sciences; R. Novitsky(1); T. Kuznetsova(2), MD (1)K-SkAI, Petrozavodsk (2)Petrozavodsk State University</authors_info_en>
+        <abstract_en>Aim. To develop a model by machine learning to predict the risk of cardiovascular diseases (CVD) and validate the model using Russian medical data. Materials and methods. The data set was obtained from the Framingham study, consisting of 4,363 patients without CVD, 852 (19.5%) of which died of myocardial infarction and stroke within 10 years of observation. Incoming model features: gender, age, systolic blood pressure, cholesterol, smoking, body mass index, heart rate. The original data set was divided into 2 parts: the training data set (80% of the records) and the validate data set (the remaining 20%). Additionally, the model was evaluated by an external data set included 411 depersonalized patient data from the Russian citizens. Results. The WML.CVD.Score model was created by the serial neural network with one input, two hidden and one output layer. Accuracy results on a training dataset: Accuracy 81.15%, AUC 0.80. The same indicators on the validate data set were: Accuracy 81.1%, AUC 0.76. Test results for the test data set: Accuracy 79.07, AUC 0.86. On the Russian test data, the AUC for the SCORE scale was 0.81 versus 0.86 for the developed model, which showed the validity of the use of machine learning in order to increase the predictive model. Conclusion. The developed model has demonstrated high accuracy to CVD predicting in both internal and external validation. The model can be used in medical practice for patients in Russia.</abstract_en>
+        <keywords_en>
+            <item>cardiology</item>
+            <item>cardiovascular diseases</item>
+            <item>risk factors</item>
+            <item>risk modeling</item>
+            <item>machine learning</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-05-09</doi>
+        <first_page>46</first_page>
+        <title_ru>Модифицированная операция Appleby в условиях регионального онкологического диспансера</title_ru>
+        <authors_list_ru>
+            <item>Е.А. Тонеев</item>
+            <item>А.Л. Чарышкин</item>
+            <item>А.В. Жинов</item>
+            <item>С.В. Городнов</item>
+            <item>М.С. Владимиркина</item>
+            <item>В.И. Орёлкин</item>
+            <item>П.М. Чавкин</item>
+        </authors_list_ru>
+        <authors_info_ru>Е.А. Тонеев(1, 2), А.Л. Чарышкин(2), доктор медицинских наук, профессор, А.В. Жинов(1), кандидат медицинских наук, С.В. Городнов(1), кандидат медицинских наук, М.С. Владимиркина(1), В.И. Орёлкин(1), П.М. Чавкин(2) (1)Областной клинический онкологический диспансер, Ульяновск (2)Ульяновский государственный университет E-mail: e.toneev@inbox.ru</authors_info_ru>
+        <abstract_ru>Хирургическое вмешательство при заболеваниях поджелудочной железы представляет собой значимую проблему современной онкологии. При распространении опухоли на чревный ствол пациенты, как правило, признаются нерезектабельными. В начале 50-х годов XX века в США была разработана операция, включающая резекцию чревного ствола с последующим анастомозированием печеночной артерии с аортой (операция Appleby). В дальнейшем была разработана ее модификация, позволяющая избежать сложных реконструктивных вмешательств за счет адекватного коллатерального кровотока из бассейна верхней брыжеечной артерии. В нашей клинике была выполнена модифицированная операция Appleby по поводу злокачественного новообразования тела поджелудочной железы с удовлетворительными ближайшими результатами. Приводится клиническое наблюдение.</abstract_ru>
+        <keywords_ru>
+            <item>онкология</item>
+            <item>хирургия</item>
+            <item>рак поджелудочной железы</item>
+            <item>гемипанкреатэктомия</item>
+            <item>операция Appleby</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Bray F., Ferlay J., Soerjomataram I. et al. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J. Clin. 2018; 68 (6): 394–424. DOI: 10.3322/caac.21492</item>
+            <item>Oh S., Edwards A., Mandelson M. et al. Rare long-term survivors of pancreatic adenocarcinoma without curative resection. World J. Gastroenterol. 2015; 21 (48): 13574–81. DOI: 10.3748/wjg.v21.i48.13574</item>
+            <item>De La Cruz M., Young A., Ruffin M. Diagnosis and management of pancreatic cancer. Am. Fam. Physician. 2014; 89 (8): 626–32.</item>
+            <item>Патютко Ю.И., Котельников А.Г. Резекция магистральных сосудов при операциях по поводу рака органов билиопанкреато-дуоденальной зоны. Хирургия рака органов билиопанкреато-дуоденальной зоны. М.: Медицина, 2007; с. 244–72 [Patyutko Yu.I., Kotel’nikov A.G. Rezektsiya magistral’nykh sosudov pri operatsiyakh po povodu raka organov biliopankreato-duodenal’noi zony. Khirurgiya raka organov biliopankreato-duodenal’noi zony. M.: Meditsina, 2007; s. 244–72 (in Russ.)].</item>
+            <item>Appleby L. The coeliac axis in the expansion of the operation for gastric carcinoma. Cancer. 1953; 6: 704–7. DOI: 10.1002/1097-0142(195307)6:4&lt;704::aid-cncr2820060410&gt;3.0.co;2-p</item>
+            <item>Smoot R., Donohue J., Modified Appleby procedure for resection of tumors of the pancreatic body and tail with celiac axis involvement. J. Gastrointest. Surg. 2012; 16: 2167–9. DOI: 10.1007/s11605-012-1925-3</item>
+            <item>Yamamoto Y., Sakamoto Y., Ban D. et al. Is celiac axis resection justified for T4 pancreatic body cancer? Surgery. 2012; 151: 61–9. DOI: 10.1016/j.surg.2011.06.030</item>
+            <item>Ryan D., Hong T., Bardeesy N. Pancreatic adenocarcinoma. N. Engl. J. Med. 2014; 371: 1039–49. DOI: 10.1056/NEJMra1404198</item>
+            <item>Ilic M., Ilic I. Epidemiology of pancreatic cancer. World J. Gastroenterol. 2016; 22 (44): 9694–705. DOI: 10.3748/wjg.v22.i44.9694</item>
+            <item>Yadav D., Lowenfels A. The epidemiology of pancreatitis and pancreatic cancer. Gastroenterology. 2013; 144 (6): 1252–61. DOI: 10.1053/j.gastro.2013.01.068</item>
+            <item>Okada K., Kawai M., Tani M. et al. Surgical strategy for patients with pancreatic body/tail carcinoma: who should undergo distal pancreatectomy with en-bloc celiac axis resection? Surgery. 2013; 153: 365–72. DOI: 10.1016/j.surg.2012.07.036</item>
+            <item>Sperti C., Berselli M., Pedrazzoli S. Distal pancreatectomy for body-tail pancreatic cancer: Is there a role for celiac axis resection? Pancreatology. 2010; 10: 491–8. DOI: 10.1159/000276984</item>
+            <item>Kondo S., Katoh H., Hirano S. et al. Results of radical distal pancreatectomy with en bloc resection of the celiac artery for locally advanced cancer of the pancreatic body. Langenbecks Arch. Surg. 2003; 388: 101–6. DOI: 10.1007/s00423-003-0375-5</item>
+            <item>Hirano S., Kondo S., Tanaka E. et al. Postoperative bowel function and nutritional status following distal pancreatectomy with en-bloc celiac axis resection. Dig. Surg. 2010; 27: 212–6. DOI: 10.1159/000265573</item>
+            <item>Shen Q., Jiang Q., Tian Y. et al. Appleby operation for carcinoma of the body and tail of the pancreas. J. Can. Res. Ther. 2018; 14 (Suppl. S5):1019–23. DOI: 10.4103/0973-1482.199383</item>
+        </references_ru>
+        <last_page>49</last_page>
+        <title_en>Modified Appleby procedure in a regional oncology dispensary</title_en>
+        <authors_info_en>E. Toneev(1, 2); Professor A. Charyshkin(2), MD; A. Zhinov(1), Candidate of Medical Sciences; S. Gorodnov(1), Candidate of Medical Sciences; M. Vladimirkina(1); V. Orelkin(1); P. Chavkin(2) (1)Regional Clinical Oncology Dispensary, Ulyanovsk (2)Ulyanovsk State University</authors_info_en>
+        <abstract_en>Surgical intervention in pancreatic diseases is a significant problem in modern oncology. When a tumor spreads to the celiac trunk in patients, the latter are generally recognized as unresectable. An operation including celiac trunk resection, followed by an anastomosis between the hepatic artery and the aorta (an Appleby procedure), was developed in the United States in the early 1950s. Subsequently, its modification was developed to avoid complex reconstructive interventions due to adequate collateral blood flow from the superior mesenteric arterial bed. In our clinic, the modified Appleby procedure for malignant neoplasm in the pancreatic body was done, yielding satisfactory immediate results. A clinical case is given.</abstract_en>
+        <keywords_en>
+            <item>oncology</item>
+            <item>surgery</item>
+            <item>pancreatic cancer</item>
+            <item>hemipancreatectomy</item>
+            <item>Appleby procedure</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-05-10</doi>
+        <first_page>49</first_page>
+        <title_ru>О своевременной диагностике колоректального рака</title_ru>
+        <authors_list_ru>
+            <item>В.С. Рубцов</item>
+            <item>Ю.В. Чалык</item>
+        </authors_list_ru>
+        <authors_info_ru>В.С. Рубцов(1), кандидат медицинских наук, Ю.В. Чалык(2), доктор медицинских наук, профессор (1)ООО «Медицинский Di Центр», Энгельс (2)Саратовский государственный медицинский университет им. В.И. Разумовского E-mail: rubzov999@yandex.ru</authors_info_ru>
+        <abstract_ru>В приведенном клиническом наблюдении диагноз рака правых отделов ободочной кишки пациенту можно было поставить своевременно, но в силу ряда неясных причин окончательный диагноз был установлен значительно позднее.</abstract_ru>
+        <keywords_ru>
+            <item>онкология</item>
+            <item>колоректальный рак</item>
+            <item>своевременная диагностика</item>
+            <item>колоноскопия</item>
+            <item>ирригоскопия</item>
+            <item>компьютерная томография</item>
+            <item>магнитно-резонансная томография</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Ганичкин А.М. Рак толстой кишки: монография. Ленинград: Медицина, Ленингр. отд-ние, 1970; 416 с. [Ganichkin A.M. Rak tolstoi kishki: monografiya. Leningrad: Meditsina, Leningr. otd-nie, 1970; 416 s. (in Russ.)].</item>
+            <item>Справочник по колопроктологии. Под ред. Ю.А. Шелыгина, Л.А. Благодарного. М.: Литтера, 2012; 608 с. [Spravochnik po koloproktologii. Pod red. Yu.A. Shelygina, L.A. Blagodarnogo. M.: Littera, 2012; 608 s. (in Russ.)].</item>
+            <item>Timely Diagnosis of Colorectal Cancer. L. Olsson Ed. Springer International Publishing, 2018; 119 p.</item>
+        </references_ru>
+        <last_page>52</last_page>
+        <title_en>On the timely diagnosis of colorectal cancer</title_en>
+        <authors_info_en>V. Rubtsov(1), Candidate of Medical Sciences; Professor Yu. Chalyk(2), MD (1)OOO «Medical Di Center», Engels, Saratov Region (2)V.I. Razumovsky Saratov State Medical University</authors_info_en>
+        <abstract_en>In the given clinical case, the patient could be timely diagnosed with cancer of the right colon, but due to a number of unclear reasons, the final diagnosis was established much later.</abstract_en>
+        <keywords_en>
+            <item>oncology</item>
+            <item>colorectal cancer</item>
+            <item>timely diagnosis</item>
+            <item>colonoscopy</item>
+            <item>irrigoscopy</item>
+            <item>CT</item>
+            <item>MRI</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-05-11</doi>
+        <first_page>52</first_page>
+        <title_ru>Показатели пролиферации и апоптоза эпителиальных клеток слизистой оболочки желудка у коренных жителей Республики Тыва с Helicobacter pylori-позитивной язвенной болезнью двенадцатиперстной кишки</title_ru>
+        <authors_list_ru>
+            <item>В.В. Цуканов</item>
+            <item>О.В. Перетятько</item>
+            <item>А.С. Пуликов</item>
+            <item>А.В. Васютин</item>
+            <item>Ю.Л. Тонких</item>
+            <item>Т.В. Поливанова</item>
+            <item>В.А. Вшивков</item>
+        </authors_list_ru>
+        <authors_info_ru>В.В. Цуканов, доктор медицинских наук, профессор, О.В. Перетятько, кандидат медицинских наук, А.С. Пуликов, доктор медицинских наук, профессор, А.В. Васютин, кандидат медицинских наук, Ю.Л. Тонких, кандидат медицинских наук, Т.В. Поливанова, доктор медицинских наук, В.А. Вшивков, кандидат медицинских наук Федеральный исследовательский центр «Красноярский научный центр Сибирского отделения РАН», обособленное подразделение «Научно-исследовательский институт медицинских проблем Севера», Красноярск E-mail: gastro@impn.ru</authors_info_ru>
+        <abstract_ru>Цель. Изучить показатели пролиферации и апоптоза эпителиальных клеток слизистой оболочки желудка у коренных жителей Республики Тыва с Helicobacter pylori (Hp)-позитивной язвенной болезнью двенадцатиперстной кишки. Методы. В Республике Тыва во время клинико-эпидемиологического исследования иммуногистохимическое исследование эпителиоцитов слизистой оболочки желудка с определением маркеров пролиферации (Ki-67 и PCNA) и апоптоза (bcl-2 и p53) было выполнено 32 тувинцам (15 мужчин и 17 женщин, средний возраст 47,7 года) с Hp-позитивной язвенной болезнью двенадцатиперстной кишки (ЯБДПК) и 24 Hp-позитивным тувинцам (12 мужчин и 12 женщин, средний возраст 46,4 года) без язвенной болезни. Результаты. Индексы апоптоза (bcl-2 и p53) не имели существенных отличий при сравнении больных ЯБДПК и контрольной группы. Маркеры пролиферации эпителиоцитов (Ki-67 и PCNA) и регуляторные коэффициенты (показатели пролиферации / показатели апоптоза) были значительно более высокими у пациентов с ЯБДПК в сравнении с лицами без язвенной болезни. Заключение. Среди коренных жителей Республики Тыва наблюдается сдвиг пролиферативно-апоптотических взаимоотношений эпителиоцитов желудка в сторону увеличения активности пролиферации у пациентов с Нp-ассоциированной ЯБДПК в сравнении с лицами без язвенной болезни, имеющими инфекцию Нp.</abstract_ru>
+        <keywords_ru>
+            <item>гастроэнтерология</item>
+            <item>апоптоз</item>
+            <item>пролиферация</item>
+            <item>язвенная болезнь</item>
+            <item>Helicobacter pylori</item>
+        </keywords_ru>
+        <references_ru>
+            <item>McMahon B.J., Bruce M.G., Koch A. et al. The diagnosis and treatment of Helicobacter pylori infection in Arctic regions with a high prevalence of infection: Expert Commentary. Epidemiol. Infect. 2016; 144 (2): 225–33. DOI: 10.1017/S0950268815001181</item>
+            <item>Штыгашева О.В., Цуканов В.В. Ассоциация Cаg A и Vac A штаммов Helicobacter pylori и язвенной болезни в организованной популяции г. Абакана. Российский журнал гастроэнтерологии, гепатологии, колопроктологии. 2004; 14 (2): 84–7 [Shtygasheva O.V., Tsukanov V.V. Assotsiatsiya Cag A i Vac A shtammov Helicobacter pylori i yazvennoy bolezni v organizovannoy populyatsii g. Abakana. Rossiyskiy zhurnal gastroenterologii, gepatologii, koloproktologii. 2004; 14 (2): 84–7 (in Russ.)].</item>
+            <item>Цуканов В.В., Баркалов С.В., Тонких Ю.Л. и др. Распространенность CagA-штаммов Helicobacter pylori и язвенная болезнь у населения Восточной Сибири. Тер. арх. 2007; 79 (2): 15–8 [Tsukanov V.V., Barkalov S.V., Tonkikh Yu.L. et al. Prevalence of Helicobacter pylori CaGa strains and peptic ulcer in the population of Eastern Siberia. Ter. Arkh. 2007; 79 (2): 15–8 (in Russ.)].</item>
+            <item>Sung J.J.Y., Coker O.O., Chu E. et al. Gastric microbes associated with gastric inflammation, atrophy and intestinal metaplasia 1 year after Helicobacter pylori eradication. Gut. 2020; pii: gutjnl-2019-319826. [Epub ahead of print]. DOI: 10.1136/gutjnl-2019-319826</item>
+            <item>Rugge M., Genta R.M., Graham D.Y. et al. Chronicles of a cancer foretold: 35 years of gastric cancer risk assessment. Gut. – 2016; 65 (5): 721–5. DOI: 10.1136/gutjnl-2015-310846</item>
+            <item>Агеева Е.С., Штыгашева О.В., Рязанцева Н.В. и др. Молекулярно-генетические факторы, влияющие на исход инфицирования Helicobacter pylori у жителей Республики Хакасия. Российский журнал гастроэнтерологии, гепатологии, колопроктологии. 2010; 20 (4): 16–21 [Ageyeva E.S., Shtygasheva O.V., Ryazantseva N.V. et al. Molekulyarno-geneticheskiye faktory, vliyayushchiye na iskhod infitsirovaniya Helicobacter pylori u zhiteley Respubliki Khakasiya. Rossiyskiy zhurnal gastroenterologii, gepatologii, koloproktologii. 2010; 20 (4): 16–21 (in Russ.)].</item>
+            <item>Blagih J., Buck M.D., Vousden K.H. p53, cancer and the immune response. J. Cell. Sci. 2020; 133 (5): pii: jcs237453. DOI: 10.1242/jcs.237453</item>
+            <item>Burclaff J., Osaki L.H., Liu D. et al. Targeted Apoptosis of Parietal Cells Is Insufficient to Induce Metaplasia in Stomach. Gastroenterology. 2017; 152 (4): 762–6. DOI: 10.1053/j.gastro.2016.12.001</item>
+            <item>Vanneste D., Takagi M., Imamoto N. et al. The role of Hklp2 in the stabilization and maintenance of spindle bipolarity. Curr. Biol. 2009; 19 (20): 1712–7. DOI: 10.1016/j.cub.2009.09.019</item>
+            <item>Juriková M., Danihel Ľ., Polák Š. et al. Ki67, PCNA, and MCM proteins: Markers of proliferation in the diagnosis of breast cancer. Acta Histochem. 2016; 118 (5): 544–52. DOI: 10.1016/j.acthis.2016.05.002</item>
+            <item>Aubrey B.J., Kelly G.L., Janic A. et al. How does p53 induce apoptosis and how does this relate to p53-mediated tumour suppression? Cell Death Differ. 2018; 25 (1): 104–13. DOI: 10.1038/cdd.2017.169</item>
+            <item>Opferman J.T., Kothari A. Anti-apoptotic BCL-2 family members in development. Cell Death Differ. 2018; 25 (1): 37–45. DOI: 10.1038/cdd.2017.170</item>
+            <item>Thompson C.B. Apoptosis in the pathogenesis and treatment of disease. Science. 1995; 267 (5203): 1456–62. DOI: 10.1126/science.7878464</item>
+            <item>Kohda K., Tanaka K., Aiba Y. et al. Role of apoptosis induced by Helicobacter pylori infection in the development of duodenal ulcer. Gut. 1999; 44 (4): 456–62. DOI: 10.1136/gut.44.4.456</item>
+            <item>Tsukanov V.V., Shtygasheva O.V., Vasyutin A.V. et al. Parameters of proliferation and apoptosis of epithelial cells in the gastric mucosa in indigenous and non-indigenous residents of Khakassia with Helicobacter pylori positive duodenal ulcer disease. Bull. Exp. Biol. Med. 2015; 158 (4): 431–3. DOI: 10.1007/s10517-015-2778-z</item>
+            <item>Moss S.F., Sordillo E.M., Abdalla A.M. et al. Increased gastric epithelial cell apoptosis associated with colonization with cagA + Helicobacter pylori strains. Cancer Res. 2001; 61 (4): 1406–11.</item>
+            <item>Peek R.M., Moss S.F., Tham K.T. et al. Helicobacter pylori cagA+ strains and dissociation of gastric epithelial cell proliferation from apoptosis. J. Natl. Cancer Inst. 1997; 89 (12): 863–8. DOI: 10.1093/jnci/89.12.863</item>
+            <item>Tsukanov V.V., Kasparov E.V., Tonkikh J.L. et al. Peptic Ulcer Disease and Helicobacter pylori Infection in Different Siberian Ethnicities. Helicobacter. 2017; 22 (1): e12322. DOI: 10.1111/hel.12322</item>
+            <item>Tsukanov V.V., Butorin N.N., Maady A.S. et al. Helicobacter pylori Infection, Intestinal Metaplasia, and Gastric Cancer Risk in Eastern Siberia. Helicobacter. 2011; 16 (2): 107–12. DOI: 10.1111/j.1523-5378.2011.00827.x</item>
+        </references_ru>
+        <last_page>55</last_page>
+        <title_en>The indices of gastric mucosal epithelial cell proliferation and apoptosis in Helicobacter pylori-positive duodenal ulcer in the native inhabitants of the Republic of Tuva</title_en>
+        <authors_info_en>Professor V. Tsukanov, MD; O. Peretyatko, Candidate of Medical Sciences; Professor A. Pulikov, MD; A. Vasyutin, Candidate of Medical Sciences; Yu. Tonkikh, Candidate of Medical Sciences; T. Polivanova, MD; V. Vshivkov, Candidate of Medical Sciences Research Institute for Medical Problems of the North (Separate Subdivision), Federal Research Center «Krasnoyarsk Research Center, Siberian Branch, Russian Academy of Sciences», Krasnoyarsk</authors_info_en>
+        <abstract_en>Objective: to study the indices of gastric mucosal epithelial cell proliferation and apoptosis in Helicobacter pylori-positive duodenal ulcer (DU) in the native inhabitants of the Republic of Tuva. Methods. In the Republic of Tuva, during a clinical and epidemiological study, an immunohistochemical study of gastric mucosal epithelial cells was performed to identify the markers of proliferation (Ki-67 and PCNA) and apoptosis (bcl-2 and p53) in 32 Tuvans (15 men and 17 women; mean age, 47.7 years) with Hp-positive DU and 24 Hp-positive Tuvans (12 men and 12 women; mean age, 46.4 years) without DU. Results. The apoptotic indices (bcl-2 and p53) did not differ significantly when comparing the patients with DU and the control group. The epithelial cell proliferation markers (Ki-67 and PCNA) and regulatory coefficients (proliferative/apoptotic indices) were significantly higher in the patients with DU than in those without DU. Conclusion. The indigenous inhabitants of the Republic of Tuva show a shift in the gastric epithelial cell proliferative-apoptotic relationships towards a higher proliferative activity in patients with Hp-associated DU than in those without DU who have Hp infection.</abstract_en>
+        <keywords_en>
+            <item>gastroenterology</item>
+            <item>apoptosis</item>
+            <item>proliferation</item>
+            <item>peptic ulcer</item>
+            <item>Helicobacter pylori</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-05-12</doi>
+        <first_page>56</first_page>
+        <title_ru>Опыт применения пластики переднего средостения во время пневмонэктомии у больных с распространенным деструктивным туберкулезом легких*</title_ru>
+        <authors_list_ru>
+            <item>А.Э. Эргешова</item>
+            <item>Е.В. Красникова</item>
+            <item>В.К. Алиев</item>
+            <item>Р.В. Тарасов</item>
+            <item>Д.Н. Проходцов</item>
+            <item>Б.У. Салихов</item>
+            <item>М.А. Багиров</item>
+        </authors_list_ru>
+        <authors_info_ru>А.Э. Эргешова(1), Е.В. Красникова(1), доктор медицинских наук, В.К. Алиев(1), Р.В. Тарасов(1), Д.Н. Проходцов(1), Б.У. Салихов(2), М.А. Багиров(1), доктор медицинских наук, профессор (1)Центральный НИИ туберкулеза, Москва (2)Областная клиническая туберкулезная больница, Калуга E-mail: el.krasn@gmail.com</authors_info_ru>
+        <abstract_ru>Продемонстрирован новый малотравматичный способ профилактики постпневмонэктомической медиастинальной легочной грыжи – пластика переднего средостения собственными тканями, выполняемая одномоментно с пневмонэктомией у больных с распространенным туберкулезом легких.</abstract_ru>
+        <keywords_ru>
+            <item>хирургическое лечение</item>
+            <item>медиастинальная грыжа</item>
+            <item>пластика средостения</item>
+            <item>пневмонэктомия</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Белов С.А. Торакопластика с применением полипропиленовой сетки в лечении туберкулеза легких. Туберкулез и болезни легких. 2017; 95 (12): 6–9 [Belov S.А. Thoracoplasty with polypropylene mesh in pulmonary tuberculosis treatment. Tuberculosis and Lung Diseases. 2017; 95 (12): 6–9 (in Russ.)]. https://doi.org/10.21292/2075-1230-2017-95-12-6-9</item>
+            <item>Гейнц В.Т. Отдаленные результаты пневмонэктомии у больных туберкулезом и неспецифическими заболеваниями легких через 20 и более лет после операции (клинико-функциональная характеристика). Дис... канд. мед. наук. АМН Украины; Институт фтизиатрии и пульмонологии им. Ф.Г. Яновского. К., 2006; 178 с. [Geints V.T. Otdalennye rezul’taty pnevmonektomii u bol’nykh tuberkulezom i nespetsificheskimi zabolevaniyami legkikh cherez 20 i bolee let posle operatsii (kliniko-funktsional’naya kharakteristika). Dis... kand. med. nauk. AMN Ukrainy; Institut ftiziatrii i pul’monologii im. F.G. Yanovskogo. K., 2006; 178 s. (in Russ.)].</item>
+            <item>Гиллер Д.Б., Гиллер Г.В., Токаев К.В. и др. Способ хирургического лечения постпневмонэктомического синдрома. Патент РФ на изобретение №2427327 от 27.08.2011 г. [Giller D.B., Giller G.V., Tokaev K.V. et al. Sposob khirurgicheskogo lecheniya postpnevmonektomicheskogo sindroma. Patent RF na izobretenie №2427327 ot 27.08.2011 g. (in Russ.)].</item>
+            <item>Евфимьевский В.П. Медиастинальные грыжи легкого после пневмонэктомии. Автореф. дисс. … канд. мед .наук. М., 1970; 27 с. [Evfim’evskii V.P. Mediastinal’nye gryzhi legkogo posle pnevmonektomii. Avtoref. diss. … kand. med. nauk. M., 1970; 27 s. (in Russ.)].</item>
+            <item>Нечаева О.Б. Эпидемическая ситуация по туберкулезу в России. Туберкулез и болезни легких. 2018; 96 (8): 15–24 [Nechaeva O.B. TB situation in Russia. Tuberculosis and Lung Diseases. 2018; 96 (8): 15–24 (in Russ.)]. https://doi.org/10.21292/2075-1230-2018-96-8-15-24</item>
+            <item>Ding J. A novel solution for postpneumonectomy-like syndrome. J. Thorac. Cardiovasc. Surg. 2015; 150 (3): 47–8. DOI: https://doi.org/10.1016/j.jtcvs.2015.07.005</item>
+            <item>Dong Xie, Dayu Huang, Gening Jiang et Al. Thoracic Wall Abscess as a Late Complication of ExtrapleuralPlombage. Ann. Thorac. Surg. 2013; 96 (4): 107. DOI: 10.1016/j.athoracsur.2013.07.032</item>
+            <item>Huang C., Kitano M., Shindo T. et al. Clinical application of the thoracic balloon for postpneumonectomy patients. KyobuGeka. 1993; 46 (13): 1112–4.</item>
+            <item>Jae Jun Jung, Jong Ho Cho, Hong Kwan Kim. Management of postpneumonectomy syndrome using tissue expanders. Thoracic. Cancer. 2015; 7 (1): 88–93. DOI: 10.1111/1759-7714.12282</item>
+            <item>Muthialu N., Bulstrode N., Elliott M. Intrathoracic saline-filled prosthesis to treat postpneumonectomy syndrome. Asian Cardiovasc. Thorac. Ann. 2015; 23 (1): 78–81. DOI: 10.1177/0218492313516115</item>
+        </references_ru>
+        <last_page>61</last_page>
+        <title_en>Experience with anterior mediastinoplasty during pneumonectomy in patients with advanced destructive pulmonary tuberculosis</title_en>
+        <authors_info_en>A. Ergeshova(1); E. Krasnikova(1), MD; V. Aliev(1); R. Tarasov(1); D. Prokhodtsov(1); B. Salikhov(2); Professor M. Bagirov(1), MD (1)Central Research Institute of Tuberculosis, Moscow (2)Regional Clinical Tuberculosis Hospital, Kaluga</authors_info_en>
+        <abstract_en>The paper demonstrates a new low-traumatic method to prevent post-pneumonectomic mediastinal lung herniation – anterior mediastinal plastic surgery using own tissues, which is performed simultaneously with pneumonectomy in patients with advanced pulmonary tuberculosis.</abstract_en>
+        <keywords_en>
+            <item>surgical treatment</item>
+            <item>mediastinal herniation</item>
+            <item>mediastinoplasty</item>
+            <item>pneumonectomy</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-05-13</doi>
+        <first_page>61</first_page>
+        <title_ru>Случай заглоточного абсцесса больших размеров у взрослого</title_ru>
+        <authors_list_ru>
+            <item>Ш.М. Алиев</item>
+            <item>В.П. Шпотин</item>
+            <item>В.А. Сайдулаев</item>
+        </authors_list_ru>
+        <authors_info_ru>Ш.М. Алиев(1, 2), В.П. Шпотин(1, 2), доктор медицинских наук, В.А. Сайдулаев(1, 2), кандидат медицинских наук (1)Астраханский государственный медицинский университет (2)Астраханский филиал ФГБУ «Научно-клинический центр оториноларингологии ФМБА России», Астрахань E-mail: shamilmailogli1@mail.ru</authors_info_ru>
+        <abstract_ru>Приводится редкое клиническое наблюдение – описание заглоточного абсцесса больших размеров у взрослого.</abstract_ru>
+        <keywords_ru>
+            <item>оториноларингология</item>
+            <item>заглоточный абсцесс</item>
+            <item>туберкулезный спондилит</item>
+            <item>предпозвоночная фасция</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Harkani A., Hassani R. et al. Retropharyngeal abscess in adults: five case reports and review of the literature. Sci. World J. 2011; 11: 1623–9. DOI: 10.1100/2011/915163</item>
+            <item>Киселев А.С., Раковский А.В., Типикин В.П. Случай гигантского заглоточного абсцесса. Российская оториноларингология. 2005; 5: 135–7 [Kiselev A.S., Rakovskii A.V., Tipikin V.P. Sluchai gigantskogo zaglotochnogo abstsessa. Rossiiskaya otorinolaringologiya. 2005; 5: 135–7 (in Russ.)].</item>
+            <item>Забиров Р.А., Резниченко А.В., Багаутдинов А.А. Заглоточные абсцессы у взрослых и их хирургическое лечение. Российская оториноларингология. 2013; 4: 152–4 [Zabirov R.A., Reznichenko A.V., Bagautdinov A.A. Retropharyngeal abscesses in adults and their surgical treatment. Rossiiskaya otorinolaringologiya. 2013; 4: 152–4 (in Russ.)].</item>
+        </references_ru>
+        <last_page>62</last_page>
+        <title_en>A case of large retropharyngeal abscess in an adult</title_en>
+        <authors_info_en>Sh. Aliev(1, 2); V. Shpotin(1, 2), MD; V. Saidulaev(1, 2), Candidate of Medical Sciences (1)Astrakhan State Medical University (2)Astrakhan Branch, Research Clinical Center for Otolaryngology, Federal Biomedical Agency of Russia, Astrakhan</authors_info_en>
+        <abstract_en>The paper gives a rare clinical case – a description of large retropharyngeal abscess in an adult.</abstract_en>
+        <keywords_en>
+            <item>otorhinolaryngology</item>
+            <item>retropharyngeal abscess</item>
+            <item>tuberculous spondylitis</item>
+            <item>prevertebral fascia</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-05-14</doi>
+        <first_page>63</first_page>
+        <title_ru>Улучшение регенераторной способности костной ткани при диафизарных переломах трубчатых костей на фоне применения Остеомед Форте</title_ru>
+        <authors_list_ru>
+            <item>Р.А. Ярмолович</item>
+            <item>А.В. Салаев</item>
+        </authors_list_ru>
+        <authors_info_ru>Р.А. Ярмолович(1), А.В. Салаев(2) (1)Травмпункт Клинической больницы №6, Пенза (2)Пензенский институт усовершенствования врачей – филиал Российской медицинской академии непрерывного профессионального образования, Пенза E-mail: DGE117@mail.ru</authors_info_ru>
+        <abstract_ru>Представлены результаты исследования по применению кальцийсодержащего препарата Остеомед Форте для улучшения регенераторной способности костной ткани при диафизарных переломах трубчатых костей.</abstract_ru>
+        <keywords_ru>
+            <item>травматология</item>
+            <item>реабилитация</item>
+            <item>терапия</item>
+            <item>переломы</item>
+            <item>переломы трубчатых костей</item>
+            <item>кальцийсодержащие препараты</item>
+            <item>Остеомед Форте</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Котельников Г.П., Миронов С.П. Травматология. Национальное руководство. М.: ГЭОТАР-Медиа, 2008 [Kotel’nikov G.P., Mironov S.P. Travmatologiya. Natsional’noe rukovodstvo. M.: GEOTAR-Media, 2008 (in Russ.)].</item>
+            <item>Миронов С.П., Котельников Г.П. Ортопедия. Национальное руководство. М.: ГЭОТАР-Медиа, 2008 [Mironov S.P., Kotel’nikov G.P. Ortopediya. Natsional’noe rukovodstvo. M.: GEOTAR-Media, 2008 (in Russ.)].</item>
+            <item>Анкин Л.Н., Анкин Н.Л. Травматология. Европейские стандарты. М.: Медпресс-информ, 2005 [Ankin L.N., Ankin N.L. Travmatologiya. Evropeiskie standarty. M.: Medpress-inform, 2005 (in Russ.)].</item>
+            <item>Корнилов Н.В. Травматология и ортопедия. Руководство для врачей в 4-х томах. Т.1. Общие вопросы травматологии и ортопедии. СПб: Гиппократ, 2004 [Kornilov N.V. Travmatologiya i ortopediya. Rukovodstvo dlya vrachei v 4-kh tomakh. T.1. Obshchie voprosy travmatologii i ortopedii. SPb: Gippokrat, 2004 (in Russ.)].</item>
+            <item>Прохоров М., Кислов А., Струков В. и др. Влияние Остеомеда на консолидацию переломов костей. Врач. 2016; 2: 68–9 [Prokhorov M., Kislov A., Strukov V. et al. Effect of osteomed on consolidation of bone fractures. Vrach. 2016; 2: 68–9 (in Russ.)].</item>
+            <item>Струков В.И., Прохоров М.Д., Елистратов Д.Г. Способ уменьшения сроков иммобилизации при переломах костей. Международный журнал прикладных и фундаментальных исследований. 2013; 9: 124–6 [Strukov V.I., Prokhorov M.D., Elistratov D.G. Sposob umen’sheniya srokov immobilizatsii pri perelomakh kostei. Mezhdunarodnyi zhurnal prikladnykh i fundamental’nykh issledovanii. 2013; 9: 124–6 (in Russ.)].</item>
+            <item>Strukov V., Elistratov D., Jones O. et al. Osteomed forte: new way of treatment of presenile and senile osteoporosis. World congress on osteoporosis osteoarthritis and musculoskeletal diseases. Milan, Italy. 26–29 march 2015; p.120.</item>
+            <item>Краснов А.Ф., Котельников Г.П., Мирошниченко В.Ф. и др. Травматология и ортопедия для семейного врача. Самара: Самарский дом печати, 2000 [Krasnov A.F., Kotel’nikov G.P., Miroshnichenko V.F. et al. Travmatologiya i ortopediya dlya semeinogo vracha. Samara: Samarskii dom pechati, 2000 (in Russ.)].</item>
+        </references_ru>
+        <last_page>66</last_page>
+        <title_en>Osteomed Forte used to improve the regenerative capacity of bone tissue in diaphyseal tubular bone fractures</title_en>
+        <authors_info_en>R. Yarmolovich(1), A. Salaev(2) (1)Injury Care Office, Clinical Hospital Six, Penza (2)Penza Institute for Postgraduate Training of Physicians, Branch, Russian Medical Academy of Continuing Professional Education, Penza</authors_info_en>
+        <abstract_en>The paper presents the results of a study on the use of the calcium-containing medication Osteomed Forte to improve the regenerative capacity of bone tissue in diaphyseal tubular bone fractures.</abstract_en>
+        <keywords_en>
+            <item>traumatology</item>
+            <item>rehabilitation</item>
+            <item>therapy</item>
+            <item>fractures</item>
+            <item>tubular bone fractures</item>
+            <item>calcium-containing medications</item>
+            <item>Osteomed Forte</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-05-15</doi>
+        <first_page>66</first_page>
+        <title_ru>Замещение пораженного остеобластокластомой проксимального отдела бедренной кости модульным мегаэндопротезом</title_ru>
+        <authors_list_ru>
+            <item>С.М. Сметанин</item>
+            <item>А.В. Лычагин</item>
+            <item>Я.А. Рукин</item>
+            <item>А.А. Грицюк</item>
+        </authors_list_ru>
+        <authors_info_ru>С.М. Сметанин, доктор медицинских наук, А.В. Лычагин, доктор медицинских наук, профессор, Я.А. Рукин, кандидат медицинских наук, А.А. Грицюк, доктор медицинских наук, профессор Первый МГМУ им. И.М. Сеченова (Сеченовский Университет), Университетская клиническая больница №1, клиника травматологии, ортопедии и патологии суставов E-mail: dr.smetaninsm@gmail.com</authors_info_ru>
+        <abstract_ru>Замещение проксимального отдела бедренной кости с одновременной реконструкцией мышц – актуальная проблема лечения опухолей проксимального отдела бедренной кости. Авторами представлены анализ литературы и собственное клиническое наблюдение резекции проксимального отдела бедренной кости; образовавшийся дефект кости и мягких тканей был заменен с применением модульного эндопротеза.</abstract_ru>
+        <keywords_ru>
+            <item>хирургия</item>
+            <item>ортопедия</item>
+            <item>опухоль проксимального отдела бедренной кости</item>
+            <item>мегаэндопротезирование проксимального отдела бедра</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Capanna R., Morris H., Campanacci D. et al. Modular uncemented prosthetic reconstruction after resection of tumours of the distal femur. J Bone Jt Surg Br. 1994; 76: 178–86.</item>
+            <item>Engh C., Glassman A., Griffin W. et al. Results of cementless revision for failed cemented total hip arthroplasty. Clin Orthop Relat Res. 1988; 235: 91–110.</item>
+            <item>Gustilo R., Pasternak H. Revision total hip arthroplasty with titanium ingrowth prosthesis and bone grafting for failed cemented femoral component loosening. Clin Orthop Relat Res. 1988; 235: 111–9.</item>
+            <item>Heisel C., Breusch S., Schmid G. et al. Lower limb salvage surgery with MUTARS endoprostheses: 2 to 7 year results. Acta Orthop Belg. 2004; 70 (2): 142–7.</item>
+            <item>Heisel С., Kinkel S., Bernd L. et al. Megaprostheses for the treatment of malignantbone tumours of the lower limbs. Int Orthop. 2006; 30 (6): 452–7. DOI: 10.1007/s00264-006-0207-7</item>
+            <item>Kawai A., Lin P., Boland P. et al. Relationship between magnitude of resection, complication, and prosthetic survival after prosthetic knee reconstructions for distal femoral tumors. J Surg Oncol. 1999; 70 (2): 109–15. DOI: 10.1002/(sici)1096-9098(199902)70:2&lt;109::aid-jso9&gt;3.0.co;2-x</item>
+            <item>Prevention of tumor prosthesis dislocation by joint capsule reconstruction with artificial grafts: Eighth International Symp. on Limb Salvage. Florence, Italy, 1995; p. 43.</item>
+            <item>Ueda T., Kakunaga S., Takenaka S. et al. Constrained Total Hip Megaprosthesis for Primary Periacetabular Tumors. Clin Orthop Relat Res. 2013; 471 (3): 741–9. DOI: 10.1007/s11999-012-2625-8</item>
+            <item>Wagner H., Wagner M. Femur revision prosthesis. Z Orthop Ihre Grenzgeb. 1993; 131: 574–7. DOI: 10.1055/s-2008-1040074</item>
+            <item>Вырва О.Е. Реконструкция мягких тканей при модульном мегаэндопротезировании у больных со злокачественными опухолями костей. Ортопедия, травматология и протезирование. 2008; 4: 54–61 [Vyrva O.E. Rekonstruktsiya myagkikh tkanei pri modul’nom megaendoprotezirovanii u bol’nykh so zlokachestvennymi opukholyami kostei. Ortopediya, travmatologiya i protezirovanie. 2008; 4: 54–61 (in Russ.)].</item>
+        </references_ru>
+        <last_page>69</last_page>
+        <title_en>Modular megaendoprosthetic replacement of the proximal femur affected by osteoblastoclastoma</title_en>
+        <authors_info_en>S. Smetanin, MD; Professor A. Lychagin, MD; Ya. Rukin, Candidate of Medical Sciences; Professor A. Gritsyuk, MD Traumatology, Orthopedics, and Joint Pathology Clinic, University Clinical Hospital One, I.M. Sechenov First Moscow State Medical University (Sechenov University)</authors_info_en>
+        <abstract_en>Proximal femoral replacement with simultaneous muscle reconstruction is an urgent problem for the treatment of proximal femoral tumors. The authors analyze the data available in the literature and their own clinical observation of proximal femoral resection; the resulting bone and soft tissue defects were replaced using a modular endoprosthesis.</abstract_en>
+        <keywords_en>
+            <item>surgery</item>
+            <item>orthopedics</item>
+            <item>proximal femoral tumor</item>
+            <item>proximal femoral megaendoprosthetic replacement</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-05-16</doi>
+        <first_page>70</first_page>
+        <title_ru>Медицинские препараты для профилактики COVID-19 и подходы к терапии на ранних стадиях инфицирования</title_ru>
+        <authors_list_ru>
+            <item>А. Анджапаридзе</item>
+            <item>О.А. Бургасова</item>
+        </authors_list_ru>
+        <authors_info_ru>А. Анджапаридзе, доктор медицинских наук, профессор, О.А. Бургасова, доктор медицинских наук, профессор Российский университет дружбы народов, Москва E-mail: olgaburgasova@mail.ru</authors_info_ru>
+        <abstract_ru>К настоящему моменту установлено, что мы можем противодействовать пандемии COVID-19, расширяя профилактические мероприятия и начав применение 2 широкодоступных лекарственных препаратов. В дополнение к социальным протективным факторам, рекомендуемым ВОЗ в отношении COVID-19, усилить профилактику и улучшить лечение инфицированных пациентов за счет снижения вирусной нагрузки позволят следующие меры: • ежедневное полоскание ротоглотки в течение 60 с раствором перекиси водорода в концентрации 0,5–1% (не глотать), через 10 мин – промывание ротоглотки теплой водой (не рекомендуется для детей в возрасте до 16 лет); • ежедневное 4-кратное полоскание ротоглотки и промывание носоглотки раствором повидон-йода в концентрации 0,23% (не глотать) в течение 15 с. Коронавирус может быть инактивирован в ротоглотке и носоглотке с помощью 2 легкодоступных средств (пероксид водорода и повидон-йод). Эти мероприятия рекомендуются для медицинского персонала, лиц, находящихся на самоизоляции или карантине, инфицированных на ранней стадии и имевших тесный контакт с пациентами с COVID-19. Не рекомендуется для тяжелых пациентов, у которых уже развились легочные проявления.</abstract_ru>
+        <keywords_ru>
+            <item>профилактика</item>
+            <item>лечение</item>
+            <item>повидон-йод</item>
+            <item>перекись водорода</item>
+            <item>новая коронавирусная инфекция COVID-19</item>
+            <item>SARS-CoV-2</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Щелканов М.Ю., Колобухина Л.В., Львов Д.К. Коронавирусы человека (Nidovirales, Coronaviridae): возросший уровень эпидемической опасности. Лечащий врач. 2013; 10: 49–54 [Shchelkanov M.Yu., Kolobukhina L.V., L’vov D.K. Human coronaviruses (Nidovirales, Coronaviridae): increased level of epidemic danger. Lechashchii vrach. 2013; 10: 49–54 (in Russ.)].</item>
+            <item>Kirk-Bayley J., Combes J., Sunkaraneni S. et al. The Use of Povidone Iodine Nasal Spray and Mouthwash During the Current COVID-19 Pandemic May Reduce Cross Infection and Protect Healthcare Workers (March 28, 2020). Available at SSRN: https://ssrn.com/abstract=3563092 or http://dx.doi.org/10.2139/ssrn.3563092</item>
+            <item>Kampf G., Todt D., Pfaender S. et al. Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents. J Hosp Infect. 2020; 104 (3): 246–51. DOI: 10.1016/j.jhin.2020.01.022</item>
+            <item>Siber G.R., Thakrar N., Yancey B.A. et al. Safety and immunogenicity of hydrogen peroxide-inactivated pertussis toxoid in 18-month-old children. Vaccine. 1991; 9 (10): 735–40. DOI: 10.1016/0264-410x(91)90289-i</item>
+            <item>Amanna I.J., Raué H.P., Slifka M.K. Development of a new hydrogen peroxide-based vaccine platform. Nat Med. 2012; 18 (6): 974–9. DOI: 10.1038/nm.2763</item>
+            <item>Kareem Essam, Reham Mohsen, Eman Amin Ismail et al. In Vitro Preparation of H2O2 Inactivated Rabies Vaccine and Related Immunogenicity. Int J Pul &amp; Res Sci. 2018; 3 (4): 555619. DOI: 10.19080/IJOPRS.2018.03.555619</item>
+            <item>Sneader W. Drug discovery: a history. New York Wiley, 2005; p. 68.</item>
+            <item>Traore O., Fayard S.F., Laveran H. An in vitro evaluation of the activity of povidone-iodine against nosocomial bacterial strains. J Hosp Infect. 1996; 34: 217–22. DOI: 10.1016/s0195-6701(96)90069-9</item>
+            <item>Shimizu M., Okuzumi K., Yoneyama A. et al. In vitro antiseptic susceptibility of clinical isolates from nosocomial Infections. Dermatology. 2002; 204 (Suppl. 1): 21–7. DOI: 10.1159/000057720</item>
+            <item>Rikimaru T., Kondo M., Kondo S. et al. Bactericidal activities of povidone-iodine against Mycobacterium. Dermatology. 1997; 195 (Suppl. 2): 104–6. DOI: 10.1159/000246041</item>
+            <item>Wutzler P., Sauerbrei A., Klocking R. et al. Virucidal activity and cytotoxicity of the liposomal formulation of povidone-iodine. Antiviral Res. 2002; 54: 89–97. DOI: 10.1016/s0166-3542(01)00213-3</item>
+            <item>Kawana R., Kitamura T., Nakagomi O. et al. Inactivation of human viruses by povidone-iodine in comparison with other antiseptics. Dermatology. 1997; 195 (Suppl. 2): 29–35. DOI: 10.1159/000246027</item>
+            <item>Kariwa H., Fujii N., Takashima I. Inactivation of SARS coronavirus by means of povidone-iodine, physical conditions and chemical reagents. Dermatology. 2006; 212 (Suppl. 1): 119–23. DOI: 10.1159/000089211</item>
+            <item>Eggers M., Eickmann M., Kowalski K. et al. Povidone-iodine hand wash and hand rub products demonstrated excellent in vitro virucidal efficacy against Ebola virus and modified vaccinia virus Ankara, the new European test virus for enveloped viruses. BMC Infect Dis. 2015; 15: 375. DOI: 10.1186/s12879-015-1111-9</item>
+            <item>Eggers M., Eickmann M., Zorn J. Rapid and effective virucidal activity of povidone-iodine products against Middle East respiratory syndrome coronavirus (MERS-CoV) and modified vaccinia virus ankara (MVA). Infect Dis Ther. 2015; 4: 491–501. DOI: 10.1007/s40121-015-0091-9</item>
+            <item>Committee for the Japanese Respiratory Society Guidelines in Management of Respiratory. Prevention of hospital-acquired pneumonia (strategies for prevention of hospital-acquired infections). Respirology. 2004; 9: S4850.</item>
+            <item>Eggers M., Koburger-Janssen T., Eickman M. et al. In Vitro Bacterial and Virucidal Efficacy of Povidone-Iodine Gargle/Mouthwash Against Respiratory and Oral Tract Pathogens. Infect Dis Ther. 2018; 7: 249–59. DOI: 10.1007/s40121-018-0200-7</item>
+            <item>Madan P.D., Sequeira P.S., Shenoy K. et al. The effect of three mouthwashes on radiation-induced oral mucositis in patients with head and neck malignancies: a randomized control trial. J Cancer Res Ther. 2008; 4: 38. DOI: 10.4103/0973-1482.39597</item>
+            <item>Kanagalingam J., Feliciano R., Hah J.H. et al. Practical use of povidone-iodine antiseptic in the maintenance of oral health and in the prevention and treatment of common oropharyngeal infections. Int J Clin Pract. 2015; 69 (11): 1247–56. DOI: 10.1111/ijcp.12707</item>
+        </references_ru>
+        <last_page>72</last_page>
+        <title_en>Medications for COVID-19 prevention and therapeutic approaches during early-stage infection</title_en>
+        <authors_info_en>Professor A. Andzhaparidze, MD; Professor O. Burgasova, MD Peoples’ Friendship University of Russia, Moscow</authors_info_en>
+        <abstract_en>It has been established to date, that we can counteract the COVID-19 pandemic, by expanding preventive measures and starting to use two widely available drugs. In addition to the WHO’s social protective factors against COVID-19 (to enhance prevention and to improve treatment in infected patients, by reducing a viral load), there may be the following measures: • daily 60-second oropharyngeal rinsing with a 0.5–1% hydrogen peroxide solution (do not swallow); after 10 minutes, oropharyngeal washing with warm water (this is not recommended for children younger than 16 years); • daily 4-fold oropharyngeal rinsing and nasopharyngeal washing with a 0.23% povidone-iodine solution for 15 seconds (do not swallow). The coronavirus in the oropharynx and nasopharynx can be inactivated using 2 readily available agents (hydrogen peroxide and povidone-iodine). These measures are recommended for medical personnel and people who are in lockdown or quarantine, are infected at an early stage, and have had close contact with patients with COVID-19. These are not recommended for severely ill patients who have already developed pulmonary manifestations.</abstract_en>
+        <keywords_en>
+            <item>prevention</item>
+            <item>treatment</item>
+            <item>povidone-iodine</item>
+            <item>hydrogen peroxide</item>
+            <item>new coronavirus infection COVID-19</item>
+            <item>SARS-CoV-2</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-05-17</doi>
+        <first_page>73</first_page>
+        <title_ru>Эндопротезирование крупных суставов у пожилых пациентов</title_ru>
+        <authors_list_ru>
+            <item>В.В. Ключевский</item>
+            <item>М.А. Худайбергенов</item>
+        </authors_list_ru>
+        <authors_info_ru>В.В. Ключевский, доктор медицинских наук, профессор, М.А. Худайбергенов, кандидат медицинских наук Ярославский государственный медицинский университет E-mail: xudaibergenov12@yandex.ru</authors_info_ru>
+        <abstract_ru>Перелом шейки бедренной кости у пожилых пациентов – серьезная проблема современной ортопедии. Различный подход к тактике лечения пациентов напрямую определяет прогноз для пациента. Ряду пациентов отказывают в госпитализации, ссылаясь на возраст и опасность оперативного лечения. Замещение тазобедренного сустава при данной патологии позволяет добиться максимально ранней активизации пациента и уменьшить риск осложнений сопутствующей патологии.</abstract_ru>
+        <keywords_ru>
+            <item>ортопедия</item>
+            <item>эндопротезирование</item>
+            <item>пожилые пациенты</item>
+            <item>перелом шейки бедра</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Ежов И.Ю., Корыткин А.А., Шебашев А.В. и др. Тотальное эндопротезирование при переломах и ложных суставах шейки бедренной кости. Эндопротезирование в России. 2009; 5: 101–7 [Ezhov I.Yu., Korytkin A.A., Shebashev A.V. i dr. Total’noe endoprotezirovanie pri perelomakh i lozhnykh sustavakh sheiki bedrennoi kosti. Endoprotezirovanie v Rossii. 2009; 5: 101–7 (in Russ.)].</item>
+            <item>Ключевский В.В. Хирургия повреждений. Ярославль – Рыбинск, 2004; 302 с. [Klyuchevskii V.V. Khirurgiya povrezhdenii. Yaroslavl – Rybinsk, 2004; 302 s. (in Russ.)].</item>
+            <item>Кавалерский Г.М., Ченский А.Д., Сметанин С.М. и др. Биомеханика коленного сустава в норме и при остеоартрозе. Врач-аспирант. 2016; 79 (6.1): 172–8 [Kavalerskiy G.M., Chenskiy A.D., Smetanin S.M. et al. Biomexanics normal knee and osteoarthritis knee. Vrach-aspirant. 2016; 79 (6.1): 172–8 (in Russ.)].</item>
+            <item>Кавалерский Г., Грицюк А., Сметанин С. Артропластика коленного сустава при ревматоидном артрите. Врач. 2016; 12: 44–7 [Kavalersky G., Gritsyuk A., Smetanin S. Knee arthroplasty in rheumatoid arthritis. Vrach. 2016; 12: 44–7 (in Russ.)].</item>
+            <item>Кавалерский Г., Лычагин А., Сметанин С. Эндопротезирование коленного сустава при вальгусной деформации. Врач. 2017; 1: 41–2 [Kavalersky G., Lychagin A., Smetanin S. Knee replacement in hallux valgus. Vrach. 2017; 1: 41–2 (in Russ.)].</item>
+            <item>Кавалерский Г.М., Сметанин С.М. Особенности ведения пациента с ревматоидным артритом при эндопротезировании коленного сустава. Сибирский медицинский журнал (Иркутск). 2016; 144 (5): 35–8 . [Kavalerskii G.M., Smetanin S.M. Features of a patient with rheumatoid arthritis with knee arthroplasty. Sibirskii meditsinskii zhurnal (Irkutsk). 2016; 144 (5): 35–8 (in Russ.)].</item>
+            <item>Кавалерский Г.М., Сметанин С.М. Клиническое наблюдение применения артроскопической хирургии после артропластики коленного сустава. Врач-аспирант. 2016; 79 (6): 10–4 [Kavalerskiy G.M., Smetanin S.M. Clinical observation of the application of arthroscopic surgery after knee arthroplasty. Vrach-aspirant. 2016; 79 (6): 10–4 (in Russ.)].</item>
+            <item>Кудлай Д.А. Иммунометаболические аспекты патогенеза политравмы. Автореф. дисс. … д-ра мед. наук. Новосибирск: Новосибирский государственный медицинский университет Федерального агентства по здравоохранению и социальному развитию РФ, 2007 [Kudlai D.A. Immunometabolicheskie aspekty patogeneza politravmy. Avtoref. diss. … d-ra med. nauk. Novosibirsk: Novosibirskii gosudarstvennyi meditsinskii universitet Federal’nogo agentstva po zdravookhraneniyu i sotsial’nomu razvitiyu RF, 2007 (in Russ.)].</item>
+            <item>Лазарев А.Ф., Рагозин А.О., Солод Э.И. и др. Особенности эндопротезирования тазобедренного сустава при переломах шейки бедренной кости. Вестн. травматол. ортопед. 2003; 2: 3–8 [Lazarev A.F., Ragozin A.O., Solod E.I. et al. Peculiarities of Total Hip Replacement in Femur Neck Fractures. Vestn. travmatol. ortoped. 2003; 2: 3–8 (in Russ.)].</item>
+            <item>Миронов С.П., Родионова С.С., Андреева Т.М. Остеопороз в травматологии и ортопедии. Сб. тез. IX съезда травматологов-ортопедов. Том I. Саратов, 2010; с. 826–7 [Mironov S.P., Rodionova S.S., Andreeva T.M. Osteoporoz v travmatologii i ortopedii. Sb. tez. IX s»ezda travmatologov-ortopedov. Tom I. Saratov, 2010; s. 826–7 (in Russ.)].</item>
+            <item>Охотский В.П., Сергеев С.В. Активный функциональный метод лечения вколоченных переломов шейки бедра. Восстановительное лечение повреждений и заболеваний конечностей. М., 1993; с. 85–6 [Okhotskii V.P., Sergeev S.V. Aktivnyi funktsional’nyi metod lecheniya vkolochennykh perelomov sheiki bedra. Vosstanovitel’noe lechenie povrezhdenii i zabolevanii konechnostei. M., 1993; s. 85–6 (in Russ.)].</item>
+            <item>Сметанин С.М. Внутренний остеосинтез открытых переломов бедренной кости. Врач-аспирант. 2010; 43 (6): 25–32 [Smetanin S.M. Internal osteosynthesis of open femoral fractures. Vrach-aspirant. 2010; 43 (6): 25–32 (in Russ.)].</item>
+            <item>Cooper A., Minutello R. Case report 763. Osteonecrosis of femoral head. Sceletal. Radiol. 1995; 21 (8): 555–68.</item>
+            <item>D’Aubigne M., Postel M. Functional results of hip arthroplasty with acrylis prosthesis. JBJS. 1954; 36-A: 451–75.</item>
+            <item>Sinusas K. Osteoarthritis: diagnosis and treatment. Am. Fam. Physician. 2012; 85 (1): 49–56.</item>
+            <item>Soren A. Arthritis and related infections. Berlin: Springer Verlag, 1993; 448.</item>
+            <item>Srikanth V., Fryer J., Zhai G. et al. A meta-analysis of sex differences prevalence, incidence and severity of osteoarthritis. Osteoarthritis Cartilage. 2005; 13 (9): 769–81. DOI: 10.1016/j.joca.2005.04.014</item>
+        </references_ru>
+        <last_page>76</last_page>
+        <title_en>Large joint endoprosthetic replacement in elderly patients</title_en>
+        <authors_info_en>Professor V. Klyuchevsky, MD; M. Khudaibergenov, Candidate of Medical Sciences Yaroslavl State Medical University</authors_info_en>
+        <abstract_en>Femoral neck fracture in elderly patients is a serious problem of modern orthopedics. A different approach to the treatment tactics directly determines the prognosis for the patient. A number of patients are denied hospitalization, making reference to age and the risk of surgical treatment. In this pathology, hip joint replacement makes it possible to achieve the earliest possible activation of the patient and to reduce the risk of complications of concomitant diseases.</abstract_en>
+        <keywords_en>
+            <item>orthopedics</item>
+            <item>endoprosthetic replacement</item>
+            <item>elderly patients</item>
+            <item>femoral neck fracture</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>из практики</rubric_ru>
+        <doi>10.29296/25877305-2020-05-18</doi>
+        <first_page>77</first_page>
+        <title_ru>Влияние бальзамов-ополаскивателей с пептидами на физико-химические свойства смешанной слюны</title_ru>
+        <authors_list_ru>
+            <item>Н.Г. Саркисян</item>
+            <item>Н.Н. Катаева</item>
+            <item>Е.П. Юффа</item>
+            <item>К.А. Хлыстова</item>
+            <item>В.Н. Пермикина</item>
+            <item>С.Г. Меликян</item>
+        </authors_list_ru>
+        <authors_info_ru>Н.Г. Саркисян(1), доктор медицинских наук, Н.Н. Катаева(1), кандидат химических наук, Е.П. Юффа(2), кандидат медицинских наук, К.А. Хлыстова(3), В.Н. Пермикина(1), С.Г. Меликян(1) (1)Уральский государственный медицинский университет, Екатеринбург (2)Тюменский государственный медицинский университет (3)Институт иммунологии и физиологии Уральского отделения РАН, Екатеринбург E-mail: narine_25@mail.ru</authors_info_ru>
+        <abstract_ru>Смешиваясь с ротовой жидкостью, бальзамы влияют на ее физико-химические свойства, что отражается на здоровье зубов и десен. Цель исследования. Оценить влияния бальзамов с пептидами на некоторые физико-химические показатели смешанной слюны. Материал и методы. В начале работы изучались физико-химические свойства растворов 3 ополаскивателей с пептидными комплексами: использующийся для профилактики воспалительных процессов, оказывающий реминерализующее действие и применяющийся для экстренной помощи при обострении воспаления. На 2-м этапе работы изучались физико-химические свойства смешанной слюны студентов стоматологического факультета Уральского государственного медицинского университета (Екатеринбург) до и после применения бальзамов-ополаскивателей с пептидными комплексами. Результаты. Растворы исследуемых бальзамов имеют слабокислую среду, что создает неблагоприятные условия для размножения наиболее распространенных бактерий полости рта. У исследуемых бальзамов с пептидными комплексами буферная емкость по кислоте примерно в 2 раза превышает буферную емкость по основанию. Низкие величины поверхностного натяжения растворов ополаскивателей свидетельствуют о наличии в их составе поверхностно-активных веществ, которые обеспечивают очищающий и антибактериальный эффекты. Показатели осмомоляльности бальзамов в 10 раз превышают таковые у смешанной слюны, что вызывает уменьшение отеков при воспалении. Показано, что бальзам с пептидными комплексами, применяющийся как профилактическое средство, способствует незначительному изменению кислотности слюны в течение 1-го часа после применения. Все исследуемые бальзамы способствуют снижению поверхностного натяжения слюны и повышению ее буферных свойств, особенно по отношению к кислотам, что является одним из основных факторов резистентности зубной эмали к кариесу. Заключение. Исследуемые бальзамы-ополаскиватели с пептидными комплексами, в целом благоприятно влияют на физико-химические показатели смешанной слюны, что обеспечивает их эффективность.</abstract_ru>
+        <keywords_ru>
+            <item>стоматология</item>
+            <item>ополаскиватели с пептидами</item>
+            <item>смешанная слюна</item>
+            <item>водородный показатель</item>
+            <item>буферная емкость</item>
+            <item>поверхностное натяжение</item>
+            <item>осмомоляльность</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Анисимова Л.А., Чеботарь О.А., Зыков В.А. Опыт применения новых пептидных средств для лечения пародонтита. Вестн стоматол. 2013; 4: 118–9 [Anisimova L.A., Chebotar O.A., Zykov V.A. Opyt primeneniya novykh peptidnykh sredstv dlya lecheniya parodontita. Vestn stomatol. 2013; 4: 118–9 (in Russ.)].</item>
+            <item>Трухачева Н.В. Математическая статистика в медико-биологических исследованиях с применением пакета Statistica. М.: ГЕОТАР-Медиа, 2013 [Trukhacheva N.V. Matematicheskaya statistika v mediko-biologicheskikh issledovaniyakh s primeneniem paketa Statistica. M.: GEOTAR-Media, 2013 (in Russ.)].</item>
+            <item>Сумм Б.Д. Коллоидная химия: Учебник для студентов учреждений высших учебных заведений. М.: ИЦ Академия, 2013; 240 с. [Summ B.D. Kolloidnaya khimiya: Uchebnik dlya studentov uchrezhdenii vysshikh uchebnykh zavedenii. M.: ITs Akademiya, 2013; 240 s. (in Russ.)].</item>
+            <item>Трушаева К.А., Матасова А.А., Лелекова Р.П. Определение физико-химических показателей ротовой жидкости и анализ взаимосвязи между ними. Мат-лы II Междунар. (72 Всероссийской) научно-практ. конф. молодых ученых и студентов, 2017; с. 318–23 с. [Trushaeva K.A., Matasova A.A., Lelekova R.P. Opredelenie fiziko-khimicheskikh pokazatelei rotovoi zhidkosti i analiz vzaimosvyazi mezhdu nimi. Mat-ly II Mezhdunar. (72 Vserossiiskoi) nauchno-prakt. konf. molodykh uchenykh i studentov, 2017; s. 318–23 s. (in Russ.)].</item>
+            <item>Вавилова Т.П., Янушевич О.О., Островская И.Г. Слюна. Аналитические возможности и перспективы. М.: Бином, 2014; 312 с. [Vavilova T.P., Yanushevich O.O., Ostrovskaya I.G. Slyuna. Analiticheskie vozmozhnosti i perspektivy. M.: Binom, 2014; 312 s. (in Russ.)].</item>
+        </references_ru>
+        <last_page>79</last_page>
+        <title_en>The effect of oral balms/rinses containing peptides on the physicochemical properties of mixed saliva</title_en>
+        <authors_info_en>N. Sarkisyan(1), MD; N. Kataeva(1), Candidate of Chemical Sciences, E. Yuffa(2), Candidate of Medical Sciences; K. Khlystova(3); V. Permikina(1); S. Melikyan(1) (1)Ural State Medical University, Yekaterinburg (2)Tyumen State Medical University (3)Institute of Immunology and Physiology, Ural Branch, Russian Academy of Sciences, Yekaterinburg</authors_info_en>
+        <abstract_en>By mixing with oral fluid, balms have an effect on its physicochemical properties, which affects the health of teeth and gums. Objective. To evaluate the effect of balms containing peptides on some physicochemical parameters of mixed saliva. Material and methods. At the beginning of the investigation, the authors studied the physicochemical properties of the solutions of 3 peptide-containing rinses for the prevention of inflammatory processes; the solutions had a remineralizing effect and were used for emergency care in case of acute inflammation. At Stage 2 of the investigation, the authors explored the physicochemical properties of mixed saliva from the students of the Faculty of Dentistry, Ural State Medical University (Yekaterinburg), before and after application of balms. Results. The solutions of the test balms have a weak acid medium, which creates unfavorable conditions for the reproduction of the most common oral bacteria. The acid buffer capacity of all the balms is about 2 times the base buffer capacity. The low surface tension values of rinse solutions suggest that the latter contain surfactants that provide cleaning and antibacterial effects. The osmolality values of the balms are 10 times higher than those of mixed saliva, which reduces edemas in case of inflammation. The balm that is used as a prophylactic agent was shown to result in a slight change in salivary pH within an hour after application. All the test balms are able to reduce the surface tension of saliva and increase its buffering properties, especially against acids, which is one of the main factors for the resistance of tooth enamel to caries. Conclusion. The test balms/rinses generally have a beneficial effect on the physicochemical parameters of mixed saliva, which ensures their efficacy.</abstract_en>
+        <keywords_en>
+            <item>dentistry</item>
+            <item>rinses containing peptides</item>
+            <item>mixed saliva</item>
+            <item>pH</item>
+            <item>buffer capacity</item>
+            <item>surface tension</item>
+            <item>osmolality</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>здравоохранение</rubric_ru>
+        <doi>10.29296/25877305-2020-05-19</doi>
+        <first_page>80</first_page>
+        <title_ru>Дружественный искусственный интеллект на службе у здравоохранения</title_ru>
+        <authors_list_ru>
+            <item>О.С. Брусов</item>
+            <item>А.В. Кузнецова</item>
+            <item>О.В. Сенько</item>
+        </authors_list_ru>
+        <authors_info_ru>О.С. Брусов(1), кандидат биологических наук, А.В. Кузнецова(2), кандидат биологических наук, О.В. Сенько(3), доктор физико-математических наук (1)Научный центр психического здоровья РАН, Москва (2)Институт биохимической физики им. Н.М. Эмануэля РАН, Москва (3)Федеральный исследовательский центр «Информатика и управление» РАН, Москва E-mail: azforus@yandex.ru</authors_info_ru>
+        <abstract_ru>Разработанная коллективная модель по группе методов распознавания позволяет достаточно точно прогнозировать исход инсульта уже в первые сутки при поступлении в клинику. Методика может быть полезна при выборе схемы лечения и оптимизации воздействия на состояние системы свертывания крови.</abstract_ru>
+        <keywords_ru>
+            <item>неврология</item>
+            <item>инсульт</item>
+            <item>диагностика</item>
+            <item>выбор схемы лечения</item>
+            <item>искусственный интеллект</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Морозова М.А., Бениашвили А.Г., Рупчев Г.Е. и др. Эффекты антихолинестеразного препарата – нейромидина у больных шизофренией с выраженными признаками шизофренического дефекта. Журнал неврологии и психиатрии им. С.С.Корсакова. 2008; 108 (11): 28–35 [Morozova M.A., Beniashvili A.G., Rupchev G.E. et al. Effects of the anticholinesterase drug neuromidin in patients with schizophrenia with marked neurocognitive deficits. S.S. Korsakov Journal of Neurology and Psychiatry. 2008; 108 (11): 28–35 (in Russ.)].</item>
+            <item>Кузнецов В.А., Сенько О.В., Кузнецова А.В. и др. Распознавание нечетких систем по методу статистически взвешенных синдромов и его применение для иммуногематологической нормы и хронической патологии. Химическая физика. 1996; 15 (1): 81–100 [Kuznetsov V.A., Sen’ko O.V., Kuznetsova A.V. et al. Raspoznavanie nechetkikh sistem po metodu statisticheski vzveshennykh sindromov i ego primenenie dlya immunogematologicheskoi normy i khronicheskoi patologii. Khimicheskaya fizika. 1996; 15 (1): 81–100 (in Russ.)].</item>
+            <item>Kuznetsova А.V., Kostomarova I.V., Senko O.V. Modification of the method of optimal valid partitioning for comparison of patterns related to the occurrence of ischemic stroke in two groups of patients. Pattern Recognition and Image Analysis. 2014; 24 (1): 114–23. DOI: 10.1134/S105466181401009X</item>
+            <item>Кузнецова А.В., Сенько О.В., Кузнецова Ю.О. Преодоление проблемы черного ящика при использовании методов машинного обучения в медицине. Врач и информационные технологии. 2018; 7: 74–80 [Kuznetsova A.V., Senko O.V., Kuznetsova Ju.O. Black box problem overcomingin medical applications of machine learning. Vrach i informatsionnye tekhnologii. 2018; 7: 74–80 (in Russ.)].</item>
+            <item>Доровских И.В., Сенько О.В., Чучупал В.Я. и др. Исследование возможности диагностики деменции по сигналам ЭЭГ с помощью методов машинного обучения. Математическая биология и биоинформатика. 2019; 14 (2): 543–53 [Dorovskih I.V.1, Senko O.V.2, Chuchupal V.Ya. et al. On Possibility of Machine Learning Application for Diagnosing Dementia by Eeg Signals. Matematicheskaya biologiya i bioinformatika. 2019; 14 (2): 543–53 (in Russ.)]. DOI: 10.17537/2019.14.543</item>
+            <item>Кузнецова A.В., Костомарова И.В., Сенько О.В. Логико-статистический анализ связи клинико-лабораторных показателей с возникновением нарушения мозгового кровообращения у пациентов пожилого возраста с хронической ишемией головного мозга. Математическая биология и биоинформатика. 2013; 8 (1): 182–224 [Kuznetsova A.V., Kostomarova I.V., Senko O.V. Logical and Statistical Analysis of Relationship Between Clinical and Laboratory Indices and Disturbances of Cerebral Blood Circulation in Elderly Patients with Chronic Ischemia of the Brain. Matematicheskaya biologiya i bioinformatika. 2013; 8 (1): 182–224 (in Russ.)]. URL: http://www.matbio.org/2013/Kuznetsova_8_182.pdf</item>
+            <item>Senko O.V., Kuznetsova A.V., Malygina N. et al. Method for Evaluating of Discrepancy between Regularities Systems in Different Groups. International Journal «Information Technologies &amp; Knowledge». 2011; 5 (1): 46–54.</item>
+        </references_ru>
+        <last_page>84</last_page>
+        <title_en>Friendly artificial intellect in the betterment of public health</title_en>
+        <authors_info_en>O. Brusov(1), Candidate of Biological Sciences(1); A. Kuznetsova(2), Candidate of Biological Sciences; O. Senko(3), Phys-Math.D (1)Mental Health Research Center, Russian Academy of Sciences, Moscow (2)N.M. Emanuel Institute of Biochemical Physics, Russian Academy of Sciences, Moscow (3)Federal Research Center «Informatics and Management», Russian Academy of Sciences, Moscow</authors_info_en>
+        <abstract_en>The developed collective model in a group of recognition methods allows accurate prediction of the outcome of stroke just on the first day of admission to the clinic. The procedure may be useful in choosing a treatment regimen and optimizing the effect on the blood coagulation system.</abstract_en>
+        <keywords_en>
+            <item>neurology</item>
+            <item>stroke</item>
+            <item>diagnosis</item>
+            <item>choice of treatment regimen</item>
+            <item>artificial intelligence</item>
+        </keywords_en>
+    </Article>
+    <Article>
+        <rubric_ru>для диагноза</rubric_ru>
+        <doi>10.29296/25877305-2020-05-20</doi>
+        <first_page>85</first_page>
+        <title_ru>Исследование роли β-дефенсина-2 в грудном молоке при атопическом дерматите у детей</title_ru>
+        <authors_list_ru>
+            <item>Ю.А. Бунина</item>
+            <item>А.В. Кудрявцева</item>
+            <item>Е.П. Быстрицкая</item>
+            <item>Г.Н. Усатова</item>
+            <item>К.Ю. Левина</item>
+            <item>О.А. Свитич</item>
+        </authors_list_ru>
+        <authors_info_ru>Ю.А. Бунина (Богуславская)1, А.В. Кудрявцева(1, 2), доктор медицинских наук, профессор, Е.П. Быстрицкая(2), Г.Н. Усатова(2), К.Ю. Левина(1), О.А. Свитич(1, 2) (1)Первый МГМУ им. И.М. Сеченова (Сеченовский Университет) (2)Научно-исследовательский институт вакцин и сывороток им. И.И. Мечникова, Москва E-mail: kudassia@gmail.com</authors_info_ru>
+        <abstract_ru>Цель работы. Оценить ассоциацию концентрации β-дефенсина-2 в грудном молоке матери с риском развитием атопического дерматита (АтД) у детей. Материал и методы. Проведено исследование, участники которого были поделены на 2 группы: дети, страдающие АтД и здоровые дети. Было собрано 25 образцов грудного молока: основная группа от матерей с детьми с АтД и группа сравнения – от матерей со здоровыми детьми. Материалом исследования для выделения β-дефенсина-2 явилось грудное молоко. Выделение β-дефенсина-2 проводилось с помощью иммуноферментного анализа. Результаты и обсуждение. Обнаружено, что в грудном молоке матерей, чьи дети были здоровы, фоновый уровень β-дефенсинов-2 составил 209,6 пг/мл. В грудном молоке матерей, чьи дети страдали АтД в легкой форме, концентрация β-дефенсина-2 была ниже – 166,3 пг/мл. В грудном молоке матерей, чьи дети имели среднетяжелое течение АтД, концентрация β-дефенсина-2 была значительно ниже, чем в первой группе (71,2 пг/мл). Снижение концентрации β-дефенсина-2 в грудном молоке может быть одним из ранних прогностических критериев более тяжелого течения АтД у детей раннего возраста.</abstract_ru>
+        <keywords_ru>
+            <item>дефенсины</item>
+            <item>грудное молоко</item>
+            <item>атопический дерматит</item>
+            <item>врожденный иммунитет</item>
+        </keywords_ru>
+        <references_ru>
+            <item>Wollenberg A., Barbarot S., Bieber T. et al. Consensus based European guidelines for treatment of atopic eczema (atopic dermatitis) in adults and children: part I. J Eur Acad Dermatol Venereol. 2018; 32: 657–82. DOI: 10.1111/jdv.14891</item>
+            <item>Niyonsaba F., Nagaoka I., Ogawa H. et al. Multifunctional antimicrobial proteins and peptides: natural activators of immune systems. Curr Pharm Des. 2009; 15 (21): 2393–413. DOI: 10.2174/138161209788682271</item>
+            <item>Lee S.H., Jeong S.K., Ahn S.K. An update of the defensive barrier function of skin. Yonsei Med J. 2006; 47: 293–306. DOI: 10.3349/ymj.2006.47.3.293</item>
+            <item>Кудрявцева А.В., Катосова Л.К., Балаболкин И.П. и др. Роль золотистого стафилококка при атопическом дерматите у детей. Педиатрия. Журнал им. Г.Н. Сперанского. 2003; 6 (82): 32–6 [Kudryavtseva A.V., Katosova L.K., Balabolkin I.I. et al. Role of Staphylococcus aureus in pediatric atopic dermatitis. Pediatria. Journal named after G.N.Speransky. 2003; 82 (6): 32–6 (in Russ.)].</item>
+            <item>Fleischer D.M., Spergel J.M., Assa A.H. et al. Primary prevention of allergic disease through nutritional interventions. J Allergy Clin Immunol Pract. 2008; 1: 29–36. DOI: 10.1016/j.jaip.2012.09.003</item>
+            <item>Gdalevich M., Mimouni D., David M. et al. Breast-feeding and the onset of atopic dermatitis in childhood: A systematic review and meta-analysis of prospective studies. J Am Acad Dermatol. 2001; 45: 520–7. DOI: 10.1067/mjd.2001.114741</item>
+            <item>Ito J., Fujiwara T. Breastfeeding and risk of atopic dermatitis up to the age 42 months: A birth cohort study in Japan. Ann Epidemiol. 2014; 24: 267–72. DOI: 10.1016/j.annepidem.2013.11.007</item>
+            <item>Munblit D., Treneva M., Peroni D.G. et al. Immune Components in Human Milk Are Associated with Early Infant Immunological Health Outcomes: A Prospective Three-Country Analysis. Nutrients. 2017; 9 (6): 532. DOI: 10.3390/nu9060532</item>
+            <item>Jakaitis B.M., Denning P.W. Human breast milk and the gastrointestinal innate immune system. Clin Perinatol. 2014; 41 (2): 423–35. DOI: 10.1016/j.clp.2014.02.011</item>
+            <item>Hakansson A.P. Protective effects of human milk antimicrobial peptides against bacterial infection. J Pediatr (Rio J.). 2015; 91 (1): 4–5. https://doi.org/10.1016/j.jped.2014.10.001</item>
+            <item>Metz-Boutigue M.-H., Shooshtarizadeh P., Prevost G. et al. Antimicrobial Peptides Present in Mammalian Skin and Gut are Multifunctional Defence Molecules. Curr Pharm Des. 2010; 16: 1024. https://doi.org/10.2174/138161210790963823,</item>
+            <item>Tunzi C.R., Harper P.A., Bar-Oz B. et al. Beta-defensin expression in human mammary gland epithelia. Pediatr Res. 2000; 48: 30–5. DOI: 10.1203/00006450-200007000-00008</item>
+            <item>Baricelli J., Rocafull M.A., Vázquez D. et al. β-Defensin-2 in breast milk displays a broad antimicrobial activity against pathogenic bacteria. J Pediatr (Rio J.). 2015; 91 (1): 36–43. https://doi.org/10.1016/j.jped.2014.05.006</item>
+            <item>Jing Wu, Ruo-Lan Gong, Qing-Feng Hu et al. Immunoregulatory effect of human β-defensin 1 on neonatal cord blood monocyte-derived dendritic cells and T cells. Mol Immunol. 2019; 109: 99–107. https://doi.org/10.1016/j.molimm.2019.03.007.</item>
+            <item>Savilahti E.M., Kukkonen A.K., Kuitunen M., et al. Soluble CD14, α- and β-defensins in breast milk: Association with the emergence of allergy in a high-risk population. Innate Immunity. 2015; 21 (3): 332–7. https://doi.org/10.1177/1753425914541560</item>
+            <item>Rachid R., Chatila T.A. The role of the gut microbiota in food allergy. Curr Opin Pediatr. 2016; 6 (28): 748–75. DOI: 10.1097/MOP.0000000000000427</item>
+        </references_ru>
+        <last_page>87</last_page>
+        <title_en>Investigation of β-defensin-2 in breast milk in infant atopic dermatitis</title_en>
+        <authors_info_en>Yu. Bunina (Boguslavskaya)1; Professor A. Kudryavtseva(1, 2), MD; E. Bystritskaya(2); G. Usatova(2); K. Levina(1); O. Svitich(1, 2) (1)I.M. Sechenov First Moscow State Medical University (Sechenov University) (2)I.I. Mechnikov Research Institute for Vaccines and Sera, Moscow</authors_info_en>
+        <abstract_en>Purpose. To assess the link between β-defensin-2concentration in breastmilk with the severity of AD in its debut in infants and young children. Materials and methods. 25 samples of breastmilk were analyzed. 2 groups were selected. The first group included 14 samples from mothers whose children got AD in the last 6 months: mild AD and moderate AD. Analysis of breastmilk samples by the enzyme-linked immunosorbent assay was conducted to find the β-defensin-2 concentration. ELISA Kit for β-Defensin-2 (DEFb2) was used. Results and discussion. We have showed that in the breastmilk of healthy children mothers a background level of the β-defensin 2 is detected (209,6 pg/ml). In the case of mild AD the concentration of β-defensin 2 was lower (HBD-2 – 166,3 pg/ml. In breastmilk of mothers whose children had moderate AD the level of β-defensin-2 concentration was significantly lower than in the first group (HBD-2 – 71,2 pg/ml). Thus we can make a conclusion that the decrease of the β-defensin-2 concentration in the breastmilk can be one of prognostic criteria of more severe AD in infants and young children.</abstract_en>
+        <keywords_en>
+            <item>defensin</item>
+            <item>breastmilk</item>
+            <item>atopic dermatitis</item>
+            <item>innate immunity</item>
+        </keywords_en>
+    </Article>
+</journal>
